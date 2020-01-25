@@ -1,4 +1,4 @@
-# franklyzzm.github.io
+# [franklyzzm.github.io](https://franklyzzm.github.io/)
 
 there is a web about me and something i want to share.
 
