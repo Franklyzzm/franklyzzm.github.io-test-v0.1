@@ -1,7 +1,10 @@
 .DS_Store
-# private
-.idea
 #.gitignore
+
+# private
+
+.idea
+.obsidian
 
 *.jpg
 *.png
