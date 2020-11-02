@@ -163,7 +163,7 @@
 ## 其他 Other 
 
 * Virtual Box － 虛擬機
-* Parallels ($$) － mac虛擬機
+* 
 * TeamViewer － 遠程控制
 * Everything － 本地搜索
 * Listary － 搜索
@@ -178,6 +178,11 @@
 
 ## 收費軟件 fee
 
-* GraphPad Prism 8（$$）
-* 
+* GraphPad Prism 8（$$）－ 
+* Affinity Photo（$$）－ 
+* Affinity Design（$$）－ 
+* Adobe Photoshop（$$）－ 
+* Adobe Illustrator（$$）－ 
+* Final Cut Pro（$$）－ 
+* Parallels（$$）－ mac虛擬機
 
