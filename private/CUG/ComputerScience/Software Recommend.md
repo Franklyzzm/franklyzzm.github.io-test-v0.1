@@ -185,4 +185,5 @@
 * Adobe Illustrator（$$）－ 
 * Final Cut Pro（$$）－ 
 * Parallels（$$）－ mac虛擬機
+* C 4 D
 
