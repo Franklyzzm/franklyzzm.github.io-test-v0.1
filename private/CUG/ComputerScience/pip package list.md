@@ -1,12 +1,12 @@
-# pip package list
-
-numpy 
-
-​	gym
+# pypi package list
 
 
 
-scipy
+numpy -- 数学计算
 
-​	gym
+scipy -- 科学计算
+
+matplotlib -- 图像
+
+pandas -- 
 
