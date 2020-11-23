@@ -142,19 +142,21 @@
 
 ## 系統工具 System
 
-* [Rufus](https://rufus.akeo.ie/) - Rufus 是 Ubuntu 官网推荐的 USB 启动盘制作工具。
+* [Rufus](https://rufus.akeo.ie/) － Rufus 是 Ubuntu 官网推荐的 USB 启动盘制作工具。
 
-* [微PE工具箱](http://www.wepe.com.cn/) - 制作 U 盘启动盘 [荐]
+* [Etcher](https://www.balena.io/etcher/) － balenaEtcher USB 启动盘制作工具
+
+* [微PE工具箱](http://www.wepe.com.cn/) － 制作 U 盘启动盘 [荐]
 
     > 这款微 PE 的好处就是绝对纯净，没有任何的捆绑软件及主页，最重要的一点就是该工具绿色，没有软件安装过程，直接双击 exe 文件即可开始制作 U 盘启动盘。
 
-* [EasyBCD](https://neosmart.net/EasyBCD/) - 用于配置和调整系统引导问题
+* [EasyBCD](https://neosmart.net/EasyBCD/) － 用于配置和调整系统引导问题
 
-* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html#version-history) - 最权威的处理器和相关系统信息识别工具
+* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html#version-history) － 最权威的处理器和相关系统信息识别工具
 
-* GPU-Z - 最权威的顯卡和相关系统信息识别工具
+* GPU-Z － 最权威的顯卡和相关系统信息识别工具
 
-* ChipGenius - U 盘芯片檢測工具
+* ChipGenius － U 盘芯片檢測工具
 
 * SpaceSniffer － 磁盤空間使用
 
@@ -170,8 +172,8 @@
 * Flux － 亮度调节 护眼软件
 * Lantern － VPN
 * [蓝灯(Lantern)](https://github.com/getlantern/lantern) － VPN 有免费 500M 流量。
-* [光年VPN](https://www.lightyearvpn.com/) - 含两个免费节点。支持 Windows、MacOS。【目前可用，荐】
-* [TouchVPN](https://touchvpn.net/) - 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
+* [光年VPN](https://www.lightyearvpn.com/) － 含两个免费节点。支持 Windows、MacOS。【目前可用，荐】
+* [TouchVPN](https://touchvpn.net/) － 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
 * 
 
 
