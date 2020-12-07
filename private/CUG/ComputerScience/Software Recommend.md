@@ -107,8 +107,8 @@
 
 * GIMP
 * Inkscape
-* Blender
-* Krita
+* [Blender](https://www.blender.org/download/)([LTS](https://www.blender.org/download/lts/)) － 2D & 3D 圖形和動畫軟件
+* Krita － 2D 圖形和動畫軟件
 
 
 
@@ -142,6 +142,8 @@
 
 ## 系統工具 System
 
+* tree
+
 * [Rufus](https://rufus.akeo.ie/) － Rufus 是 Ubuntu 官网推荐的 USB 启动盘制作工具。
 
 * [Etcher](https://www.balena.io/etcher/) － balenaEtcher USB 启动盘制作工具
@@ -162,7 +164,7 @@
 
 
 
-## 其他 Other 
+## 其他 Other
 
 * Virtual Box － 虛擬機
 * 
