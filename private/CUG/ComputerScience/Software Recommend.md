@@ -81,8 +81,8 @@
 
 ## 網絡 Internet
 
-* Chrome （Mac/Win/Linux）
-* Firefox （Mac/Win/Linux）
+* Chrome （Mac/Win/Linux）谷歌瀏覽器
+* Firefox （Mac/Win/Linux）火狐瀏覽器
 * Internet Download Manager
 * Free Download Manager
 * µTorrent 
@@ -91,7 +91,7 @@
 
 **通訊**
 
-* Thunderbird （Mac/Win/Linux）
+* Thunderbird （Mac/Win/Linux）雷鳥
 * Signal （Mac/Win/Linux）
 * Telegram （Mac/Win/Linux）
 
@@ -114,7 +114,7 @@
 
 ## 影音處理 Audiovisual Processing
 
-* DaVinci Resolve （Mac/Win/Linux）
+* DaVinci Resolve （Mac/Win/Linux）－ 達芬奇
 * OBS Studio （Mac/Win/Linux）
 * Olive （Mac/Win/Linux）
 
@@ -156,7 +156,7 @@
 
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html#version-history) － 最权威的处理器和相关系统信息识别工具
 
-* GPU-Z － 最权威的顯卡和相关系统信息识别工具
+* [GPU-Z](https://www.techpowerup.com/gpuz/) - 最权威的顯卡和相关系统信息识别工具
 
 * ChipGenius － U 盘芯片檢測工具
 
@@ -173,7 +173,7 @@
 * Listary － 搜索
 * Flux － 亮度调节 护眼软件
 * [蓝灯(Lantern)](https://github.com/getlantern/lantern) － VPN 有免费 500M 流量。
-* [光年VPN](https://www.lightyearvpn.com/) － 含两个免费节点。支持 Windows、MacOS。【目前可用，荐】
+* [光年VPN](https://www.lightyearvpn.com/) － 含两个免费节点。支持 Windows、MacOS。
 * [TouchVPN](https://touchvpn.net/) － 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
 * 
 
