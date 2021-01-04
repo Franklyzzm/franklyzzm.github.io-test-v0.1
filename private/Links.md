@@ -106,8 +106,8 @@ NCBI
 
 * **G**NU **I**mage **M**anipulation **P**rogram (GIMP) 
 * Inkscape 
-* Blender 
-* Krita 
+* Blender － 2D & 3D 圖形和動畫軟件
+* Krita － 2D 圖形和動畫軟件
 
 #### 影音處理 Audiovisual Processing
 
@@ -133,9 +133,11 @@ NCBI
 
 #### 系統工具 System tools
 
-* [Rufus](https://rufus.akeo.ie/) - Rufus 是 Ubuntu 官网推荐的 USB 启动盘制作工具
+* tree 
 
-* Etcher － balenaEtcher USB 启动盘制作工具
+* [Rufus](https://rufus.akeo.ie/) － Rufus 是 Ubuntu 官网推荐的 USB 启动盘制作工具。
+
+* [Etcher](https://www.balena.io/etcher/) － balenaEtcher USB 启动盘制作工具
 
 * [微PE工具箱](https://www.wepe.com.cn/) - 制作 U 盘启动盘 [荐]
 
@@ -156,22 +158,15 @@ NCBI
 #### 其他 Other
 
 * Virtual Box － 虛擬機
-
 * Flux － 亮度调节 护眼软件
+* TeamViewer － 遠程控制
+* Everything － 本地搜索
+* Listary － 搜索
+* [蓝灯(Lantern)](https://github.com/getlantern/lantern) － VPN 有免费 500M 流量。
+* [光年VPN](https://www.lightyearvpn.com/) - 含两个免费节点。支持 Windows、MacOS。
+* [TouchVPN](https://touchvpn.net/) - 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
 
 * Parallels ($$) － mac虛擬機
-
-* TeamViewer － 遠程控制
-
-* Everything － 本地搜索
-
-* Listary － 搜索
-
-* [蓝灯(Lantern)](https://github.com/getlantern/lantern) － VPN 有免费 500M 流量。
-
-* [光年VPN](https://www.lightyearvpn.com/) - 含两个免费节点。支持 Windows、MacOS。
-
-* [TouchVPN](https://touchvpn.net/) - 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
 
 
 
