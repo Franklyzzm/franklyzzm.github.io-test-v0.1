@@ -32,21 +32,21 @@
 
 ## 文本編輯 Text Editor
 
-* Sublime Text
-* Notepad++
-* Typora
+* [Sublime Text](https://www.sublimetext.com/3) （Mac/Win/Linux）
+* [Notepad++](https://notepad-plus-plus.org/downloads/v7.8.8/) （~~Mac~~/Win/~~Linux~~）
+* [Typora](https://typora.io/#download) （Mac/Win/Linux）
 
-* Vim
+* Vim/vi
 * nano
 
 
 
 ## 辦公軟件 Office
 
-* LibreOffice
-* WPS Office
-* MS Office ($$)
-* iWork
+* [LibreOffice](https://www.libreoffice.org/download/download/) （Mac/Win/Linux/Pi）
+* [WPS Office](https://www.wps.com/download/) （Mac/Win/Linux）
+* MS Office ($$) （Mac/Win/~~Linux~~）
+* iWork （Mac/~~Win~~/~~Linux~~）
 
 
 
@@ -54,8 +54,8 @@
 
 * Latex-Texlive
 * Lyx
-* Mactex (mac)
-* Miktex (win)
+* Mactex （Mac/~~Win~~/~~Linux~~）
+* Miktex （~~Mac~~/Win/~~Linux~~）
 
 
 
@@ -81,58 +81,58 @@
 
 ## 網絡 Internet
 
-* Chrome
-* Firefox
+* Chrome （Mac/Win/Linux）
+* Firefox （Mac/Win/Linux）
 * Internet Download Manager
 * Free Download Manager
-* µTorrent
-* Resilio sync
-* FileZilla
+* µTorrent 
+* Resilio sync （Mac/Win/Linux）
+* FileZilla （Mac/Win/Linux）
 
 **通訊**
 
-* Thunderbird
-* Signal
-* Telegram
+* Thunderbird （Mac/Win/Linux）
+* Signal （Mac/Win/Linux）
+* Telegram （Mac/Win/Linux）
 
 
 
 ## 多媒體 Multimedia
 
-* VLC
+* VLC （Mac/Win/Linux）
 
 
 
 ## 圖形與設計 Photo & Design
 
-* GIMP
-* Inkscape
-* [Blender](https://www.blender.org/download/)([LTS](https://www.blender.org/download/lts/)) － 2D & 3D 圖形和動畫軟件
-* Krita － 2D 圖形和動畫軟件
+* GIMP （Mac/Win/Linux）
+* Inkscape （Mac/Win/Linux）
+* [Blender](https://www.blender.org/download/)([LTS](https://www.blender.org/download/lts/)) （Mac/Win/Linux）－ 2D & 3D 圖形和動畫軟件
+* Krita （Mac/Win/Linux）－ 2D 圖形和動畫軟件
 
 
 
 ## 影音處理 Audiovisual Processing
 
-* DaVinci Resolve
-* OBS Studio
-* Olive
+* DaVinci Resolve （Mac/Win/Linux）
+* OBS Studio （Mac/Win/Linux）
+* Olive （Mac/Win/Linux）
 
 
 
 ## 密碼安全 
 
-* KeepassXC － 密碼管理
-* GnuPG － 
+* KeepassXC （Mac/Win/Linux）－ 密碼管理
+* GnuPG （Mac/Win/Linux）－ 
 
 
 
 ## 學術 Acade
 
-* Mathpix
-* CopyTranslator
-* Zotero
-* Fritzing
+* Mathpix 
+* CopyTranslator 
+* Zotero 
+* Fritzing 
 
 
 
@@ -142,7 +142,7 @@
 
 ## 系統工具 System
 
-* tree
+* tree 
 
 * [Rufus](https://rufus.akeo.ie/) － Rufus 是 Ubuntu 官网推荐的 USB 启动盘制作工具。
 
@@ -166,13 +166,12 @@
 
 ## 其他 Other
 
-* Virtual Box － 虛擬機
+* Virtual Box （Mac/Win/Linux）－ 虛擬機
 * 
-* TeamViewer － 遠程控制
+* TeamViewer （Mac/Win/Linux）－ 遠程控制
 * Everything － 本地搜索
 * Listary － 搜索
 * Flux － 亮度调节 护眼软件
-* Lantern － VPN
 * [蓝灯(Lantern)](https://github.com/getlantern/lantern) － VPN 有免费 500M 流量。
 * [光年VPN](https://www.lightyearvpn.com/) － 含两个免费节点。支持 Windows、MacOS。【目前可用，荐】
 * [TouchVPN](https://touchvpn.net/) － 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
