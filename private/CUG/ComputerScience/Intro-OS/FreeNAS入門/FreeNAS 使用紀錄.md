@@ -7,6 +7,9 @@
 1. 下載鏡像文件 
     下載地址：https://www.freenas.org/download-freenas-release/
 
+    * [FreeNAS 11.3-U5](https://download.freenas.org/11.3/STABLE/U5/x64/FreeNAS-11.3-U5.iso)
+    * [TrueNAS CORE 12.0-U1](https://download.freenas.org/12.0/STABLE/U1/x64/TrueNAS-12.0-U1.iso)
+    
 2. 準備 2 個 U盤
     甲、用於製作安裝盤（下稱 **安裝盤甲**，工具） 
     乙、為 FreeNAS 系統的安裝位置，（有多餘的硬盤，也可安裝在硬盤上，即可省去 U 盤，無論 U 盤或硬盤，下稱 **系統盤乙**）
