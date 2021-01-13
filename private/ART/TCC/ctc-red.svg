@@ -28,8 +28,11 @@
 			<tspan x="1" y="120" font-family="Times">red</tspan>
 		</text>
 
-		<text x="64" y="50" style="writing-mode: tb;fill:white;font-family:STXingkai;font-size:14">
+		<text id="name" x="64" y="50" style="writing-mode: tb;fill:white;font-family:STXingkai;font-size:14">
 			红色
+		</text>
+		<text id="诗句" x="124" y="0" style="writing-mode: tb;fill:white;font-family:STXingkai;font-size:9">
+			红色诗句
 		</text>
 	</g>
 	
