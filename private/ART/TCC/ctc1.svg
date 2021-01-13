@@ -31,6 +31,9 @@
 		<text x="10" y="20" style="writing-mode: tb;fill:blue;font-family:STXingkai;font-size:12">
 			竖排文本中国传统颜色
 		</text>
+		<text id="诗句" x="124" y="0" style="writing-mode: tb;fill:white;font-family:STXingkai;font-size:9">
+			诗句
+		</text>
 	</g>
 	
 	
