@@ -41,7 +41,31 @@ Nature
 
 NCBI
 
+[CDC](https://www.cdc.gov/mmwr/Novel_Coronavirus_Reports.html)
 
+[NEJM](https://www.nejm.org/coronavirus)
+
+[JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert)
+
+[Lancet](https://www.thelancet.com/coronavirus)
+
+[Cell](https://www.cell.com/2019-nCOV)
+
+[BMJ](https://www.bmj.com/coronavirus)
+
+[Nature](https://www.nature.com/collections/hajgidghjb)
+
+[Science](https://www.sciencemag.org/collections/coronavirus)
+
+[Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
+
+[Oxford](https://academic.oup.com/journals/pages/coronavirus)
+
+[Wiley](https://novel-coronavirus.onlinelibrary.wiley.com/)
+
+[medRxiv](http://connect.medrxiv.org/relate/content/181)
+
+**Stand on the shoulders of giants**
 
 ### 軟件 Software
 
@@ -59,13 +83,13 @@ NCBI
 * LibreOffice
 * WPS Office
 * MS Office ($$)
-* iWork(mac)
+* iWork（Mac）
 
 #### 文檔編輯排版 Document
 
 * Latex-Texlive
 * Lyx
-* mactex(mac)
+* mactex（Mac）
 * Miktex(win)
 
 #### 筆記 Notebook
