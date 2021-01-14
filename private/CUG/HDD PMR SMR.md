@@ -5,6 +5,7 @@
 硬盘记录技术
 
 * PMR 垂直式记录技术（Perpendicular Magnetic Recording）（優選）
+* CMR 传统记录技术
 * SMR 叠瓦式记录技术（Shingled Magneting Recording）
 
 ## HDD Manufacturer
