@@ -33,3 +33,19 @@
 
 [koolsharemeilinv7](https://koolshare.cn/forum.php?mod=viewthread&tid=164857)
 
+
+
+
+
+
+
+动态域名（DDNS）与端口转发
+
+动态域名服务器 www.asus.com
+
+[hostname].asuscomm.com
+
+端口转发
+
+[hostname].asuscomm.com:[端口号]
+
