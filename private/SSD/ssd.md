@@ -20,8 +20,16 @@
 
 
 
+### KeepassX
+
+* What is  
+* How to: Use KeepassX 
+* Using Password managers to stay safe online
+* Creating Strong Passwords
+
 ### PGP
 
+* What is PGP? & Why should you use PGP?
 * How to: Use PGP for macOS
 * How to: Use PGP for Windows
 * How to: Use PGP for Linux
