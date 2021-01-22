@@ -16,7 +16,9 @@ sudo apt update
 
 sudo apt upgrade
 
-install vim net-tools
+install vim net-tools vlc
+
+
 
 
 
