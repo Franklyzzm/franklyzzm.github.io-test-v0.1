@@ -56,6 +56,7 @@
 * Lyx
 * Mactex （Mac/~~Win~~/~~Linux~~）
 * Miktex （~~Mac~~/Win/~~Linux~~）
+* Scribus
 
 
 
@@ -109,6 +110,9 @@
 * Inkscape （Mac/Win/Linux）
 * [Blender](https://www.blender.org/download/)([LTS](https://www.blender.org/download/lts/)) （Mac/Win/Linux）－ 2D & 3D 圖形和動畫軟件
 * Krita （Mac/Win/Linux）－ 2D 圖形和動畫軟件
+* PikoPixel
+* Darktable
+* Shotwell
 
 
 
@@ -117,6 +121,13 @@
 * DaVinci Resolve （Mac/Win/Linux）－ 達芬奇
 * OBS Studio （Mac/Win/Linux）
 * Olive （Mac/Win/Linux）
+* Jack(audio)
+* Ardour(audio)
+* Carla(audio)
+* Sequencers and Synthesizers(audio)
+* Openshot
+* FFMPEG
+* 
 
 
 
@@ -131,8 +142,9 @@
 
 * Mathpix 
 * CopyTranslator 
-* Zotero 
+* Zotero　—　Your personal research assistant
 * Fritzing 
+* GNU Octave
 
 
 
@@ -188,5 +200,6 @@
 * Adobe Illustrator（$$）－ 
 * Final Cut Pro（$$）－ 
 * Parallels（$$）－ mac虛擬機
+* Master PDF Editor（$$）－ 
 * C 4 D
 
