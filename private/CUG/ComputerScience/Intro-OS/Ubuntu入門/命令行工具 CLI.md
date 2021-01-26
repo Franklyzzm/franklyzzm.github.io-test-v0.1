@@ -1,6 +1,11 @@
 # 命令行工具 CLI
 
-## 一、apt-get（apt）的基本使用
+[TOC]
+
+## 一、sudo 
+
+## 二、apt-get（apt）的基本使用
+
 1、安装软件 
 apt-get（apt） install softname1 softname2...
 2、卸载软件 
@@ -18,7 +23,7 @@ apt-cache show sofname1（获取如说明、大小、版本等）
 8、搜索软件包 
 apt-cache search softname1 softname2...
 
-## 二、dpkg的基本使用
+## 三、dpkg的基本使用
 1、安装软件 
 dpkg -i xxx.deb （dpkg -i /share/google-chrome-stable_current_amd64.deb）
 注意：如果通过dpkg –i安装软件后由于依赖关系没有安装成功,可通过apt-get –f install解决
