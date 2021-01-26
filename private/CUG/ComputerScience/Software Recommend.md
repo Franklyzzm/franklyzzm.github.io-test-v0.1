@@ -112,7 +112,6 @@
 * Krita （Mac/Win/Linux）－ 2D 圖形和動畫軟件
 * PikoPixel
 * Darktable
-* Shotwell
 
 
 
