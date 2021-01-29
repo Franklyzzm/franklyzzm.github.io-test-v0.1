@@ -7,7 +7,7 @@
 
 ~$*
 
-*.jpg
-*.png
+#*.jpg
+#*.png
 */byr.html
-*/BooK/欽定古今圖書集成/*
+#*/BooK/欽定古今圖書集成/*
