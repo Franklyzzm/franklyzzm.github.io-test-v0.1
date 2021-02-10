@@ -82,8 +82,6 @@
 
 ## 網絡 Internet
 
-* Chrome （Mac/Win/Linux）谷歌瀏覽器
-* Firefox （Mac/Win/Linux）火狐瀏覽器
 * Internet Download Manager
 * Free Download Manager
 * µTorrent 
@@ -92,7 +90,17 @@
 
 **通訊**
 
-* Thunderbird （Mac/Win/Linux）雷鳥
+* Thunderbird （Mac/Win/Linux）雷鳥邮件客户端
+
+
+
+### 浏览器 browser
+
+* Chrome （Mac/Win/Linux）谷歌瀏覽器
+* Firefox （Mac/Win/Linux）火狐瀏覽器
+
+### 即时通讯 
+
 * Signal （Mac/Win/Linux）
 * Telegram （Mac/Win/Linux）
 
@@ -117,16 +125,26 @@
 
 ## 影音處理 Audiovisual Processing
 
+### 视频编辑
+
 * DaVinci Resolve （Mac/Win/Linux）－ 達芬奇
 * OBS Studio （Mac/Win/Linux）
 * Olive （Mac/Win/Linux）
+
+### 音频编辑
+
+* Audacity
 * Jack(audio)
 * Ardour(audio)
 * Carla(audio)
 * Sequencers and Synthesizers(audio)
 * Openshot
 * FFMPEG
-* 
+* Audacity
+    Ardour
+    Traverso DAW
+     Qtractor
+    Mixxx
 
 
 
