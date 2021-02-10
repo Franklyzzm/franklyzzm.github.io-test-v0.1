@@ -9,14 +9,14 @@
 * sina
 * qq
 
-| 商家          | ping  | 丢失 |
-| ------------- | ----- | ---- |
-| mail.163.com  | 411ms | 50%  |
-| mail.sina.com | 36ms  | 0%   |
-| mail.qq.com   | 7ms   | 0%   |
-| mail.139.com  | --    | 100% |
-| mail.wo.cn    | --    | 100% |
-| mail.189.cn   | --    | 100% |
+| 商家          | ping  | 丢失 | 网页       |
+| ------------- | ----- | ---- | ---------- |
+| mail.163.com  | 411ms | 50%  | 1min打不开 |
+| mail.sina.com | 36ms  | 0%   | 5s         |
+| mail.qq.com   | 7ms   | 0%   | 10s        |
+| mail.139.com  | --    | 100% | 3s         |
+| mail.wo.cn    | --    | 100% |            |
+| mail.189.cn   | --    | 100% |            |
 
 
 
