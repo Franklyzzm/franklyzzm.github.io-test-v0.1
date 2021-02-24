@@ -1,8 +1,24 @@
 Mac 入門
 ===
 
-Introduce to Macintosh
+麦金塔介绍 Introduce to Macintosh
 ---
+
+首先浏览一遍下面三个文档，对其有个简要的了解与认识。
+
+### What‘s New
+
+* macOS Big Sur [中文](https://help.apple.com/macos/big-sur/whats-new/?lang=zh_cn) [EN](https://help.apple.com/macos/big-sur/whats-new/)
+
+### Mac 基本概要 Mac Basics
+
+* macOS Big Sur [中文](https://help.apple.com/macos/big-sur/mac-basics/?lang=zh_cn)  [EN](https://help.apple.com/macos/big-sur/mac-basics/)
+
+### 使用手册 User Guide
+
+* macOS Big Sur [中文](https://support.apple.com/zh-cn/guide/mac-help/welcome/mac)  [EN](https://support.apple.com/guide/mac-help/welcome/mac)
+
+打开“系统偏好设置”，详细浏览各个功能，不必全懂，但求有所了解，方便以后使用。
 
 ## 系統偏好設置
 
@@ -25,6 +41,8 @@ Introduce to Macintosh
 
 ### 觸控板
 
+多指触控（建议牢记，方便操作）
+
 ### App Store
 
 ### 共享
@@ -34,6 +52,8 @@ Introduce to Macintosh
 ### 日期與時間
 
 ### 時間機器
+
+备份
 
 ### 輔助功能
 
@@ -65,12 +85,18 @@ Introduce to Macintosh
 
 ### 自帶 隨附
 
-* Pages
-* Numbers
-* Keynote
+日常办公娱乐，最常用最好用的软件
+
+* Pages（文档编辑）
+* Numbers（表格编辑）
+* Keynote（演示文稿）
+* Safari（浏览器）
 * 辭典
+* 预览
 * 終端
 * 文本編輯
+
+以下为需要自己下载安装软件，可根据需要自行下载安装。
 
 ### 文本編輯 Text Editor
 
@@ -99,6 +125,7 @@ Introduce to Macintosh
 ### 網絡 Internet
 
 * Chrome
+* MS Edge
 * Firefox
 * Thunderbird
 * Resilio sync
@@ -122,7 +149,7 @@ Introduce to Macintosh
 
 * DaVinci Resolve
 * OBS Studio
-* Garage Band
+* GarageBand（自带）
 
 ### 密碼安全
 
@@ -133,7 +160,7 @@ Introduce to Macintosh
 
 * pycharm
 * python
-* Xcode
+* Xcode（apple）
 * GitHub Desktop
 
 ### 其他 Other
