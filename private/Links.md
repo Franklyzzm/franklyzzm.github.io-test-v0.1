@@ -5,11 +5,11 @@
 | 搜索     | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [搜狗](https://www.sogou.com) | [微信](https://weixin.sogou.com) |  | 工具     | [火車票](https://www.12306.cn) | [高德地圖](https://ditu.amap.com) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) |  |
 | -------- | :------: | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | **搜索** | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [搜狗](https://www.sogou.com) | [微信](https://weixin.sogou.com) | [ 维基百科](https://wikipedia.org) | **工具** | [火車票](https://www.12306.cn) | [高德地圖](https://ditu.amap.com) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) | [谷歌學術](https://scholar.google.com) |
-| **購物** | [京東](https://www.jd.com)     | [淘寶](https://www.taobao.com) | [當當](https://www.dangdang.com)  | [亞馬遜](https://www.amazon.com) | [1688](https://www.1688.com)         | **郵箱** | [谷歌郵箱](https://mail.google.com) | [雅虎郵箱](https://mail.yahoo.com) | [ 新浪郵箱](https://mail.163.com)                        | [騰訊郵箱](https://mail.qq.com)         | [139 郵箱](https://mail.139.com)       |
+| **購物** | [京東](https://www.jd.com)     | [淘寶](https://www.taobao.com) | [當當](https://www.dangdang.com)  | [亞馬遜](https://www.amazon.com) | [1688](https://www.1688.com)         | **郵箱** | [谷歌郵箱](https://mail.google.com) | [雅虎郵箱](https://mail.yahoo.com) | [新浪郵箱](https://mail.163.com)                        | [騰訊郵箱](https://mail.qq.com)         | [139 郵箱](https://mail.139.com)       |
 | **影音** | [央視](https://tv.cctv.com/live) | [B 站](https://www.bilibili.com) | [咪咕音樂](https://music.migu.cn) | [QQ音樂](https://y.qq.com)       |  | **追劇** | [人人影視](https://www.rrys.tv) | [愛奇藝](https://www.iqiyi.com) | [優酷](https://www.youku.com) |  | [質子郵箱](https://www.protonmail.com) |
-| **其他** | [知乎](https://www.zhihu.com) | [豆瓣](https://www.douban.com) |  | [微博](https://www.weibo.com) | [微信網頁版](https://web.wechat.com) | **無名** | [漢典](https://www.zdic.net/) | [北郵人導航](https://byr.wiki) | [科學上網](https://github.com/byrwiki/byrwiki/issues/13) | [今日熱榜](https://tophub.today/) |  |
-| **推薦** | [中圖網](https://www.bookschina.com) |      |            |      |  |          | [國務院](https://www.gov.cn) | [國圖](https://www.nlc.cn/) | [中國知網](https://cnki.net/) | [學習强國](https://www.xuexi.cn) | [NCBI](https://www.ncbi.nlm.nih.gov/) |
-|          |                                |      |            |      |  |          | [东方财富](https://www.eastmoney.com/) | [同花顺](http://www.10jqka.com.cn/) |          |          |  |
+| **其他** | [知乎](https://www.zhihu.com) | [豆瓣](https://www.douban.com) | [微博](https://www.weibo.com) | [微信網頁版](https://web.wechat.com) |                                    | **無名** | [漢典](https://www.zdic.net/) | [北郵人導航](https://byr.wiki) | [科學上網](https://github.com/byrwiki/byrwiki/issues/13) | [今日熱榜](https://tophub.today/) |  |
+| **推薦** | [國務院](https://www.gov.cn) | [中圖網](https://www.bookschina.com) |  |                                      |                                    |          | [學習强國](https://www.xuexi.cn) |                                     | [國圖](https://www.nlc.cn/)                              | [中國知網](https://cnki.net/) | [NCBI](https://www.ncbi.nlm.nih.gov/) |
+|          |                                |      |            |      |  | **财经** | [东方财富](https://www.eastmoney.com/) | [同花顺](http://www.10jqka.com.cn/) |          |          |  |
 
 ㄅB ㄆP ㄇM ㄈF ㄉD ㄊT ㄋN ㄌL ㄍG ㄎK ㄏH ㄐJ ㄑQ ㄒX ㄓZH ㄔCH ㄕSH ㄖR ㄗZ ㄘC ㄙS 
 
@@ -81,6 +81,8 @@ NCBI
 
 **Stand on the shoulders of giants**
 
+
+
 ### 軟件 Software
 
 #### 文本編輯 Text Editor
@@ -142,7 +144,7 @@ NCBI
 
 #### 圖形與設計 Photo & Design
 
-* **G**NU **I**mage **M**anipulation **P**rogram (GIMP) 
+* **G**NU **I**mage **M**anipulation **P**rogram (**GIMP**) 
 * Inkscape 
 * Blender － 2D & 3D 圖形和動畫軟件
 * Krita － 2D 圖形和動畫軟件
@@ -215,6 +217,8 @@ Thermo Fisher
 Corning
 
 Ge Life
+
+BD
 
 
 
