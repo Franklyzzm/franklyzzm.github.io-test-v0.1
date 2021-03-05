@@ -15,7 +15,7 @@
 
 ㄚA ㄛO ㄜE ㄝEH ㄞAI ㄟEI ㄠAU ㄡOU ㄢAN ㄣEN ㄤANG ㄥENG ㄦER ㄧI ㄨU ㄩIU ㄪV ㄫNG ㄬGN
 
-[A](#Aa) [B](#Bb) [C](#Cc) [D](#Dd) [E](#Ee) [F](#Ff) [G](#Gg) H I J K L [M](#Mm) N O P Q R [S](#Ss) T U [V](#Vv) W X Y Z
+[A](#Aa) [B](#Bb) [C](#Cc) [D](#Dd) [E](#Ee) [F](#Ff) [G](#Gg) [H](#Hh) [I](#Ii) [J](#Jj) [K](#Kk) [L](#Ll) [M](#Mm) [N](#Nn) [O](#Oo) [P](#Pp) [Q](#Qq) [R](#Rr) [S](#Ss) [T](#Tt) [U](#Uu) [V](#Vv) [W](#Ww) [X](#Xx) [Y](#Yy) [Z](#Zz)
 
 ## 分類 ClASS
 
@@ -26,11 +26,8 @@
 ### 學習 Study
 
 [中國國家圖書館](https://www.nlc.cn/)
-
 [中國知網](https://cnki.net/)
-
 [漢典](https://www.zdic.net/)
-
 [中國大學慕課MOOC](https://www.icourse163.org/)
 
 
@@ -38,11 +35,8 @@
 ### 影音
 
 [云听](http://www.radio.cn/)
-
 [咪咕音樂](https://music.migu.cn)
-
 [央視直播](https://tv.cctv.com/live)
-
 [哔哩哔哩](https://www.bilibili.com)
 
 
@@ -50,33 +44,19 @@
 ### 科研 Science
 
 Science
-
 Nature
-
 NCBI
-
 [CDC](https://www.cdc.gov/mmwr/Novel_Coronavirus_Reports.html)
-
 [NEJM](https://www.nejm.org/coronavirus)
-
 [JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert)
-
 [Lancet](https://www.thelancet.com/coronavirus)
-
 [Cell](https://www.cell.com/2019-nCOV)
-
 [BMJ](https://www.bmj.com/coronavirus)
-
 [Nature](https://www.nature.com/collections/hajgidghjb)
-
 [Science](https://www.sciencemag.org/collections/coronavirus)
-
 [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
-
 [Oxford](https://academic.oup.com/journals/pages/coronavirus)
-
 [Wiley](https://novel-coronavirus.onlinelibrary.wiley.com/)
-
 [medRxiv](http://connect.medrxiv.org/relate/content/181)
 
 **Stand on the shoulders of giants**
@@ -90,7 +70,6 @@ NCBI
 * Sublime Text
 * Notepad++
 * Typora
-
 * Vim
 * nano
 
@@ -173,24 +152,17 @@ NCBI
 
 #### 系統工具 System tools
 
-* tree 
-
+* tree － 目录结构
 * [Rufus](https://rufus.akeo.ie/) － Rufus 是 Ubuntu 官网推荐的 USB 启动盘制作工具。
-
 * [Etcher](https://www.balena.io/etcher/) － balenaEtcher USB 启动盘制作工具
-
-* [微PE工具箱](https://www.wepe.com.cn/) - 制作 U 盘启动盘 [荐]
+* [微PE工具箱](https://www.wepe.com.cn/) － 制作 U 盘启动盘 [荐]
 
   > 这款微 PE 的好处就是绝对纯净，没有任何的捆绑软件及主页，最重要的一点就是该工具绿色，没有软件安装过程，直接双击 exe 文件即可开始制作 U 盘启动盘。
 
-* [EasyBCD](https://neosmart.net/EasyBCD/) - 用于配置和调整系统引导问题
-
-* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html#version-history) - 最权威的处理器和相关系统信息识别工具
-
-* [GPU-Z](https://www.techpowerup.com/gpuz/) - 最权威的顯卡和相关系统信息识别工具
-
-* ChipGenius - U 盘芯片檢測工具
-
+* [EasyBCD](https://neosmart.net/EasyBCD/) － 用于配置和调整系统引导问题
+* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html#version-history) － 最权威的处理器和相关系统信息识别工具
+* [GPU-Z](https://www.techpowerup.com/gpuz/) － 最权威的顯卡和相关系统信息识别工具
+* ChipGenius － U 盘芯片檢測工具
 * SpaceSniffer － 磁盤空間使用
 
 
@@ -203,9 +175,8 @@ NCBI
 * Everything － 本地搜索
 * Listary － 搜索
 * [蓝灯(Lantern)](https://github.com/getlantern/lantern) － VPN 有免费 500M 流量。
-* [光年VPN](https://www.lightyearvpn.com/) - 含两个免费节点。支持 Windows、MacOS。
-* [TouchVPN](https://touchvpn.net/) - 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
-
+* [光年VPN](https://www.lightyearvpn.com/) － 含两个免费节点。支持 Windows、MacOS。
+* [TouchVPN](https://touchvpn.net/) － 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
 * Parallels ($$) － mac虛擬機
 
 
@@ -213,11 +184,8 @@ NCBI
 ### 商家 Enterprise
 
 Thermo Fisher
-
 Corning
-
 Ge Life
-
 BD
 
 
@@ -225,14 +193,13 @@ BD
 ### Personal Homepage
 
 [Min Wiki Blog](https://franklyzzm.github.io) / [source](https://github.com/Franklyzzm/franklyzzm.github.io)
-
 [Xupengpv](https://xupengpv.github.io) / [source](https://github.com/xupengpv/xupengpv.github.io)
 
 
 
 ## 索引 INDEX A-Z
 
-### <a name="Aa"></a>A
+### <a name="Aa">A</a>
 
 ### B
 
@@ -243,7 +210,6 @@ BD
 ### C
 
 [Calibre](https://calibre-ebook.com/)
-
 [CopyTranslator](https://copytranslator.github.io/)
 
 
@@ -251,9 +217,7 @@ BD
 ### D
 
 [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
-
 [Deepin](https://deepin.org)
-
 [Diamond-ant](https://diamond-ant.co.jp/)
 
 
@@ -261,7 +225,6 @@ BD
 ### E
 
 [Everything](https://www.voidtools.com/)
-
 [Etcher](https://www.balena.io/etcher/)
 
 
@@ -269,29 +232,20 @@ BD
 ### F
 
 [FreeBSD](https://freebsd.org)
-
 [FreeNAS](https://www.freenas.org/)
-
 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-
 [Flux](https://justgetflux.com/)
-
 [Free Download Manager(FDM)](https://www.freedownloadmanager.org/)
 
 
 
-### <a name="Gg"></a>G
+### <a name="Gg">G</a>
 
 [GIMP](https://www.gimp.org/)
-
 [GitHub](https://www.github.com)
-
 [GoldenDict](https://www.goldendict.org/)
-
 [Google Chrome](https://www.google.com/chrome/index.html)
-
 [GnuPG](https://gnupg.org)
-
 [Gpg4win](https://gpg4win.org/)
 
 
@@ -299,7 +253,6 @@ BD
 ### H
 
 [HomeBank](https://homebank.free.fr)
-
 [漢典](https://www.zdic.net/)
 
 
@@ -307,9 +260,7 @@ BD
 ### I
 
 [Inkscape](https://inkscape.org)
-
 [Icom America](https://www.icomamerica.com/en/amateur/)
-
 [Internet Download Manager(IDM)](https://www.internetdownloadmanager.com/)
 
 
@@ -323,9 +274,7 @@ BD
 ### K
 
 [Kali Linux](https://www.kali.org/)
-
 [KeepassXC](https://keepassxc.org/)
-
 [Krita](https://krita.org/)
 
 
@@ -333,31 +282,21 @@ BD
 ### L
 
 [LibreOffice](https://libreoffice.org)
-
 [LaTeX](https://www.latex-project.org/)
-
 [Lantern](https://github.com/getlantern/lantern/releases)
-
 [Listary](https://www.listary.com/)
 
 
 
-### <a name="Mm"></a>M
+### <a name="Mm">M</a>
 
 [MacTeX](https://www.tug.org/mactex/)
-
 [MacDown](https://macdown.uranusjr.com/)
-
 [Min Wiki Blog](https://franklyzzm.github.io) / [source](https://github.com/Franklyzzm/franklyzzm.github.io)
-
 [MiKTeX](https://miktex.org/)
-
 [MindMaster](https://www.edrawsoft.cn/mindmaster/)
-
 [Morse Code](https://en.wikipedia.org/wiki/Morse_code)
-
 [MkDocs](https://www.mkdocs.org/)
-
 [Mathpix Snip](https://mathpix.com/)
 
 
@@ -365,9 +304,7 @@ BD
 ### N
 
 [nano](https://www.nano-editor.org/)
-
 [NCBI](https://www.ncbi.nlm.nih.gov)
-
 [Notepad++](https://notepad-plus-plus.org/)
 
 
@@ -375,9 +312,7 @@ BD
 ### O
 
 [OneNote](https://www.onenote.com/)
-
 [OBS Studio](https://obsproject.com/)
-
 [Olive](https://www.olivevideoeditor.org/)
 
 
@@ -385,9 +320,7 @@ BD
 ### P
 
 [Parrot Security OS](https://www.parrotsec.org/)
-
 [ProtonMail](https://protonmail.com)
-
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed)
 
 
@@ -397,23 +330,17 @@ BD
 ### R
 
 [Resilio Sync](https://www.resilio.com/individuals/)
-
 [Rufus](https://rufus.ie/)
 
 
 
-### <a name="Ss"></a>S
+### <a name="Ss">S</a>
 
 [SCI-HUB](https://sci-hub.uno/)
-
 [SimpleNote](https://simplenote.com/)
-
 [Sublime Text](https://www.sublimetext.com/)
-
 [Signal](https://signal.org)
-
 [SpaceSniffer](https://www.uderzo.it/) 
-
 [Stellarium](https://stellarium.org/)
 
 
@@ -421,11 +348,8 @@ BD
 ### T
 
 [Typora](https://typora.io)
-
 [Thunderbird](https://www.thunderbird.net/)
-
 [TeamViewer](https://www.teamviewer.com/en/)
-
 [Telegram](https://telegram.org/)
 
 
@@ -436,12 +360,10 @@ BD
 
 
 
-### <a name="Vv"></a>V
+### <a name="Vv">V</a>
 
 [VLC](https://videolan.org)
-
 [Virtual Box](https://www.virtualbox.org/)
-
 [Vim](https://www.vim.org/)
 
 
@@ -449,7 +371,6 @@ BD
 ### W
 
 [Wikipedia](https://www.wikipedia.org)
-
 [WPS](https://wps.com) （[CN](https://wps.cn)）
 
 
@@ -469,9 +390,7 @@ BD
 ### Z
 
 [Zotero](https://www.zotero.org/)
-
 [中國國家圖書館](https://www.nlc.cn/)
-
 [中國知網](https://cnki.net/)
 
 
@@ -484,7 +403,4 @@ BD
 
 
 
- 
-
 [About Us]() [Contact Us]() [Sitemap]() [Disclaimer]() [Privacy Policy]() [Terms of Use]() [Mail to Admin](mailto:franklyzzm@yahoo.com) [Links](https://franklyzzm.github.io/links.html) 
-
