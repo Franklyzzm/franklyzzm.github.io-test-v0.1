@@ -201,20 +201,20 @@ BD
 
 ### <a name="Aa">A</a>
 
-### B
+### <a name="Bb">B</a>
 
 [Blender](https://blender.org)
 
 
 
-### C
+### <a name="Cc">C</a>
 
 [Calibre](https://calibre-ebook.com/)
 [CopyTranslator](https://copytranslator.github.io/)
 
 
 
-### D
+### <a name="Dd">D</a>
 
 [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 [Deepin](https://deepin.org)
@@ -222,14 +222,14 @@ BD
 
 
 
-### E
+### <a name="Ee">E</a>
 
 [Everything](https://www.voidtools.com/)
 [Etcher](https://www.balena.io/etcher/)
 
 
 
-### F
+### <a name="Ff">F</a>
 
 [FreeBSD](https://freebsd.org)
 [FreeNAS](https://www.freenas.org/)
@@ -250,14 +250,14 @@ BD
 
 
 
-### H
+### <a name="Hh">H</a>
 
 [HomeBank](https://homebank.free.fr)
 [漢典](https://www.zdic.net/)
 
 
 
-### I
+### <a name="Ii">I</a>
 
 [Inkscape](https://inkscape.org)
 [Icom America](https://www.icomamerica.com/en/amateur/)
@@ -265,13 +265,13 @@ BD
 
 
 
-### J
+### <a name="Jj">J</a>
 
 [Just Learn Morse Code](https://www.justlearnmorsecode.com/)
 
 
 
-### K
+### <a name="Kk">K</a>
 
 [Kali Linux](https://www.kali.org/)
 [KeepassXC](https://keepassxc.org/)
@@ -279,7 +279,7 @@ BD
 
 
 
-### L
+### <a name="Ll">L</a>
 
 [LibreOffice](https://libreoffice.org)
 [LaTeX](https://www.latex-project.org/)
@@ -301,7 +301,7 @@ BD
 
 
 
-### N
+### <a name="Nn">N</a>
 
 [nano](https://www.nano-editor.org/)
 [NCBI](https://www.ncbi.nlm.nih.gov)
@@ -309,7 +309,7 @@ BD
 
 
 
-### O
+### <a name="Oo">O</a>
 
 [OneNote](https://www.onenote.com/)
 [OBS Studio](https://obsproject.com/)
@@ -317,7 +317,7 @@ BD
 
 
 
-### P
+### <a name="Pp">P</a>
 
 [Parrot Security OS](https://www.parrotsec.org/)
 [ProtonMail](https://protonmail.com)
@@ -325,9 +325,9 @@ BD
 
 
 
-### Q
+### <a name="Qq">Q</a>
 
-### R
+### <a name="Rr">R</a>
 
 [Resilio Sync](https://www.resilio.com/individuals/)
 [Rufus](https://rufus.ie/)
@@ -345,7 +345,7 @@ BD
 
 
 
-### T
+### <a name="Tt">T</a>
 
 [Typora](https://typora.io)
 [Thunderbird](https://www.thunderbird.net/)
@@ -354,7 +354,7 @@ BD
 
 
 
-### U
+### <a name="Uu">U</a>
 
 [Ubuntu](https://ubuntu.com)
 
@@ -368,26 +368,26 @@ BD
 
 
 
-### W
+### <a name="Ww">W</a>
 
 [Wikipedia](https://www.wikipedia.org)
 [WPS](https://wps.com) （[CN](https://wps.cn)）
 
 
 
-### X
+### <a name="Xx">X</a>
 
 [Xupengpv](https://xupengpv.github.io) / [source](https://github.com/xupengpv/xupengpv.github.io)
 
 
 
-### Y
+### <a name="Yy">Y</a>
 
 [YAESU](https://yaesu.com/)
 
 
 
-### Z
+### <a name="Zz">Z</a>
 
 [Zotero](https://www.zotero.org/)
 [中國國家圖書館](https://www.nlc.cn/)
