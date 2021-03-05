@@ -15,7 +15,7 @@
 
 ㄚA ㄛO ㄜE ㄝEH ㄞAI ㄟEI ㄠAU ㄡOU ㄢAN ㄣEN ㄤANG ㄥENG ㄦER ㄧI ㄨU ㄩIU ㄪV ㄫNG ㄬGN
 
-[A](links.html#Aa) [B](#Bb) [C](#Cc) [D](#Dd) [E](#Ee) [F](#Ff) [G](links.html#Gg) H I J K L [M](#Mm) N O P Q R [S](#Ss) T U [V](#Vv) W X Y Z
+[A](#Aa) [B](#Bb) [C](#Cc) [D](#Dd) [E](#Ee) [F](#Ff) [G](#Gg) H I J K L [M](#Mm) N O P Q R [S](#Ss) T U [V](#Vv) W X Y Z
 
 ## 分類 ClASS
 
