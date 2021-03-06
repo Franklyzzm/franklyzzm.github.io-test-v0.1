@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>播放列表</title>
+	<trackList>
+		<track>
+			<location>file:///Y:/music.%E9%9F%B3%E4%B9%90/%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90%E5%85%A8%E8%BE%91/2000%20-%20Jay/02%20%E5%91%A8%E6%9D%B0%E5%80%AB%20-%20%E5%AE%8C%E7%BE%8E%E4%B8%BB%E7%BE%A9.flac</location>
+			<title>完美主義</title>
+			<creator>周杰倫</creator>
+			<album>Jay</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/Frankly/AppData/Roaming/vlc/art/artistalbum/%E5%91%A8%E6%9D%B0%E5%80%AB/Jay/art.jpg</image>
+			<duration>244533</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///Y:/music.%E9%9F%B3%E4%B9%90/%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90%E5%85%A8%E8%BE%91/2000%20-%20Jay/04%20%E5%91%A8%E6%9D%B0%E5%80%AB%20-%20%E5%A8%98%E5%AD%90.flac</location>
+			<title>娘子</title>
+			<creator>周杰倫</creator>
+			<album>Jay</album>
+			<trackNum>4</trackNum>
+			<image>file:///C:/Users/Frankly/AppData/Roaming/vlc/art/artistalbum/%E5%91%A8%E6%9D%B0%E5%80%AB/Jay/art.jpg</image>
+			<duration>271000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///Y:/music.%E9%9F%B3%E4%B9%90/%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90%E5%85%A8%E8%BE%91/2000%20-%20Jay/05%20%E5%91%A8%E6%9D%B0%E5%80%AB%20-%20%E9%AC%A5%E7%89%9B.flac</location>
+			<title>鬥牛</title>
+			<creator>周杰倫</creator>
+			<album>Jay</album>
+			<trackNum>5</trackNum>
+			<image>file:///C:/Users/Frankly/AppData/Roaming/vlc/art/artistalbum/%E5%91%A8%E6%9D%B0%E5%80%AB/Jay/art.jpg</image>
+			<duration>278906</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///Y:/music.%E9%9F%B3%E4%B9%90/%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90%E5%85%A8%E8%BE%91/2000%20-%20Jay/08%20%E5%91%A8%E6%9D%B0%E5%80%AB%20-%20%E5%8D%B0%E5%9C%B0%E5%AE%89%E8%80%81%E6%96%91%E9%B3%A9.flac</location>
+			<title>印地安老斑鳩</title>
+			<creator>周杰倫</creator>
+			<album>Jay</album>
+			<trackNum>8</trackNum>
+			<image>file:///C:/Users/Frankly/AppData/Roaming/vlc/art/artistalbum/%E5%91%A8%E6%9D%B0%E5%80%AB/Jay/art.jpg</image>
+			<duration>304533</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///Y:/music.%E9%9F%B3%E4%B9%90/%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90%E5%85%A8%E8%BE%91/2000%20-%20Jay/10%20%E5%91%A8%E6%9D%B0%E5%80%AB%20-%20%E5%8F%8D%E6%96%B9%E5%90%91%E7%9A%84%E9%90%98.flac</location>
+			<title>反方向的鐘</title>
+			<creator>周杰倫</creator>
+			<album>Jay</album>
+			<trackNum>10</trackNum>
+			<image>file:///C:/Users/Frankly/AppData/Roaming/vlc/art/artistalbum/%E5%91%A8%E6%9D%B0%E5%80%AB/Jay/art.jpg</image>
+			<duration>257600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
