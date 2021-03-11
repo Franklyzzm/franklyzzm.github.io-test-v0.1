@@ -210,6 +210,7 @@ BD
 ### <a name="Cc">C</a>
 
 [Calibre](https://calibre-ebook.com/)
+
 [CopyTranslator](https://copytranslator.github.io/)
 
 
@@ -217,7 +218,9 @@ BD
 ### <a name="Dd">D</a>
 
 [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+
 [Deepin](https://deepin.org)
+
 [Diamond-ant](https://diamond-ant.co.jp/)
 
 
@@ -225,6 +228,7 @@ BD
 ### <a name="Ee">E</a>
 
 [Everything](https://www.voidtools.com/)
+
 [Etcher](https://www.balena.io/etcher/)
 
 
@@ -232,9 +236,13 @@ BD
 ### <a name="Ff">F</a>
 
 [FreeBSD](https://freebsd.org)
+
 [FreeNAS](https://www.freenas.org/)
+
 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
 [Flux](https://justgetflux.com/)
+
 [Free Download Manager(FDM)](https://www.freedownloadmanager.org/)
 
 
@@ -242,10 +250,15 @@ BD
 ### <a name="Gg">G</a>
 
 [GIMP](https://www.gimp.org/)
+
 [GitHub](https://www.github.com)
+
 [GoldenDict](https://www.goldendict.org/)
+
 [Google Chrome](https://www.google.com/chrome/index.html)
+
 [GnuPG](https://gnupg.org)
+
 [Gpg4win](https://gpg4win.org/)
 
 
@@ -253,6 +266,7 @@ BD
 ### <a name="Hh">H</a>
 
 [HomeBank](https://homebank.free.fr)
+
 [漢典](https://www.zdic.net/)
 
 
@@ -260,7 +274,9 @@ BD
 ### <a name="Ii">I</a>
 
 [Inkscape](https://inkscape.org)
+
 [Icom America](https://www.icomamerica.com/en/amateur/)
+
 [Internet Download Manager(IDM)](https://www.internetdownloadmanager.com/)
 
 
@@ -274,7 +290,9 @@ BD
 ### <a name="Kk">K</a>
 
 [Kali Linux](https://www.kali.org/)
+
 [KeepassXC](https://keepassxc.org/)
+
 [Krita](https://krita.org/)
 
 
@@ -282,8 +300,11 @@ BD
 ### <a name="Ll">L</a>
 
 [LibreOffice](https://libreoffice.org)
+
 [LaTeX](https://www.latex-project.org/)
+
 [Lantern](https://github.com/getlantern/lantern/releases)
+
 [Listary](https://www.listary.com/)
 
 
@@ -291,12 +312,19 @@ BD
 ### <a name="Mm">M</a>
 
 [MacTeX](https://www.tug.org/mactex/)
+
 [MacDown](https://macdown.uranusjr.com/)
+
 [Min Wiki Blog](https://franklyzzm.github.io) / [source](https://github.com/Franklyzzm/franklyzzm.github.io)
+
 [MiKTeX](https://miktex.org/)
+
 [MindMaster](https://www.edrawsoft.cn/mindmaster/)
+
 [Morse Code](https://en.wikipedia.org/wiki/Morse_code)
+
 [MkDocs](https://www.mkdocs.org/)
+
 [Mathpix Snip](https://mathpix.com/)
 
 
@@ -304,7 +332,9 @@ BD
 ### <a name="Nn">N</a>
 
 [nano](https://www.nano-editor.org/)
+
 [NCBI](https://www.ncbi.nlm.nih.gov)
+
 [Notepad++](https://notepad-plus-plus.org/)
 
 
@@ -312,7 +342,9 @@ BD
 ### <a name="Oo">O</a>
 
 [OneNote](https://www.onenote.com/)
+
 [OBS Studio](https://obsproject.com/)
+
 [Olive](https://www.olivevideoeditor.org/)
 
 
@@ -320,7 +352,9 @@ BD
 ### <a name="Pp">P</a>
 
 [Parrot Security OS](https://www.parrotsec.org/)
+
 [ProtonMail](https://protonmail.com)
+
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed)
 
 
@@ -330,6 +364,7 @@ BD
 ### <a name="Rr">R</a>
 
 [Resilio Sync](https://www.resilio.com/individuals/)
+
 [Rufus](https://rufus.ie/)
 
 
@@ -337,10 +372,15 @@ BD
 ### <a name="Ss">S</a>
 
 [SCI-HUB](https://sci-hub.uno/)
+
 [SimpleNote](https://simplenote.com/)
+
 [Sublime Text](https://www.sublimetext.com/)
+
 [Signal](https://signal.org)
+
 [SpaceSniffer](https://www.uderzo.it/) 
+
 [Stellarium](https://stellarium.org/)
 
 
@@ -348,8 +388,11 @@ BD
 ### <a name="Tt">T</a>
 
 [Typora](https://typora.io)
+
 [Thunderbird](https://www.thunderbird.net/)
+
 [TeamViewer](https://www.teamviewer.com/en/)
+
 [Telegram](https://telegram.org/)
 
 
@@ -363,7 +406,9 @@ BD
 ### <a name="Vv">V</a>
 
 [VLC](https://videolan.org)
+
 [Virtual Box](https://www.virtualbox.org/)
+
 [Vim](https://www.vim.org/)
 
 
@@ -390,7 +435,9 @@ BD
 ### <a name="Zz">Z</a>
 
 [Zotero](https://www.zotero.org/)
+
 [中國國家圖書館](https://www.nlc.cn/)
+
 [中國知網](https://cnki.net/)
 
 
