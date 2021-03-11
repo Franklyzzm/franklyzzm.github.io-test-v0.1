@@ -125,8 +125,8 @@ NCBI
 
 * **G**NU **I**mage **M**anipulation **P**rogram (**GIMP**) 
 * Inkscape 
-* Blender － 2D & 3D 圖形和動畫軟件
-* Krita － 2D 圖形和動畫軟件
+* Blender — 2D & 3D 圖形和動畫軟件
+* Krita — 2D 圖形和動畫軟件
 
 #### 影音處理 Audiovisual Processing
 
@@ -136,8 +136,8 @@ NCBI
 
 #### 密碼安全
 
-* KeepassXC － 密碼管理
-* GnuPG － 
+* KeepassXC — 密碼管理
+* GnuPG — 
 
 #### 學術 Acade
 
@@ -152,32 +152,32 @@ NCBI
 
 #### 系統工具 System tools
 
-* tree － 目录结构
-* [Rufus](https://rufus.akeo.ie/) － Rufus 是 Ubuntu 官网推荐的 USB 启动盘制作工具。
-* [Etcher](https://www.balena.io/etcher/) － balenaEtcher USB 启动盘制作工具
-* [微PE工具箱](https://www.wepe.com.cn/) － 制作 U 盘启动盘 [荐]
+* tree — 目录结构
+* [Rufus](https://rufus.akeo.ie/) — Rufus 是 Ubuntu 官网推荐的 USB 启动盘制作工具。
+* [Etcher](https://www.balena.io/etcher/) — balenaEtcher USB 启动盘制作工具
+* [微PE工具箱](https://www.wepe.com.cn/) — 制作 U 盘启动盘 [荐]
 
   > 这款微 PE 的好处就是绝对纯净，没有任何的捆绑软件及主页，最重要的一点就是该工具绿色，没有软件安装过程，直接双击 exe 文件即可开始制作 U 盘启动盘。
 
-* [EasyBCD](https://neosmart.net/EasyBCD/) － 用于配置和调整系统引导问题
-* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html#version-history) － 最权威的处理器和相关系统信息识别工具
-* [GPU-Z](https://www.techpowerup.com/gpuz/) － 最权威的顯卡和相关系统信息识别工具
-* ChipGenius － U 盘芯片檢測工具
-* SpaceSniffer － 磁盤空間使用
+* [EasyBCD](https://neosmart.net/EasyBCD/) — 用于配置和调整系统引导问题
+* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html#version-history) — 最权威的处理器和相关系统信息识别工具
+* [GPU-Z](https://www.techpowerup.com/gpuz/) — 最权威的顯卡和相关系统信息识别工具
+* ChipGenius — U 盘芯片檢測工具
+* SpaceSniffer — 磁盤空間使用
 
 
 
 #### 其他 Other
 
-* Virtual Box － 虛擬機
-* Flux － 亮度调节 护眼软件
-* TeamViewer － 遠程控制
-* Everything － 本地搜索
-* Listary － 搜索
-* [蓝灯(Lantern)](https://github.com/getlantern/lantern) － VPN 有免费 500M 流量。
-* [光年VPN](https://www.lightyearvpn.com/) － 含两个免费节点。支持 Windows、MacOS。
-* [TouchVPN](https://touchvpn.net/) － 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
-* Parallels ($$) － mac虛擬機
+* Virtual Box — 虛擬機
+* Flux — 亮度调节 护眼软件
+* TeamViewer — 遠程控制
+* Everything — 本地搜索
+* Listary — 搜索
+* [蓝灯(Lantern)](https://github.com/getlantern/lantern) — VPN 有免费 500M 流量。
+* [光年VPN](https://www.lightyearvpn.com/) — 含两个免费节点。支持 Windows、MacOS。
+* [TouchVPN](https://touchvpn.net/) — 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
+* Parallels ($$) — mac虛擬機
 
 
 
