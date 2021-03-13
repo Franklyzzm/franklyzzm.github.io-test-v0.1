@@ -26,9 +26,16 @@
 ### 學習 Study
 
 [中國國家圖書館](https://www.nlc.cn/)
+
 [中國知網](https://cnki.net/)
+
 [漢典](https://www.zdic.net/)
+
 [中國大學慕課MOOC](https://www.icourse163.org/)
+
+[谷歌翻译](https://translate.google.com) [CN](https://translate.google.cn) 
+
+[DeepL Translate](https://www.deepl.com/translator)
 
 
 
