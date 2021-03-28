@@ -3,8 +3,9 @@
 ## 版本
 
 * Release 發行版
-* Stable 穩定版
-* Current 當前版
+* Develop 开发版快照
+  * Stable 穩定版快照
+  * Current 當前版快照
 
 
 
