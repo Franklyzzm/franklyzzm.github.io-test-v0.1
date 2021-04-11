@@ -17,7 +17,16 @@
 
 
 
+## Training Books
+
+* The Beginner’s Guide to DaVinci Resolve 16 用户指南
+* Advanced Editing with DaVinci Resolve (xxx) 进阶剪辑
+* Fusion Visual Effects with DaVinci Resolve 16 Fusion视觉特效
+* Color Correction with DaVinci Resolve 16 调色指南
+* Fairlight Audio Post with DaVinci Resolve 16 Fairlight音频后期
 
 
 
+* Advanced Editing with DaVinci Resolve 15 进阶剪辑
+  Test: bit.ly/2wv6DBH
 
