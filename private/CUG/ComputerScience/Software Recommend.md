@@ -160,7 +160,7 @@
 * Mathpix 
 * CopyTranslator 
 * Zotero　—　Your personal research assistant
-* Fritzing 
+* [Fritzing](https://fritzing.org/) 　—　PCB电路设计
 * GNU Octave
 
 
