@@ -132,7 +132,23 @@ End of Extended Support: **2020.01.14**
 
 
 
-### 6. Parrot
+### 6. Kali
+
+**Download Location**: Kali
+
+**System requirements**: 
+
+**Version used in this guide**: Kali 2021.1
+
+**License**: Free software licenses (mainly GPL)
+
+**Other reading**:
+
+* 
+
+
+
+#### 6.1 Parrot
 
 **Download Location**: [Parrot](https://parrotlinux.org/download.php)
 
