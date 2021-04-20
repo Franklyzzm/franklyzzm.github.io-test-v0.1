@@ -99,7 +99,7 @@
 * Chrome （Mac/Win/Linux）谷歌瀏覽器
 * Firefox （Mac/Win/Linux）火狐瀏覽器
 
-### 即时通讯 
+### 即时通讯
 
 * Signal （Mac/Win/Linux）
 * Telegram （Mac/Win/Linux）
@@ -210,7 +210,7 @@
 
 ## 收費軟件 fee
 
-* GraphPad Prism 8（$$）－ 
+* GraphPad Prism （$$）－ 
 * Affinity Photo（$$）－ 
 * Affinity Design（$$）－ 
 * Adobe Photoshop（$$）－ 
@@ -218,5 +218,4 @@
 * Final Cut Pro（$$）－ 
 * Parallels（$$）－ mac虛擬機
 * Master PDF Editor（$$）－ 
-* C 4 D
 
