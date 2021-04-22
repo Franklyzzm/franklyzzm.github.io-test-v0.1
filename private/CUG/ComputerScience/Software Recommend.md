@@ -44,7 +44,7 @@
 ## 辦公軟件 Office
 
 * [LibreOffice](https://www.libreoffice.org/download/download/) （Mac/Win/Linux/Pi）
-* [WPS Office](https://www.wps.com/download/) （Mac/Win/Linux）
+* [WPS Office](https://www.wps.com/download/) （Mac/Win/Linux）` Mac3.x 以上版本强制登陆，不推荐`
 * MS Office ($$) （Mac/Win/~~Linux~~）
 * iWork （Mac/~~Win~~/~~Linux~~）
 
@@ -88,7 +88,7 @@
 * Resilio sync （Mac/Win/Linux）
 * FileZilla （Mac/Win/Linux）
 
-**通訊**
+**通信**
 
 * Thunderbird （Mac/Win/Linux）雷鳥邮件客户端
 
@@ -196,7 +196,7 @@
 ## 其他 Other
 
 * Virtual Box （Mac/Win/Linux）－ 虛擬機
-* 
+* Putty 
 * TeamViewer （Mac/Win/Linux）－ 遠程控制
 * Everything － 本地搜索
 * Listary － 搜索
@@ -211,6 +211,7 @@
 ## 收費軟件 fee
 
 * GraphPad Prism （$$）－ 
+* FlowJo （$$）－ 
 * Affinity Photo（$$）－ 
 * Affinity Design（$$）－ 
 * Adobe Photoshop（$$）－ 
