@@ -6,9 +6,9 @@
 
 * time
 * re
-* pip
-* setuptools 
-* wheel
+* pip(install)
+* setuptools(install) 
+* wheel(install)
 * 
 
 ## 網頁爬蟲類
