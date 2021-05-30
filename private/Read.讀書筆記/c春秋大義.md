@@ -1,3 +1,8 @@
+春秋大义
+===
+The Spirit of the Chinese People
+---
+
 《**中国人的精神**》（英语：***The Spirit of the Chinese People***），又名《**春秋大义**》，是[国学](https://zh.wikipedia.org/wiki/国学)大师[辜鸿铭](https://zh.wikipedia.org/wiki/辜鸿铭)的一部英文作品。该书由一系列关于中国人精神论文集结而成，文中阐释中国人的精神生活，宣扬[中国传统文化](https://zh.wikipedia.org/wiki/中国传统文化)的价值，并主张用[儒家](https://zh.wikipedia.org/wiki/儒家)思想对西方社会进行改造。
 
 ### 序言
@@ -32,16 +37,14 @@
 
 
 
-
+## 原文
 
 **The Spirit of the Chinese People**  (1915) 
 *by* *[Gu Hongming](https://en.wikisource.org/wiki/Author:Gu_Hongming)*
 
 First edition.
 
-THE
-
-SPIRIT OF THE CHINESE PEOPLE.
+THE SPIRIT OF THE CHINESE PEOPLE.
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rule_Segment_-_Flare_Left_-_12px.svg/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rule_Segment_-_Flare_Right_-_12px.svg/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
 
@@ -76,29 +79,19 @@ Goethe
 
  
 
- 
-
-
-
 CONTENTS.
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rule_Segment_-_Flare_Left_-_12px.svg/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rule_Segment_-_Flare_Right_-_12px.svg/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
 
 [Preface](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Preface) [Introduction](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Introduction)
 
-\1. [The Spirit of the Chinese People](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/1).
- \2. [The Chinese Woman](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/2).
- \3. [The Chinese Language](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/3).
- \4. [John Smith in China](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/4).
- \5. [A Great Sinologue](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/5).
- \6. [Chinese Scholarship Part I](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/6).
- \7. [Chinese Scholarship Part II](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/7).
-
-
-
- 
-
- 
+1. [The Spirit of the Chinese People](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/1).
+2. [The Chinese Woman](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/2).
+3. [The Chinese Language](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/3).
+4. [John Smith in China](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/4).
+5. [A Great Sinologue](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/5).
+6. [Chinese Scholarship Part I](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/6).
+7. [Chinese Scholarship Part II](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/7).
 
 
 
@@ -131,7 +124,7 @@ DEDICATED
 
 China in 1911.
 
-PREFACE.
+### PREFACE.
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rule_Segment_-_Flare_Left_-_12px.svg/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rule_Segment_-_Flare_Right_-_12px.svg/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
 
@@ -177,100 +170,31 @@ Finally I will here conclude with the words with which I  concluded the book "Pa
 
 KU HUNG-MING
 
-*Peking, 20th April, 1915.* 
+*Peking, 20th April, 1915.*
 
-1. 
-
- Mencius says, "What I hate in your clever men is that they always distort things. 所惡於智者為其鑿也" Bk IV. Part II. 26,
-
-
-
- The best book written in any European language on the spirit of the Chinese civilisation is a book called "La Cité Chinoise" by G.—Eug. Simon who  was once French Consul in China. It was from this book that Prof. Lowes  Dickinson of Cambridge, as he himself told me, drew his inspiration in  writing his famous "Letters from John Chinaman." 
-
-
-
- The famous telegram of the German Emperor to President Kruger was an *instinctive* outsburst of indignation of the true Germanic soul with its moral fibre against Joseph Chamberlain and his Cockney class in England, who  manipulated the Boer War.
-
-
-
- Confucius said to a disciple "when outside nations are dissatisfied with you, you should cultivate *civil* or *Civic* virtues (遠人不服則修文德)" The British aristocracy, however, like the Manchu  aristocracy in China, are now helpless against the mob and mob  worshippers in England. But it is, I must say, a great credit to the  British aristocracy that not one of them as far as I know, has joined  the mob in England in their shout, howl and yell in this war.
+1. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Preface#cite_ref-1) Mencius says, "What I hate in your clever men is that they always distort things. 所惡於智者為其鑿也" Bk IV. Part II. 26,
+2. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Preface#cite_ref-2) The best book written in any European language on the spirit of the Chinese civilisation is a book called "La Cité Chinoise" by G.—Eug. Simon who was once French Consul in China. It was from this book that Prof. Lowes Dickinson of Cambridge, as he himself told me, drew his inspiration in writing his famous "Letters from John Chinaman."
+3. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Preface#cite_ref-3) The famous telegram of the German Emperor to President Kruger was an *instinctive* outsburst of indignation of the true Germanic soul with its moral fibre against Joseph Chamberlain and his Cockney class in England, who manipulated the Boer War.
+4. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Preface#cite_ref-4) Confucius said to a disciple "when outside nations are dissatisfied with you, you should cultivate *civil* or *Civic* virtues (遠人不服則修文德)" The British aristocracy, however, like the Manchu aristocracy in China, are now helpless against the mob and mob worshippers in England. But it is, I must say, a great credit to the British aristocracy that not one of them as far as I know, has joined the mob in England in their shout, howl and yell in this war.
+5. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Preface#cite_ref-5) To show what a mob the Chinese returned students have become, I may mention here that some of these students in Peking last year actually wrote letters to the "Peking Gazette," a newspaper conducted by a clever Chinese "Babu" by the name of Eugene Chen, openly threatening to organise and carry out a public assault upon me for criticsing the new Chinese woman in my essay on "the Chinese woman." This clever Chinese "Babu" Eugene Chen the instigator of the contemplated piece of rowdyism now is a respected member of the Committee of the Anglo-Chinese Friendship Bureau under the patronage of the British Minister and the I. G. of the Chinese Customs!
+6. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Preface#cite_ref-6) Emerson with great insight, says, "What sent Napoleon to St. Helena, was not loss of battles, but the *parvenu*, the vulgar ambition in him—the vulgar ambition to marry a real Princess, to found a dynasty."
+7. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Preface#cite_ref-7) Confucius says, "Possession of power without leniency and generosity is a thing which I never can bear to see. (居上不寬吾何以觀之) Shakespeare says:
+   "Oh, it is glorious
+   ⁠To have a giant's strength: but it is tyrannous
+   ⁠To use it like a giant." See note p. 15.
+8. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Preface#cite_ref-8) That is to say, all who depend and put their faith solely upon material brute force or as Emerson says, who believe in the vulgar musket worship.
+9. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Preface#cite_ref-9) The German Minister Baron Kettler during the fanatic Boxer out break in China was accidentally killed by a madman from the fanatic soldiery. As a punishment for this act of a mad man, the German diplomats insisted upon branding the whole Chinese nation on the forehead with an indelible mark of humiliation, by having this Kettler memorial erected in the principal street of the Chinese Capital. See note on Page 12. The late Count Cassini, Russian Minister in Peking just before the Boxer out break, said in a interview with an American journalist, "The Chinese are a *polite people*, but the impoliteness of the British and German Ministers, especially of the German Minister in Peking is something outrageous."
+10. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Preface#cite_ref-10) Confucius says, "The moral man, the gentleman by living a life of simple truth and earnestness can bring peace to the world (君子篤恭而天下平)
 
 
 
- To show what a mob the Chinese returned students have become, I may  mention here that some of these students in Peking last year actually  wrote letters to the "Peking Gazette," a newspaper conducted by a clever Chinese "Babu" by the name of Eugene Chen, openly threatening to  organise and carry out a public assault upon me for criticsing the new Chinese woman in my essay on "the Chinese woman." This clever  Chinese "Babu" Eugene Chen the instigator of the contemplated piece of  rowdyism now is a respected member of the Committee of the Anglo-Chinese Friendship Bureau under the patronage of the British Minister and the  I. G. of the Chinese Customs!
-
-
-
- Emerson with great insight, says, "What sent Napoleon to St. Helena, was not loss of battles, but the *parvenu*, the vulgar ambition in him—the vulgar ambition to marry a real Princess, to found a dynasty."
-
-
-
- Confucius says, "Possession of power without leniency and generosity is a thing which I never can bear to see. (居上不寬吾何以觀之) Shakespeare says:  
- "Oh, it is glorious
-  ⁠To have a giant's strength: but it is tyrannous
- ⁠To use it like a giant." See note p. 15.
-
-
-
- That is to say, all who depend and put their faith solely upon material  brute force or as Emerson says, who believe in the vulgar musket  worship.
-
-
-
- The German Minister Baron Kettler during the fanatic Boxer out break in  China was accidentally killed by a madman from the fanatic soldiery. As a punishment for this act of a mad man, the German diplomats insisted  upon branding the whole Chinese nation on the forehead with an indelible mark of humiliation, by having this Kettler memorial erected in the  principal street of the Chinese Capital. See note on Page 12. The late  Count Cassini, Russian Minister in Peking just before the Boxer out  break, said in a interview with an American journalist, "The Chinese are a *polite people*, but the impoliteness of the British and German  Ministers, especially of the German Minister in Peking is something  outrageous." 
-
-
-
-1.  Confucius says, "The moral man, the gentleman by living a life of simple truth  and earnestness can bring peace to the world (君子篤恭而天下平)
-
-[[1](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/11)]
-
-[[2](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/12)]
-
-[[3](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/13)]
-
-[[4](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/14)]
-
-[[5](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/15)]
-
-[[6](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/16)]
-
-[[7](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/17)]
-
-[[8](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/18)]
-
-[[9](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/19)]
-
-[[10](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/20)]
-
-[[11](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/21)]
-
-[[12](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/22)]
-
-[[13](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/23)]
-
-[[14](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/24)]
-
-[[15](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/25)]
-
-[[16](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/26)]
-
-[[17](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/27)]
-
-[[18](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/28)]
-
-[[19](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/29)]
-
-[[20](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/30)]
-
-[[21](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/31)]
-
-INTRODUCTION.
+### INTRODUCTION.
 
 *The Religion of Good-citizenship*
 
 Sage, thun wir nicht recht? Wir üssen den Pöbel betrügen,
  ⁠Sich nur, wie ungeschickt, sich nur wie wild er sich zeight!
- Ungeschick und wild sind alle rohen Betrogenen;
+Ungeschick und wild sind alle rohen Betrogenen;
  ⁠Seid nur redlich und fuhrt ihn zum Menschlichen an.[[1\]](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Introduction#cite_note-1)
 
 Goethe. 
@@ -297,20 +221,21 @@ In short what I want to call the attention of the people of  Europe and America 
 
 But now to sum up in a few plain words the great problem of  civilisation in Europe arising out of this war. The people of Europe, I  say, at first tried to maintain civil order by the help of the priest.  But after a while, the priest cost too much expense and trouble. The  people of Europe then, after the thirty years war, sent away the priest  and called in the policeman and soldier to maintain civil order. But now they find the policeman and soldier are causing more expense and  trouble even than the priests. Now what are the people of Europe to do?  Send away the soldier and call back the priest? No, I do not believe the people of Europe will want to call back the priest. Besides the priest  now would be useless. But then what are the people of Europe to do? I  see [Professor Lowes Dickinson](https://en.wikisource.org/wiki/Author:Goldsworthy_Lowes_Dickinson) of Cambridge in an article in the Atlantic Monthly, entitled "The War and the Way out," says: "Call in the *mob*." I am afraid the mob when once called in to take the place of the priest and soldier, will give more trouble than even the priest and the  soldier  The priests and soldiers in Europe have caused wars, but the  mob will bring revolution and anarchy and then the state of Europe will  be worse than before. Now my advice to the people of Europe is: Do not  call back the priest, and for goodness sake don't call in the mob,—but call in the Chinaman; *call in the real Chinaman with his Religion of good citizenship and his  experience of 2,500 years how to live in peace without priest and  without soldier.*
 
-In fact I really believe that the people of Europe will find the  solution of the great problem of civilisation after this war,—here in  China. There is, I say here again, an invaluable, but hitherto  unsuspected asset of civilisation here in China, and the asset of  civilisation is the real Chinaman. The real Chinaman is an asset of  civilisation because he has the secret of a new civilisation which the  people of Europe will want after this great war, and the secret of that  new civilisation is what I have called the Religion of good citizenship. The first principle of this Religion of good citizenship is to believe  that the *Nature of Man is good*; to believe in the power of  goodness; to believe in the power and efficacy of what the American  Emerson calls the law of love and justice. But what is the law of love?  The Religion of good citizenship teaches that the law of love means to *love your father and mother.* And what is the law of justice? The Religion of good citizenship  teaches that the law of justice means to be true, to be faithful, to be  loyal; that the woman in every country must be selflessly, absolutely  loyal to her husband, that the man in every country must be selflessly, *absolutely loyal to his sovereign*, to his King or Emperor. In fact the highest duty in this Religion of good citizenship I want to say finally here is the *Duty of Loyalty*, loyalty not only in deed, but loyalty in spirit or as [Tennyson](https://en.wikisource.org/wiki/Author:Alfred_Tennyson) puts it,  {{block center|{{smaller block|<poem>To reverence the King as he were Their conscience and their conscience as their King, To break the heathen and uphold the Christ. 
+In fact I really believe that the people of Europe will find the solution of the great problem of civilisation after this war,—here in China. There is, I say here again, an invaluable, but hitherto unsuspected asset of civilisation here in China, and the asset of civilisation is the real Chinaman. The real Chinaman is an asset of civilisation because he has the secret of a new civilisation which the people of Europe will want after this great war, and the secret of that new civilisation is what I have called the Religion of good citizenship. The first principle of this Religion of good citizenship is to believe that the *Nature of Man is good*; to believe in the power of goodness; to believe in the power and efficacy of what the American Emerson calls the law of love and justice. But what is the law of love? The Religion of good citizenship teaches that the law of love means to *love your father and mother.* And what is the law of justice? The Religion of good citizenship teaches that the law of justice means to be true, to be faithful, to be loyal; that the woman in every country must be selflessly, absolutely loyal to her husband, that the man in every country must be selflessly, *absolutely loyal to his sovereign*, to his King or Emperor. In fact the highest duty in this Religion of good citizenship I want to say finally here is the *Duty of Loyalty*, loyalty not only in deed, but loyalty in spirit or as [Tennyson](https://en.wikisource.org/wiki/Author:Alfred_Tennyson) puts it,
 
-1. 
+To reverence the King as he were
+Their conscience and their conscience as their King,
+To break the heathen and uphold the Christ.
 
- Arein't we just doing the right thing? the mob we must befool them;
- ⁠See, now, how shiftless! and look now how wild! for such is the mob!
- Shiftless and wild all sons of Adam are when you be fool them;
- ⁠Be but honest and true, and thus make human, them all.
+1. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Introduction#cite_ref-1) Arein't we just doing the right thing? the mob we must befool them;
+   ⁠See, now, how shiftless! and look now how wild! for such is the mob!
+   Shiftless and wild all sons of Adam are when you be fool them;
+   ⁠Be but honest and true, and thus make human, them all.
+2. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/Introduction#cite_ref-2) The first sentence of the first book that is put into the hands of every child in China when he goes to school
 
 
 
-The first sentence of the first book that is put into the hands of every child in China when he goes to school
-
-**The Spirit of the Chinese People.**
+### **The Spirit of the Chinese People.**
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rule_Segment_-_Flare_Centre_-_14px.svg/14px-Rule_Segment_-_Flare_Centre_-_14px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Rule_Segment_-_Fancy1_-_40px.svg/40px-Rule_Segment_-_Fancy1_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rule_Segment_-_Flare_Centre_-_14px.svg/14px-Rule_Segment_-_Flare_Centre_-_14px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
 
@@ -497,65 +422,39 @@ Now if it is true what Mathew Arnold says here that the element by which the mod
 
 But now before I finally conclude, I want to give you a warning. I want to warn you that when you think of this Spirit of the Chinese  People, which I have tried to explain to you, you should bear in mind  that it is not a science, philosophy, theosophy, or any "ism, " like the theosophy or " ism" of [Madame Blavatsky](https://en.wikipedia.org/wiki/Helena_Blavatsky) or [Mrs. Besant](https://en.wikipedia.org/wiki/Annie_Besant). The Spirit of the Chinese People is not even what you would call a  mentality—an active working of the brain and mind. The Spirit of the  Chinese People, I want to tell you, is a state of mind, a temper of the  soul, which you cannot learn as you learn shorthand or Esperanto—in  short, a mood, or in the words of the poet, a serene and blessed mood.
 
-Now last of all I want to ask your permission to recite to you a few  lines of poetry from the most Chinese of the English poets, Wordsworth,  which better than anything I have said or can say, will describe to you  the serene and blessed mood which is the Spirit of the Chinese People.  These few lines of the English poet will put before you in a way I  cannot hope to do, that happy union of soul with intellect in the  Chinese type of humanity, that serene and blessed mood which gives to  the real Chinaman his inexpressible gentleness. Wordsworth in his lines  on Tintern Abbey says:— 
+Now last of all I want to ask your permission to recite to you a few lines of poetry from the most Chinese of the English poets, Wordsworth, which better than anything I have said or can say, will describe to you the serene and blessed mood which is the Spirit of the Chinese People. These few lines of the English poet will put before you in a way I cannot hope to do, that happy union of soul with intellect in the Chinese type of humanity, that serene and blessed mood which gives to the real Chinaman his inexpressible gentleness. Wordsworth in his lines on Tintern Abbey says:—
 
-⁠"⁠.⁠.⁠.⁠nor less I trust 
- ⁠To them I may have owed another gift 
- ⁠Of aspect more sublime:—that blessed mood 
- ⁠In which the burthen of the mystery, 
- ⁠In which the heavy and the weary weight 
- ⁠Of all this unintellgible world 
- ⁠Is lightened:—that serene and blessed mood 
- ⁠In which the affections gently lead us on—
- ⁠Until the breath of this corporeal frame 
- ⁠And even motion of our human blood 
- ⁠Almost suspended, we are laid asleep 
- ⁠In body, and become a living soul: 
- ⁠While with an eye made quiet by the power 
- ⁠Of harmony, and the deep power of joy, 
- ⁠We see into the life of things."
+⁠"⁠.⁠.⁠.⁠nor less I trust
+⁠To them I may have owed another gift
+⁠Of aspect more sublime:—that blessed mood
+⁠In which the burthen of the mystery,
+⁠In which the heavy and the weary weight
+⁠Of all this unintellgible world
+⁠Is lightened:—that serene and blessed mood
+⁠In which the affections gently lead us on—
+⁠Until the breath of this corporeal frame
+⁠And even motion of our human blood
+⁠Almost suspended, we are laid asleep
+⁠In body, and become a living soul:
+⁠While with an eye made quiet by the power
+⁠Of harmony, and the deep power of joy,
+⁠We see into the life of things."
 
 The serene and blesed mood which enables us *to see into the life of things*: that is imaginative reason, that is the Spirit of the Chinese People.
 
- 
-
-1. 
-
- Mencius Bk. III, Part II IX, ii.
-
-
-
- 中庸—The Universal order XII 4.
-
-
-
- 論語—Discourses and Sayings Chap. II 4.
+1. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/1#cite_ref-1) Mencius Bk. III, Part II IX, ii.
+2. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/1#cite_ref-2) 中庸—The Universal order XII 4.
+3. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/1#cite_ref-3) 論語—Discourses and Sayings Chap. II 4.
+4. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/1#cite_ref-4) Discourses and Sayings Chap. XX 3.
+5. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/1#cite_ref-5) 中庸—The Universal order XII i.
+6. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/1#cite_ref-6) 中庸 The Universal Order I. i.
+7. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/1#cite_ref-7) 道可道非常道名可名非常名
+8. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/1#cite_ref-8) 論語—Discourses and Sayings Chap. XV 28.
+9. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/1#cite_ref-9) Mencius, speaking of the two purest and most Christlike characters in Chinese history, said: "When men heard of the spirit and temper of Po-yi and Shu-ch'i, the dissolute ruffian became unselfish and the cowardly man had courage." Mencius Bk. III, Part II IX, ii.
 
 
 
- Discourses and Sayings Chap. XX 3.
-
-
-
- 中庸—The Universal order XII i.
-
-
-
- 中庸 The Universal Order I. i.
-
-
-
- 道可道非常道名可名非常名
-
-
-
- 論語—Discourses and Sayings Chap. XV 28.
-
-
-
-Mencius,  speaking of the two purest and most Christlike characters in Chinese  history, said: "When men heard of the spirit and temper of Po-yi and  Shu-ch'i, the dissolute ruffian became unselfish and the cowardly man  had courage." Mencius Bk. III, Part II IX, ii.
-
-**THE CHINESE WOMAN.**
+### **THE CHINESE WOMAN.**
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rule_Segment_-_Flare_Left_-_12px.svg/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rule_Segment_-_Flare_Right_-_12px.svg/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
 
@@ -684,74 +583,78 @@ In the Confucian Catechism (中庸) which I have translated as the  Conduct of L
  Make then your Home thus always gay and bright. 
  Your wife and dear ones shall be your delight."
 
-This Home in China is the minature Heaven,—as the State with its civic order, the Chinese Empire,—is the  real Heaven, the Kingdom of God come upon this earth, to the Chinese  people. Thus, as the gentleman in China with his honour, his Religion of Loyalty is the guardian of the *State*, the Civic Order, in China, so the Chinese woman, the Chinese gentlewoman or lady, with her  debonair charm and grace, her purity, her pudeur, and above all, her  Religion of Selflessness,—is the the Guardian Angel of the minature Heaven, the *Home* in China.
+This Home in China is the minature Heaven,—as the State with its civic order, the Chinese Empire,—is the real Heaven, the Kingdom of God come upon this earth, to the Chinese people. Thus, as the gentleman in China with his honour, his Religion of Loyalty is the guardian of the *State*, the Civic Order, in China, so the Chinese woman, the Chinese gentlewoman or lady, with her debonair charm and grace, her purity, her pudeur, and above all, her Religion of Selflessness,—is the the Guardian Angel of the minature Heaven, the *Home* in China.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Rule_Segment_-_Fancy1_-_40px.svg/40px-Rule_Segment_-_Fancy1_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
+![img](c春秋大義.assets/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](c春秋大義.assets/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](c春秋大義.assets/40px-Rule_Segment_-_Fancy1_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
 
-1. 
+1. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/2#cite_ref-1) 中庸 The Universal Order XIII.
 
-中庸 The Universal Order XIII.
 
-the reason, I say, why the Chinese insist upon having two languages.  Now think of the consequences of having half educated people in a  country. Look at Europe and America to-day. In Europe and America since, from the disuse of Latin, the sharp distinction between the spoken and  the written language has disappeared, there has arisen a class of half  educated people who are allowed to use the same language as the really  educated people, who talk of civilisation, liberty, neutrality,  militarism and  panslavinism without in the least understanding what these words really mean. People say that Prussian Militarism is a danger to civilisation. But to me it  seems, the half educated man, the mob of half educated men in the world to-day, is the real danger to civilisation. But that is neither here nor there. 
 
-Now to come to the question: is Chinese a difficult language? My  answer is, yes and no. Let us first take the spoken language. The  Chinese spoken language, I say, is not only *not* difficult, but as compared with the half dozen languages that I know,—the easiest  language in the world except, Malay. Spoken Chinese is easy because it  is an extremely simple language. It is a language without case, without  tense, without regular and irregular verbs; in fact without grammar, or  any rule whatever. But people have said to me that Chinese is difficult  even because of its simplicity; even because it has no rule or grammar.  That, however, cannot be true. Malay like Chinese, is also a simple  language without grammar or rules; and yet Europeans who learn it, do  not find it difficult. Thus in itself and for the Chinese colloquial or  spoken Chinese at least is not a difficult language. But for educated  Europeans and expecially for half educated Europeans who come to China, even colloquial or  spoken Chinese is a very difficult language: and why? Because spoken or  colloquial Chinese is, as I said, the language of uneducated men, of  thoroughly uneducated men; in fact the language of a child. Now as a  proof of this, we all know how easily European children learn colloquial or spoken Chinese, while learned philogues and sinologues  insist in saying that Chinese is so difficult. Chinese, colloquial  Chinese, I say again is the language of a child. My first advice  therefore to my foreign friends who want to learn Chinese is "Be ye like little children, you will then not only enter into the Kingdom of  Heaven, but you will also be able to learn Chinese."
+### **THE CHINESE LANGUAGE.**
 
-We now come to the written or book language, written Chinese. But here before I go further, let me say there are also different kinds of  written Chinese. The Missionaries class these under two categories and  call them easy *wen li* and difficult *wen li*. But that, in  my opinion, is not a satisfactory classification. The proper  classification, I think, should be, plain dress written Chinese;  official uniform Chinese; and full court dress Chinese. If you like to  use Latin, call them: *litera communis or litera officinalis* (common or business Chinese); *litera classica minor* (lesser classical Chinese); and *litera classica major* (higher classical Chinese.)
+![img](c春秋大義.assets/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](c春秋大義.assets/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](c春秋大義.assets/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](c春秋大義.assets/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
 
-Now many foreigners have called themeselves or have been called Chinese scholars. Writing an article on Chinese scholarship, some thirty years ago for the *N. C. Daily News*,—ah me! those old Shanghai days, *Tempora mutantur, nos et mutamur in illis*,—I then said: "Among Europeans in China, the publication of a few dialogues in some provincial *patois* or the collection of a hundred Chinese proverbs at once entitles a man to call himself a Chinese scholar." "There is," I said, "of course no harm in a name, and with the  extraterritoriality clause in the treaty, an Englishman in China may  with impunity call himself Confucius, if so it pleases him." Now what I  want to say here is this: how many foreigners who call themselves  Chinese scholars, have any idea of what an asset of civilisation is  stored up in that portion of Chinese literature which I have called the *Classica majora*, the literature in full court dress Chinese? I say an asset of civilisation, because I believe that this *Classica majora* in the Chinese literature is something which can, as Matthew Arnold  says of Homer's poetry, "refine the raw natural man: they can transmute  him." In fact, I believe this *Classica majora* in Chinese  literature will be able to transform one day even the raw natural men  who are now fighting in Europe as patriots, but with the fighting  instincts of wild animals; transform them into peaceful, gentle and  civil persons. Now the object of civilisation, as Ruskin says, is to  make mankind into civil persons who will do away with coarseness,  violence brutality and fighting.
+All foreigners who have tried to learn Chinese say that Chinese is a very difficult language. But is Chinese a difficult language? Before, however, we answer this question, let us understand what we mean by the Chinese language. There are, as everybody knows, two languages—I do not mean dialects,—in China, the spoken and the written language. Now, by the way, does anybody know the reason why the Chinese insist upon having these two distinct, spoken and written languages? I will here give you the reason. In China, as it was at one time in Europe when Latin was the learned or written language, the people are properly divided into two distinct classes, the educated and the uneducated. The colloquial or spoken language is the language for the use of the uneducated, and the written language is the language for the use of the really educated. In this way *half educated* people do not exist in this country. That is the reason, I say, why the Chinese insist upon having two languages. Now think of the consequences of having half educated people in a country. Look at Europe and America to-day. In Europe and America since, from the disuse of Latin, the sharp distinction between the spoken and the written language has disappeared, there has arisen a class of half educated people who are allowed to use the same language as the really educated people, who talk of civilisation, liberty, neutrality, militarism and panslavinism without in the least understanding what these words really mean. People say that Prussian Militarism is a danger to civilisation. But to me it seems, the half educated man, the mob of half educated men in the world to-day, is the real danger to civilisation. But that is neither here nor there.
 
-But *revenons à nos moutons*. Is then written Chinese a  difficult language? My answer again is, yes and no. I say, written  Chinese, even what I have called the full court dress Chinese, the *classica majora* Chinese, is not difficult, because, like the spoken or colloquial  Chinese, it is extremely simple. Allow me to show you by an average  specimen taken at random how extremely simple, written Chinese even when dressed in full court dress uniform, is. The specimen I take is a poem  of four lines from the poetry of the T'ang dynasty describing what  sacrifices the Chinese people had to make in order to protect their  civilisation against the wild half civilized fierce Huns from the North. The words of the poem in Chinese are:
+Now to come to the question: is Chinese a difficult language? My answer is, yes and no. Let us first take the spoken language. The Chinese spoken language, I say, is not only *not* difficult, but as compared with the half dozen languages that I know,—the easiest language in the world except, Malay. Spoken Chinese is easy because it is an extremely simple language. It is a language without case, without tense, without regular and irregular verbs; in fact without grammar, or any rule whatever. But people have said to me that Chinese is difficult even because of its simplicity; even because it has no rule or grammar. That, however, cannot be true. Malay like Chinese, is also a simple language without grammar or rules; and yet Europeans who learn it, do not find it difficult. Thus in itself and for the Chinese colloquial or spoken Chinese at least is not a difficult language. But for educated Europeans and expecially for half educated Europeans who come to China, even colloquial or spoken Chinese is a very difficult language: and why? Because spoken or colloquial Chinese is, as I said, the language of uneducated men, of thoroughly uneducated men; in fact the language of a child. Now as a proof of this, we all know how easily European children learn colloquial or spoken Chinese, while learned philogues and sinologues insist in saying that Chinese is so difficult. Chinese, colloquial Chinese, I say again is the language of a child. My first advice therefore to my foreign friends who want to learn Chinese is "Be ye like little children, you will then not only enter into the Kingdom of Heaven, but you will also be able to learn Chinese."
+
+We now come to the written or book language, written Chinese. But here before I go further, let me say there are also different kinds of written Chinese. The Missionaries class these under two categories and call them easy *wen li* and difficult *wen li*. But that, in my opinion, is not a satisfactory classification. The proper classification, I think, should be, plain dress written Chinese; official uniform Chinese; and full court dress Chinese. If you like to use Latin, call them: *litera communis or litera officinalis* (common or business Chinese); *litera classica minor* (lesser classical Chinese); and *litera classica major* (higher classical Chinese.)
+
+Now many foreigners have called themeselves or have been called Chinese scholars. Writing an article on Chinese scholarship, some thirty years ago for the *N. C. Daily News*,—ah me! those old Shanghai days, *Tempora mutantur, nos et mutamur in illis*,—I then said: "Among Europeans in China, the publication of a few dialogues in some provincial *patois* or the collection of a hundred Chinese proverbs at once entitles a man to call himself a Chinese scholar." "There is," I said, "of course no harm in a name, and with the extraterritoriality clause in the treaty, an Englishman in China may with impunity call himself Confucius, if so it pleases him." Now what I want to say here is this: how many foreigners who call themselves Chinese scholars, have any idea of what an asset of civilisation is stored up in that portion of Chinese literature which I have called the *Classica majora*, the literature in full court dress Chinese? I say an asset of civilisation, because I believe that this *Classica majora* in the Chinese literature is something which can, as Matthew Arnold says of Homer's poetry, "refine the raw natural man: they can transmute him." In fact, I believe this *Classica majora* in Chinese literature will be able to transform one day even the raw natural men who are now fighting in Europe as patriots, but with the fighting instincts of wild animals; transform them into peaceful, gentle and civil persons. Now the object of civilisation, as Ruskin says, is to make mankind into civil persons who will do away with coarseness, violence brutality and fighting.
+
+But *revenons à nos moutons*. Is then written Chinese a difficult language? My answer again is, yes and no. I say, written Chinese, even what I have called the full court dress Chinese, the *classica majora* Chinese, is not difficult, because, like the spoken or colloquial Chinese, it is extremely simple. Allow me to show you by an average specimen taken at random how extremely simple, written Chinese even when dressed in full court dress uniform, is. The specimen I take is a poem of four lines from the poetry of the T'ang dynasty describing what sacrifices the Chinese people had to make in order to protect their civilisation against the wild half civilized fierce Huns from the North. The words of the poem in Chinese are:
 
 誓掃匈奴不顧身
- 五千貂錦喪胡塵
- 可憐無定河邊骨
- 猶是春閨夢裏人
+五千貂錦喪胡塵
+可憐無定河邊骨
+猶是春閨夢裏人
 
-which translated into English word for word mean: 
+which translated into English word for word mean:
 
-Swear sweep the Huns not care self, 
- Five thousand embroidery sable perish desert dust; 
- Alas! Wuting riverside bones, 
- Still are Spring chambers dream inside men!
+Swear sweep the Huns not care self,
+Five thousand embroidery sable perish desert dust;
+Alas! Wuting riverside bones,
+Still are Spring chambers dream inside men!
 
 A free English version of the poem is something like this:—
 
-They vowed to sweep the heathen hordes 
- From off their native soil or die: 
- Five thousand taselled knights, sable-clad, 
- All dead now on the desert lie. 
- Alas! the white bones that bleach cold 
- Far off along the Wuting stream, 
- Still come and go as living men 
- Home somewhere in the loved one's dream.
+They vowed to sweep the heathen hordes
+From off their native soil or die:
+Five thousand taselled knights, sable-clad,
+All dead now on the desert lie.
+Alas! the white bones that bleach cold
+Far off along the Wuting stream,
+Still come and go as living men
+Home somewhere in the loved one's dream.
 
-Now, if you will compare it with my poor clumsy English version, you  will see how plain in words and style, how simple in ideas, the original Chinese is.
+Now, if you will compare it with my poor clumsy English version, you will see how plain in words and style, how simple in ideas, the original Chinese is.
 
- How plain and simple in words, style and ideas: and yet how *deep* in thought, how *deep* in feeling it is. 
+How plain and simple in words, style and ideas: and yet how *deep* in thought, how *deep* in feeling it is.
 
-In order to have an idea of this kind of Chinese literature,—deep thought and deep feeling in extremely simple language,—you will have to read the Hebrew Bible. The Hebrew Bible is one of the deepest books in  all the literature of the world and yet how plain and simple in  language. Take this passage for instance: "How is this faithful city  become a harlot! Thy men in the highest places are disloyal traitors and companions of  thieves; every one loveth gifts and followeth after rewards; they judge  not the fatherless neither doth the cause of the widow come before  them." (Is. I 21-23), or this other passage from the same prophet:—"I  will make children to be their high officials and babes shall rule over  them. And the people shall be oppressed. The child shall behave himself  proudly against the old man and the base against the honourable!" What a picture! The picture of the awful state of a nation or people. Do you  see the picture before you now? In fact, if you want to have literature  which can transmute men, can civilise mankind, you will have to go to  the literature of the Hebrew people or of the Greeks or to Chinese  literature. But Hebrew and Greek are now become dead languages, whereas  Chinese is a living language—the language of four hundred million people still living to-day. 
+In order to have an idea of this kind of Chinese literature,—deep thought and deep feeling in extremely simple language,—you will have to read the Hebrew Bible. The Hebrew Bible is one of the deepest books in all the literature of the world and yet how plain and simple in language. Take this passage for instance: "How is this faithful city become a harlot! Thy men in the highest places are disloyal traitors and companions of thieves; every one loveth gifts and followeth after rewards; they judge not the fatherless neither doth the cause of the widow come before them." (Is. I 21-23), or this other passage from the same prophet:—"I will make children to be their high officials and babes shall rule over them. And the people shall be oppressed. The child shall behave himself proudly against the old man and the base against the honourable!" What a picture! The picture of the awful state of a nation or people. Do you see the picture before you now? In fact, if you want to have literature which can transmute men, can civilise mankind, you will have to go to the literature of the Hebrew people or of the Greeks or to Chinese literature. But Hebrew and Greek are now become dead languages, whereas Chinese is a living language—the language of four hundred million people still living to-day.
 
-But now to sum up what I want to say on the Chinese language. Spoken as well as written Chinese is, in one sense, a very difficult language. It is difficult, not because  it is complex. Many European languages such as Latin and French are  difficult because they are complex and have many rules. Chinese is  difficult not because it is complex, but because it is *deep*. It  is difficult because it is a language for expressing deep feeling in  simple language. That is the secret of the difficulty of the Chinese  language. In fact, as I have said else where, Chinese is a language of  the heart: a poetical language. That is the reason why even a simple  letter in prose written in classical Chinese reads like poetry. In order to understand written Chinese, especially what I call full court dress  Chinese, you must have your full nature,—the heart and the head, the  soul and the intellect equally developed. 
+But now to sum up what I want to say on the Chinese language. Spoken as well as written Chinese is, in one sense, a very difficult language. It is difficult, not because it is complex. Many European languages such as Latin and French are difficult because they are complex and have many rules. Chinese is difficult not because it is complex, but because it is *deep*. It is difficult because it is a language for expressing deep feeling in simple language. That is the secret of the difficulty of the Chinese language. In fact, as I have said else where, Chinese is a language of the heart: a poetical language. That is the reason why even a simple letter in prose written in classical Chinese reads like poetry. In order to understand written Chinese, especially what I call full court dress Chinese, you must have your full nature,—the heart and the head, the soul and the intellect equally developed.
 
-It is for this reason that for people with modern European  education, Chinese is especially difficult, because modern European  education developes principally only one part of a man's nature—his intellect. In other  words, Chinese is difficult to a man with modern European education,  because Chinese is a deep language and modern European education, which  aims more at quantity than quality, is apt to make a man *shallow*. Finally for half educated people, even the spoken language, as I have  said, is difficult. For half educated people it may be said of them as  was once said of rich men, it is easier for a camel to go through the  eye of a needle, than for them to understand high classical Chinese and  for this reason: written Chinese is a language only for the use of really *educated* people. In short, written Chinese, classical Chinese is difficult  because it is the language of really educated people and real education  is a difficult thing but as the Greek proverb says, "all beautiful  things are difficult."
+It is for this reason that for people with modern European education, Chinese is especially difficult, because modern European education developes principally only one part of a man's nature—his intellect. In other words, Chinese is difficult to a man with modern European education, because Chinese is a deep language and modern European education, which aims more at quantity than quality, is apt to make a man *shallow*. Finally for half educated people, even the spoken language, as I have said, is difficult. For half educated people it may be said of them as was once said of rich men, it is easier for a camel to go through the eye of a needle, than for them to understand high classical Chinese and for this reason: written Chinese is a language only for the use of really *educated* people. In short, written Chinese, classical Chinese is difficult because it is the language of really educated people and real education is a difficult thing but as the Greek proverb says, "all beautiful things are difficult."
 
-But before I conclude, let me here give another specimen of  written Chinese to illustrate what I mean by simplicity and depth of  feeling which is to be found even in the *Classica Minora*,  literature written in official uniform Chinese. It is a poem of four  lines by a modern poet written on New year's eve. The words in Chinese  are:—
+But before I conclude, let me here give another specimen of written Chinese to illustrate what I mean by simplicity and depth of feeling which is to be found even in the *Classica Minora*, literature written in official uniform Chinese. It is a poem of four lines by a modern poet written on New year's eve. The words in Chinese are:—
 
 示 內
 
 
 
 莫 道 家 貧 卒 歲 難
- 北 風 曾 過 幾 番 寒
- 明 年 桃 柳 堂 前 樹
- 還 汝 春 光 滿 眼 看
+北 風 曾 過 幾 番 寒
+明 年 桃 柳 堂 前 樹
+還 汝 春 光 滿 眼 看
 
 which, translated word for word, mean:—
 
-Don't say home poor pass year hard, 
- North wind has blown many times cold, 
- Next year peach willow hall front trees 
- Pay-back you spring light full eyes see.
+Don't say home poor pass year hard,
+North wind has blown many times cold,
+Next year peach willow hall front trees
+Pay-back you spring light full eyes see.
 
 A free translation would be something like this:
 
@@ -759,108 +662,110 @@ TO MY WIFE.
 
 
 
-Fret not,—though poor we yet can pass the year; 
- Let the north wind blow ne'er so chill and drear, 
- Next year when peach and willow are in bloom, 
- You'll yet see Spring and sunlight in our home.
+Fret not,—though poor we yet can pass the year;
+Let the north wind blow ne'er so chill and drear,
+Next year when peach and willow are in bloom,
+You'll yet see Spring and sunlight in our home.
 
-Here is another specimen longer and more sustained. It is a poem by [Tu Fu](https://en.wikisource.org/wiki/Author:Du_Fu), the Wordsworth of China, of the T'ang Dynasty. I will here first give my English translation. The subject is 
+Here is another specimen longer and more sustained. It is a poem by [Tu Fu](https://en.wikisource.org/wiki/Author:Du_Fu), the Wordsworth of China, of the T'ang Dynasty. I will here first give my English translation. The subject is
 
 MEETING WITH AN OLD FRIEND.
 
-In life, friends seldom are brought near; 
- Like stars, each one shines in its sphere. 
- To-night,—oh! what a happy night! 
- We sit beneath the same lamplight. 
- Our youth and strength last but a day. 
- You and I—ah! our hairs are grey. 
- Friends! Half are in a better land, 
- With tears we grasp each other's hand. 
- Twenty more years,—short, after all, 
- I once again ascend your hall. 
- When we met, you had not a wife; 
- Now you have children,—such is life! 
- Beaming, they greet their father's chum; 
- They ask me from where I have come. 
- Before our say, we each have said, 
- The table is already laid. 
- Fresh salads from the garden near, 
- Rice mixed with millet,—frugal cheer. 
- When shall we meet? 'tis hard to know. 
- And so let the wine freely flow. 
- This wine, I know, will do no harm. 
- My old friend's welcome is so warm. 
- To-morrow I go,—to be whirled. 
- Again into the wide, wide world.
+In life, friends seldom are brought near;
+Like stars, each one shines in its sphere.
+To-night,—oh! what a happy night!
+We sit beneath the same lamplight.
+Our youth and strength last but a day.
+You and I—ah! our hairs are grey.
+Friends! Half are in a better land,
+With tears we grasp each other's hand.
+Twenty more years,—short, after all,
+I once again ascend your hall.
+When we met, you had not a wife;
+Now you have children,—such is life!
+Beaming, they greet their father's chum;
+They ask me from where I have come.
+Before our say, we each have said,
+The table is already laid.
+Fresh salads from the garden near,
+Rice mixed with millet,—frugal cheer.
+When shall we meet? 'tis hard to know.
+And so let the wine freely flow.
+This wine, I know, will do no harm.
+My old friend's welcome is so warm.
+To-morrow I go,—to be whirled.
+Again into the wide, wide world.
 
- The above, my version I admit, is almost doggerel, which is meant merely to give the meaning of the Chinese text. But here is the Chinese text  which is not doggerel, but *poetry*—poetry simple to the verge of colloquialism, yet with a grace, dignity pathos and *nobleness* which I cannot reproduce and which perhaps it is impossible to reproduce, in English in such simple language. 
+The above, my version I admit, is almost doggerel, which is meant merely to give the meaning of the Chinese text. But here is the Chinese text which is not doggerel, but *poetry*—poetry simple to the verge of colloquialism, yet with a grace, dignity pathos and *nobleness* which I cannot reproduce and which perhaps it is impossible to reproduce, in English in such simple language.
 
 
 
 人生不相見　動如參與商
- 今夕復何夕　共此燈燭光
- 少壯能幾時　鬚髮各已蒼
- 訪舊半為鬼　驚呼熱中腸
- 焉知二十載　重上君子堂
- 昔別君未婚　兒女忽成行
- 怡然敬父執　問我來何方
- 問答未及已　兒女羅酒漿
- 夜雨剪春韭　新炊間黃粱
- 主稱會面難　一舉累十觴
- 十觴亦不醉　感君故意長
- 明日隔山岳　世事兩茫茫
+今夕復何夕　共此燈燭光
+少壯能幾時　鬚髮各已蒼
+訪舊半為鬼　驚呼熱中腸
+焉知二十載　重上君子堂
+昔別君未婚　兒女忽成行
+怡然敬父執　問我來何方
+問答未及已　兒女羅酒漿
+夜雨剪春韭　新炊間黃粱
+主稱會面難　一舉累十觴
+十觴亦不醉　感君故意長
+明日隔山岳　世事兩茫茫
 
-[![The Spirit of the Chinese People i 156.png](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Spirit_of_the_Chinese_People_i_156.png/150px-The_Spirit_of_the_Chinese_People_i_156.png)](https://en.wikisource.org/wiki/File:The_Spirit_of_the_Chinese_People_i_156.png)
+[![The Spirit of the Chinese People i 156.png](c春秋大義.assets/150px-The_Spirit_of_the_Chinese_People_i_156.png)](https://en.wikisource.org/wiki/File:The_Spirit_of_the_Chinese_People_i_156.png)
 
-**JOHN SMITH IN CHINA.**
 
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rule_Segment_-_Span_-_10px.svg/10px-Rule_Segment_-_Span_-_10px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Rule_Segment_-_Fancy1_-_40px.svg/40px-Rule_Segment_-_Fancy1_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rule_Segment_-_Flare_Right_-_12px.svg/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rule_Segment_-_Diamond_-_4px.svg/5px-Rule_Segment_-_Diamond_-_4px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rule_Segment_-_Flare_Centre_-_22px.svg/22px-Rule_Segment_-_Flare_Centre_-_22px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rule_Segment_-_Diamond_-_4px.svg/5px-Rule_Segment_-_Diamond_-_4px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rule_Segment_-_Flare_Left_-_12px.svg/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Rule_Segment_-_Fancy1_-_40px.svg/40px-Rule_Segment_-_Fancy1_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rule_Segment_-_Span_-_10px.svg/10px-Rule_Segment_-_Span_-_10px.svg.png)
 
-"The Philistine not only ignores all  conditions of life which are not his own but he also demands that the  rest of mankind should fashion its mode of existence after his own."[[1\]](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/4#cite_note-1)....[Goethe](https://en.wikisource.org/wiki/Author:Johann_Wolfgang_von_Goethe). 
+### **JOHN SMITH IN CHINA.**
 
-Mr. [W. Stead](https://en.wikisource.org/wiki/Author:William_Thomas_Stead) once asked: "What is the secret of [Marie Corelli](https://en.wikisource.org/wiki/Author:Marie_Corelli)'s popularity?" His answer was: "Like author, like reader; because the  John Smiths who read her novels live in Marie Corelli's world and regard her as the most authoritative exponent of the Universe in which they  live, move and have their being." What Marie Corelli is to the John  Smiths in Great Britain, the Rev. [Arthur Smith](https://en.wikisource.org/wiki/Author:Arthur_Henderson_Smith) is to the John Smiths in China. 
+![img](c春秋大義.assets/10px-Rule_Segment_-_Span_-_10px.svg.png)![img](c春秋大義.assets/40px-Rule_Segment_-_Fancy1_-_40px.svg.png)![img](c春秋大義.assets/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](c春秋大義.assets/5px-Rule_Segment_-_Diamond_-_4px.svg.png)![img](c春秋大義.assets/22px-Rule_Segment_-_Flare_Centre_-_22px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rule_Segment_-_Diamond_-_4px.svg/5px-Rule_Segment_-_Diamond_-_4px.svg.png)![img](c春秋大義.assets/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Rule_Segment_-_Fancy1_-_40px.svg/40px-Rule_Segment_-_Fancy1_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rule_Segment_-_Span_-_10px.svg/10px-Rule_Segment_-_Span_-_10px.svg.png)
 
-Now the difference between the really educated person and the  half educated one is this. The really educated person wants to read  books which will tell him the real truth about a thing, whereas the half-educated person prefers to read books which will tell him what he wants the  thing to be, what his vanity prompts him to wish that the thing should  be. John Smith in China wants very much to be a superior person to the  Chinaman and the Rev. Arthur Smith writes a book to prove conclusively  that he, John Smith, is a very much superior parson to the Chinaman. Therefore, the Rev. Arthur Smith is a person very dear to John Smith, and the "[Chinese Characteristics](https://en.wikisource.org/wiki/Chinese_Characteristics)" become a Bible to John Smith.
+"The Philistine not only ignores all conditions of life which are not his own but he also demands that the rest of mankind should fashion its mode of existence after his own."[[1\]](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/4#cite_note-1)....[Goethe](https://en.wikisource.org/wiki/Author:Johann_Wolfgang_von_Goethe).
 
- But Mr. W. Stead says, "It is John Smith and his neighbours who now rule  the British Empire." Consequently I have lately taken the trouble to  read the books which furnish John Smith with his ideas on China and the  Chinese. 
+Mr. [W. Stead](https://en.wikisource.org/wiki/Author:William_Thomas_Stead) once asked: "What is the secret of [Marie Corelli](https://en.wikisource.org/wiki/Author:Marie_Corelli)'s popularity?" His answer was: "Like author, like reader; because the John Smiths who read her novels live in Marie Corelli's world and regard her as the most authoritative exponent of the Universe in which they live, move and have their being." What Marie Corelli is to the John Smiths in Great Britain, the Rev. [Arthur Smith](https://en.wikisource.org/wiki/Author:Arthur_Henderson_Smith) is to the John Smiths in China.
 
-[The Autocrat at the Breakfast Table](https://en.wikisource.org/wiki/The_Autocrat_of_the_Breakfast-Table_(Holmes,_1858)) classified minds under the heads of arithmetical and algebraical  intellects. "All economical and practical wisdom," he observes, "is an  extension or variation of the arithmetical formula 2 plus 2 equal 4.  Every philosophical proposition has the more general character of the  expression *a* plus *b* equal *c*." Now the whole family  of John Smith belong decidedly to the category of minds which the  Autocrat calls arithmetical intellects. John Smith's father, John Smith  senr, alias John Bull, made his fortune with the simple formula 2 plus 2 equal 4. John Bull came to China to sell his Manchester goods and to  make money and he got on very well with John Chinaman because both he  and John Chinaman understood and agreed perfectly upon the formula 2  plus 2 equal 4. But John Smith Junr, who now rules the British Empire,  comes out to China with his head filled with *a* plus *b* equal *c* which he does not understand—and not content to sell his Manchester  goods, wants to civilise the Chinese or, as he expresses it, to "spread  Anglo-Saxon ideals." The result is that John Smith gets on very badly  with John Chinaman, and, what is still worse, under the civilising  influence of John Smith's *a* plus *b* equal *c* Anglo-Saxon ideals, John Chinaman, instead of being a good, honest, steady customer for Manchester goods neglects his business, goes to Chang Su-ho's  Gardens to celebrate the Constitution, in fact becomes a mad,  raving reformer. 
+Now the difference between the really educated person and the half educated one is this. The really educated person wants to read books which will tell him the real truth about a thing, whereas the half-educated person prefers to read books which will tell him what he wants the thing to be, what his vanity prompts him to wish that the thing should be. John Smith in China wants very much to be a superior person to the Chinaman and the Rev. Arthur Smith writes a book to prove conclusively that he, John Smith, is a very much superior parson to the Chinaman. Therefore, the Rev. Arthur Smith is a person very dear to John Smith, and the "[Chinese Characteristics](https://en.wikisource.org/wiki/Chinese_Characteristics)" become a Bible to John Smith.
 
-I have lately, by the help of Mr. [Putnam Weale](https://en.wikisource.org/wiki/Author:Bertram_Lenox_Simpson)'s "[Reshaping of the Far East](https://en.wikisource.org/w/index.php?title=Reshaping_of_the_Far_East&action=edit&redlink=1)" and other books, tried to compile a Catechism of Anglo-Saxon Ideals for the use of Chinese students. The result, so far, is something like  this:— 
+But Mr. W. Stead says, "It is John Smith and his neighbours who now rule the British Empire." Consequently I have lately taken the trouble to read the books which furnish John Smith with his ideas on China and the Chinese.
+
+[The Autocrat at the Breakfast Table](https://en.wikisource.org/wiki/The_Autocrat_of_the_Breakfast-Table_(Holmes,_1858)) classified minds under the heads of arithmetical and algebraical intellects. "All economical and practical wisdom," he observes, "is an extension or variation of the arithmetical formula 2 plus 2 equal 4. Every philosophical proposition has the more general character of the expression *a* plus *b* equal *c*." Now the whole family of John Smith belong decidedly to the category of minds which the Autocrat calls arithmetical intellects. John Smith's father, John Smith senr, alias John Bull, made his fortune with the simple formula 2 plus 2 equal 4. John Bull came to China to sell his Manchester goods and to make money and he got on very well with John Chinaman because both he and John Chinaman understood and agreed perfectly upon the formula 2 plus 2 equal 4. But John Smith Junr, who now rules the British Empire, comes out to China with his head filled with *a* plus *b* equal *c* which he does not understand—and not content to sell his Manchester goods, wants to civilise the Chinese or, as he expresses it, to "spread Anglo-Saxon ideals." The result is that John Smith gets on very badly with John Chinaman, and, what is still worse, under the civilising influence of John Smith's *a* plus *b* equal *c* Anglo-Saxon ideals, John Chinaman, instead of being a good, honest, steady customer for Manchester goods neglects his business, goes to Chang Su-ho's Gardens to celebrate the Constitution, in fact becomes a mad, raving reformer.
+
+I have lately, by the help of Mr. [Putnam Weale](https://en.wikisource.org/wiki/Author:Bertram_Lenox_Simpson)'s "[Reshaping of the Far East](https://en.wikisource.org/w/index.php?title=Reshaping_of_the_Far_East&action=edit&redlink=1)" and other books, tried to compile a Catechism of Anglo-Saxon Ideals for the use of Chinese students. The result, so far, is something like this:—
 
 1.—What is the chief end of man?
 
-The chief end of man is to glorify the British  Empire. 
+The chief end of man is to glorify the British Empire.
 
 2.—Do you believe in God?
 
-Yes, when I go to Church. 
+Yes, when I go to Church.
 
-3.—What do you believe in when you are not in Church? 
+3.—What do you believe in when you are not in Church?
 
-I believe in interests—in what will pay. 
+I believe in interests—in what will pay.
 
 4.—What is justification by faith?
 
-To believe in everyone for himself. 
+To believe in everyone for himself.
 
 5.—What is justification by works.
 
-Put money in your pocket, 
+Put money in your pocket,
 
 6.—What is Heaven?
 
-Heaven means to be able to live in Bubbling Well Road[[2\]](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/4#cite_note-2) and drive in victorias. 
+Heaven means to be able to live in Bubbling Well Road[[2\]](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/4#cite_note-2) and drive in victorias.
 
 7.—What is Hell?
 
-Hell means to be unsuccessful. 
+Hell means to be unsuccessful.
 
 8.—What is a state of human perfectiblity?
 
 Sir Robert Hart's Custom Service in China.
 
- 9.—What is blasphemy?
+9.—What is blasphemy?
 
 To say that Sir Robert Hart is not a great man of genius.
 
@@ -878,198 +783,168 @@ We thank Thee, O Lord, that we are not as the wicked Russians and brutal Germans
 
 13.—Who is the great Apostle of the Anglo-Saxon Ideals in China.
 
-Dr. Morrison, the *Times* Correspondent in Peking. 
+Dr. Morrison, the *Times* Correspondent in Peking.
 
-It may be a libel to say that the above is a true statement of  Anglo-Saxon ideals, but any one who will take the trouble to read Mr.  Putnam Weale's book will not deny that the above is a fair  representation of the Anglo-Saxon ideals of Mr. Putnam Weale and John  Smith who reads Mr. Putnam Weale's books. 
+It may be a libel to say that the above is a true statement of Anglo-Saxon ideals, but any one who will take the trouble to read Mr. Putnam Weale's book will not deny that the above is a fair representation of the Anglo-Saxon ideals of Mr. Putnam Weale and John Smith who reads Mr. Putnam Weale's books.
 
-The most curious thing about the matter is that the civilising  influence of John Smith's Anglo-Saxon ideals is really taking effect in  China. Under this influence John Chinaman too is now wanting to glorify  the Chinese Empire. The old Chinese literati with his eight-legged  essays was a harmless humbug. But foreigners will find to their cost  that the new Chinese literati who under the influence of John Smith's Anglo-Saxon ideals is  clamouring for a constitution, is likely to become an intolerable and  dangerous nuisance. In the end I fear John Bull Senior will not only  find his Manchester goods trade ruined, but he will even be put to the  expense of sending out a General Gordon or Lord Kitchener to shoot his  poor old friend John Chinaman who has become *non compes mentis* under the civilising influence of John Smith's Anglo-Saxon ideals. But that is neither here nor there. 
+The most curious thing about the matter is that the civilising influence of John Smith's Anglo-Saxon ideals is really taking effect in China. Under this influence John Chinaman too is now wanting to glorify the Chinese Empire. The old Chinese literati with his eight-legged essays was a harmless humbug. But foreigners will find to their cost that the new Chinese literati who under the influence of John Smith's Anglo-Saxon ideals is clamouring for a constitution, is likely to become an intolerable and dangerous nuisance. In the end I fear John Bull Senior will not only find his Manchester goods trade ruined, but he will even be put to the expense of sending out a General Gordon or Lord Kitchener to shoot his poor old friend John Chinaman who has become *non compes mentis* under the civilising influence of John Smith's Anglo-Saxon ideals. But that is neither here nor there.
 
-What I want to say here in plain, sober English is this. It is a  wonder to me that the Englishman who comes out to China with his head  filled with all the arrant nonsense written in books about the Chinese,  can get along at all with the Chinese with whom he has to deal. Take  this specimen, for instance, from a big volume, entitled "The Far East:  its history and its questions," by Alexis Krausse. 
+What I want to say here in plain, sober English is this. It is a wonder to me that the Englishman who comes out to China with his head filled with all the arrant nonsense written in books about the Chinese, can get along at all with the Chinese with whom he has to deal. Take this specimen, for instance, from a big volume, entitled "The Far East: its history and its questions," by Alexis Krausse.
 
-"The crux of the whole question affecting the Powers of the  Western nations in the Far East lies in the appreciation of the true  inwardness of the Oriental mind. An Oriental not only sees things from a different standpoint to (!) the Occidental, but his whole train of  thought and mode of reasoning are at variance. The very sense of  perception implanted in the Asiatic varies from that with which we are  endowed!" 
+"The crux of the whole question affecting the Powers of the Western nations in the Far East lies in the appreciation of the true inwardness of the Oriental mind. An Oriental not only sees things from a different standpoint to (!) the Occidental, but his whole train of thought and mode of reasoning are at variance. The very sense of perception implanted in the Asiatic varies from that with which we are endowed!"
 
-After reading the last sentence an Englishman in China, when he wants a piece of *white* paper, if he follows the ungrammatical Mr. Krausse's advice, would have to say to his boy:—"Boy, bring me a piece of *black* paper." It is, I think, to the credit of practical men among foreigners in China that they can put away all this nonsense about the true  inwardness of the Oriental mind when they come to deal practically with  the Chinese. In fact I believe that those foreigners get on best with  the Chinese and are the most successful men in China who stick to 2 plus 2 equal 4, and leave the *a* plaus *b* equal *c* theories of Oriental inwardness and Anglo-Saxon ideals to John Smith  and Mr. Krausse. Indeed when one remembers that in those old days,  before the Rev. Arthur Smith wrote his "Chinese Characteristics," the  relations between the heads or taipans of great British firms such as  Jardine, Matheson and their Chinese compradores[[3\]](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/4#cite_note-3) were always those of mutual affection, passing on to one or more  generations; when one remembers this, one is inclined to ask what good,  after all, has clever John Smith with his *a* plus *b* equal *c* theories of Oriental inwardness and Anglo-Saxon ideals done, either to Chinese or foreigners? 
+After reading the last sentence an Englishman in China, when he wants a piece of *white* paper, if he follows the ungrammatical Mr. Krausse's advice, would have to say to his boy:—"Boy, bring me a piece of *black* paper." It is, I think, to the credit of practical men among foreigners in China that they can put away all this nonsense about the true inwardness of the Oriental mind when they come to deal practically with the Chinese. In fact I believe that those foreigners get on best with the Chinese and are the most successful men in China who stick to 2 plus 2 equal 4, and leave the *a* plaus *b* equal *c* theories of Oriental inwardness and Anglo-Saxon ideals to John Smith and Mr. Krausse. Indeed when one remembers that in those old days, before the Rev. Arthur Smith wrote his "Chinese Characteristics," the relations between the heads or taipans of great British firms such as Jardine, Matheson and their Chinese compradores[[3\]](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/4#cite_note-3) were always those of mutual affection, passing on to one or more generations; when one remembers this, one is inclined to ask what good, after all, has clever John Smith with his *a* plus *b* equal *c* theories of Oriental inwardness and Anglo-Saxon ideals done, either to Chinese or foreigners?
 
-Is there then no truth in [Kipling](https://en.wikisource.org/wiki/Author:Rudyard_Kipling)'s famous dictum that East is East and West is West? Of course there is.  When you deal with 2 plus 2 equal 4, there is little or no difference.  It is only when you come to problems as *a* plus *b* equal *c* that there is a great deal of difference between East and West. But to be able to solve the equation *a* plus *b* equal *c* between East and West, one must have real aptitude for higher mathematics. The misfortune of the world to-day is that the solution of the equation *a* plus *b* equal *c* in Far Eastern problems, is in the hands of John Smith who not only  rules the British Empire, but is an ally of the Japanese nation,—John  Smith who does not understand the elements even of algebraical problems. The solution of the equation a plus b equal c between East and West is a very complex and difficult problem. For in it there are many unknown  quantities, not only such as the East of Confucius and the East of Mr.  Kang Yu-wei and the Viceroy Tuan Fang, but also the West of Shakespeare  and Goethe and the West of John Smith. Indeed when you have solved your *a* plus *b* equal *c* equation properly, you will find that there is very little difference  between the East of Confucius and the West of Shakespeare and Goethe,  but you will find a great deal of difference between even the West of  Dr. Legge the scholar, and the West of the Rev. Arthur Smith. Let me  give a concrete illustration of what I mean. 
+Is there then no truth in [Kipling](https://en.wikisource.org/wiki/Author:Rudyard_Kipling)'s famous dictum that East is East and West is West? Of course there is. When you deal with 2 plus 2 equal 4, there is little or no difference. It is only when you come to problems as *a* plus *b* equal *c* that there is a great deal of difference between East and West. But to be able to solve the equation *a* plus *b* equal *c* between East and West, one must have real aptitude for higher mathematics. The misfortune of the world to-day is that the solution of the equation *a* plus *b* equal *c* in Far Eastern problems, is in the hands of John Smith who not only rules the British Empire, but is an ally of the Japanese nation,—John Smith who does not understand the elements even of algebraical problems. The solution of the equation a plus b equal c between East and West is a very complex and difficult problem. For in it there are many unknown quantities, not only such as the East of Confucius and the East of Mr. Kang Yu-wei and the Viceroy Tuan Fang, but also the West of Shakespeare and Goethe and the West of John Smith. Indeed when you have solved your *a* plus *b* equal *c* equation properly, you will find that there is very little difference between the East of Confucius and the West of Shakespeare and Goethe, but you will find a great deal of difference between even the West of Dr. Legge the scholar, and the West of the Rev. Arthur Smith. Let me give a concrete illustration of what I mean.
 
 The Rev. Arthur Smith, speaking of Chinese histories, says:—
 
-"Chinese histories are antediluvian, not merely in their attempts to go back to the ragged edge of zero of time for a point of departure, but in the interminable length of the sluggish and turbid current which carries on its bosom not only the mighty vegetation of past ages, but  wood, hay and stubble past all reckoning. None but a relatively timeless race could either compose or read such histories:  none but the Chinese memory could store them away in its capacious  abdomen!" 
+"Chinese histories are antediluvian, not merely in their attempts to go back to the ragged edge of zero of time for a point of departure, but in the interminable length of the sluggish and turbid current which carries on its bosom not only the mighty vegetation of past ages, but wood, hay and stubble past all reckoning. None but a relatively timeless race could either compose or read such histories: none but the Chinese memory could store them away in its capacious abdomen!"
 
-Now let us hear Dr. [Legge](https://en.wikisource.org/wiki/Author:James_Legge) on the same subject. Dr. Legge, speaking of the 23 standard dynastic histories of China, says:— 
+Now let us hear Dr. [Legge](https://en.wikisource.org/wiki/Author:James_Legge) on the same subject. Dr. Legge, speaking of the 23 standard dynastic histories of China, says:—
 
-"No nation has a history so thoroughly digested; and on the whole it is trustworthy." 
+"No nation has a history so thoroughly digested; and on the whole it is trustworthy."
 
-Speaking of another great Chinese literary collection, Dr. Legge says:— 
+Speaking of another great Chinese literary collection, Dr. Legge says:—
 
-"The work was not published, as I once supposed by Imperial  authority, but under the superintendence and at the expense (aided by  other officers) of Yuen Yun, Governor-General of Kwangtung and Kwangse,  in the 9th year of the last reign, of Kien-lung 1820. The publication of so extensive a work shows a *public spirit and zeal for literature* among the high officials of China which should keep foreigners from thinking meanly them." 
+"The work was not published, as I once supposed by Imperial authority, but under the superintendence and at the expense (aided by other officers) of Yuen Yun, Governor-General of Kwangtung and Kwangse, in the 9th year of the last reign, of Kien-lung 1820. The publication of so extensive a work shows a *public spirit and zeal for literature* among the high officials of China which should keep foreigners from thinking meanly them."
 
-The above then is what I mean when I say that there is a great  deal of difference not only between the East and West but also between  the West of Dr. Legge, the scholar who can appreciate and admire zeal  for literature, and the West of the Rev. Arthur Smith who is the beloved of John Smith in China. 
+The above then is what I mean when I say that there is a great deal of difference not only between the East and West but also between the West of Dr. Legge, the scholar who can appreciate and admire zeal for literature, and the West of the Rev. Arthur Smith who is the beloved of John Smith in China.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rule_Segment_-_Flare_Left_-_12px.svg/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rule_Segment_-_Flare_Right_-_12px.svg/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
+![img](c春秋大義.assets/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](c春秋大義.assets/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](c春秋大義.assets/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rule_Segment_-_Diamond_open_-_7px.svg/7px-Rule_Segment_-_Diamond_open_-_7px.svg.png)![img](c春秋大義.assets/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
 
- 
-
-1. 
-
- "Der Philister negiert nicht nur andere Zustande als der seininge ist, er  will auch dass alle ubrigen Menschen auf seine Weise existieren  sollen,"—Goethe.
+1. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/4#cite_ref-1) "Der Philister negiert nicht nur andere Zustande als der seininge ist, er will auch dass alle ubrigen Menschen auf seine Weise existieren sollen,"—Goethe.
+2. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/4#cite_ref-2) The most fashionable quarter in Shanghai.
+3. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/4#cite_ref-3) Chinese employed by foreign firms in China to be agents between them and Chinese merchants.
 
 
 
- The most fashionable quarter in Shanghai.
+### **A GREAT SINOLOGUE.**
 
+![img](c春秋大義.assets/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](c春秋大義.assets/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](c春秋大義.assets/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
 
+Don't forget to be a gentleman of sense, while you try to be a great scholar;
 
-Chinese employed by foreign firms in China to be agents between them and Chinese merchants.
-
-**A GREAT SINOLOGUE.**
-
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rule_Segment_-_Flare_Left_-_12px.svg/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rule_Segment_-_Flare_Right_-_12px.svg/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
-
-Don't forget to be a gentleman of sense, while you try to be a great scholar; 
-
-Don't become a fool, while you try to be a great scholar. 
+Don't become a fool, while you try to be a great scholar.
 
 Confucius Sayings, Ch: VI. ii.
 
-I have lately been reading Dr. [Giles](https://en.wikisource.org/wiki/Author:Herbert_Allen_Giles)' "[Adversaria Sinica](https://en.wikisource.org/w/index.php?title=Adversaria_Sinica&action=edit&redlink=1)," and in reading them, was reminded of a saying of another British Consul Mr. [Hopkins](https://en.wikisource.org/wiki/Author:Lionel_Charles_Hopkins) that "when foreign residents in China speak of a man as a sinologue, they generally think of him as a fool." 
+I have lately been reading Dr. [Giles](https://en.wikisource.org/wiki/Author:Herbert_Allen_Giles)' "[Adversaria Sinica](https://en.wikisource.org/w/index.php?title=Adversaria_Sinica&action=edit&redlink=1)," and in reading them, was reminded of a saying of another British Consul Mr. [Hopkins](https://en.wikisource.org/wiki/Author:Lionel_Charles_Hopkins) that "when foreign residents in China speak of a man as a sinologue, they generally think of him as a fool."
 
-Dr. Giles has the reputation of being a great Chinese scholar.  Considering the quantity of work he has done, that reputation is not  undeserved. But I think it is now time that an attempt should be made to accurately estimate the quality and real value of Dr. Giles' work. 
+Dr. Giles has the reputation of being a great Chinese scholar. Considering the quantity of work he has done, that reputation is not undeserved. But I think it is now time that an attempt should be made to accurately estimate the quality and real value of Dr. Giles' work.
 
-In one respect Dr. Giles has the advantage over all sinologues  past and present,—he possesses the literary gift: he can write good  idiomatic English. But on the other hand Dr. Giles utterly lacks the  philosophical insight and sometimes even common sense. He can translate  Chinese sentences, but he cannot interpret and understand Chinese  thought. In this respect, Dr. Giles has the same characteritics as the Chinese literati. Confucius says, "When men's education or book  learning get the better of their natural qualities, they become *literati*" (Chap. VI. 16.) 
+In one respect Dr. Giles has the advantage over all sinologues past and present,—he possesses the literary gift: he can write good idiomatic English. But on the other hand Dr. Giles utterly lacks the philosophical insight and sometimes even common sense. He can translate Chinese sentences, but he cannot interpret and understand Chinese thought. In this respect, Dr. Giles has the same characteritics as the Chinese literati. Confucius says, "When men's education or book learning get the better of their natural qualities, they become *literati*" (Chap. VI. 16.)
 
-To the Chinese literati, books and literature are merely materials for writing books and so they write books upon books. They live, move and have their being in a world of books,  having nothing to do with the world of real human life. It never occurs  to the literati that books and literature are only means to an end. The  study of books and literature to the true scholar is but the means to  enable him to interpret, to criticise, to understand human life. 
+To the Chinese literati, books and literature are merely materials for writing books and so they write books upon books. They live, move and have their being in a world of books, having nothing to do with the world of real human life. It never occurs to the literati that books and literature are only means to an end. The study of books and literature to the true scholar is but the means to enable him to interpret, to criticise, to understand human life.
 
-[Mathew Arnold](https://en.wikisource.org/wiki/Author:Matthew_Arnold) says, "It is through the apprehension either of all literature,—the  entire history of the human spirit,—or of a single great literary work  as a connected whole, that the power of literature makes itself felt."  But in all that Dr. Giles has written, there is not a single sentence  which betrays the fact that Dr. Giles has conceived or even tried to  conceive the Chinese literature as a connected whole. 
+[Mathew Arnold](https://en.wikisource.org/wiki/Author:Matthew_Arnold) says, "It is through the apprehension either of all literature,—the entire history of the human spirit,—or of a single great literary work as a connected whole, that the power of literature makes itself felt." But in all that Dr. Giles has written, there is not a single sentence which betrays the fact that Dr. Giles has conceived or even tried to conceive the Chinese literature as a connected whole.
 
-It is this want of philosophical insight in Dr. Giles which makes him so helpless in the arrangement of his materials in his books. Take  for instance his great dictionary. It is in no sense a dictionary at  all. It is merely a collection of Chinese phrases and sentences,  translated by Dr. Giles without any attempt at selection, arrangement,  order or method. As a dictionary for the purposes of the scholar, Dr.  Giles' dictionary is decidedly of less value than even the old  dictionary of Dr. Williams. 
+It is this want of philosophical insight in Dr. Giles which makes him so helpless in the arrangement of his materials in his books. Take for instance his great dictionary. It is in no sense a dictionary at all. It is merely a collection of Chinese phrases and sentences, translated by Dr. Giles without any attempt at selection, arrangement, order or method. As a dictionary for the purposes of the scholar, Dr. Giles' dictionary is decidedly of less value than even the old dictionary of Dr. Williams.
 
-Dr. Giles' [Chinese biographical dictionary](https://en.wikisource.org/wiki/A_Chinese_Biographical_Dictionary), it must be admitted, is a work of immense labour. But here again Dr.  Giles shows an utter lack of the most ordinary judgment. In such a work, one would expect to find notices only of really notable men.
+Dr. Giles' [Chinese biographical dictionary](https://en.wikisource.org/wiki/A_Chinese_Biographical_Dictionary), it must be admitted, is a work of immense labour. But here again Dr. Giles shows an utter lack of the most ordinary judgment. In such a work, one would expect to find notices only of really notable men.
 
 
 
-Hic manus ob patriam pugnando vulnera passi, 
- Quique sacerdotes casti, dum vita manebat, 
- Quique pii vates et Phoebo digna locuti, 
- Inventas aut qui vitam excoluere per artes, 
- Quique sui memores aliquos fecere merendo.
+Hic manus ob patriam pugnando vulnera passi,
+Quique sacerdotes casti, dum vita manebat,
+Quique pii vates et Phoebo digna locuti,
+Inventas aut qui vitam excoluere per artes,
+Quique sui memores aliquos fecere merendo.
 
-But side by side with sages and heroes of antiquity, with mythical  and mythological personages, we find General Tcheng Ki-tong, Mr. Ku  Hung-ming, Viceroy Chang Chi-tung and Captain Lew Buah,—the last whose  sole title to distinction is that he used often to treat his foreign  friends with unlimited quantities of champagne!
+But side by side with sages and heroes of antiquity, with mythical and mythological personages, we find General Tcheng Ki-tong, Mr. Ku Hung-ming, Viceroy Chang Chi-tung and Captain Lew Buah,—the last whose sole title to distinction is that he used often to treat his foreign friends with unlimited quantities of champagne!
 
-Lastly these "Adversaria,"—Dr. Giles latest publication—will not, I am afraid, enhance Dr. Giles reputation as a scholar of sense and  judgment. The subjects chosen, for the most part, have no earthly  practical or human interest. It would really seem that Dr. Giles has  taken the trouble to write these books not with any intention to tell  the world anything about the Chinese and their literature but to show  what a learned Chinese scholar Dr. Giles is and how much better he  understands Chinese than anybody else. Moreover, Dr. Giles, here as  elsewhere, shows a harsh and pugnacious dogmatism which is as  unphilosophical, as unbecoming a scholar as it is unpleasing. It is  these characteristics of sinologues like Dr. Giles which have made, as  Mr. Hopkins says, the very name of sinologue and Chinese scholarship a  byword and scorn among practical foreign residents in the Far East.
+Lastly these "Adversaria,"—Dr. Giles latest publication—will not, I am afraid, enhance Dr. Giles reputation as a scholar of sense and judgment. The subjects chosen, for the most part, have no earthly practical or human interest. It would really seem that Dr. Giles has taken the trouble to write these books not with any intention to tell the world anything about the Chinese and their literature but to show what a learned Chinese scholar Dr. Giles is and how much better he understands Chinese than anybody else. Moreover, Dr. Giles, here as elsewhere, shows a harsh and pugnacious dogmatism which is as unphilosophical, as unbecoming a scholar as it is unpleasing. It is these characteristics of sinologues like Dr. Giles which have made, as Mr. Hopkins says, the very name of sinologue and Chinese scholarship a byword and scorn among practical foreign residents in the Far East.
 
- I shall here select two articles from Dr. Giles latest publication and  will try to show that if hitherto writings of foreign scholars on the  subjects of Chinese learning and Chinese literature have been without  human or practical interest, the fault is not in Chinese learning and  Chinese literature. 
+I shall here select two articles from Dr. Giles latest publication and will try to show that if hitherto writings of foreign scholars on the subjects of Chinese learning and Chinese literature have been without human or practical interest, the fault is not in Chinese learning and Chinese literature.
 
-The first article is entitled "What is filial piety." The point  in the article turns upon the meaning of two Chinese characters. A  disciple asked what is filial piety. Confucius said: *se nan* 色難 (lit, colour difficult). 
+The first article is entitled "What is filial piety." The point in the article turns upon the meaning of two Chinese characters. A disciple asked what is filial piety. Confucius said: *se nan* 色難 (lit, colour difficult).
 
-Dr. Giles says, "The question is, and has been for twenty  centuries past, what do these two characters mean?" After citing and  dismissing all the interpretations and translations of native and  foreign scholars alike, Dr. Giles of course finds out the true meaning.  In order to show Dr. Giles harsh and unscholarly dogmatic manner, I  shall here quote Dr. Giles' words with which he announces his discovery. Dr. Giles says:—
+Dr. Giles says, "The question is, and has been for twenty centuries past, what do these two characters mean?" After citing and dismissing all the interpretations and translations of native and foreign scholars alike, Dr. Giles of course finds out the true meaning. In order to show Dr. Giles harsh and unscholarly dogmatic manner, I shall here quote Dr. Giles' words with which he announces his discovery. Dr. Giles says:—
 
-"It may seem presumptuous after the above exordium to declare  that the meaning lies à la Bill Stumps (!) upon the surface, and all you have to do, as the poet says, is to 
+"It may seem presumptuous after the above exordium to declare that the meaning lies à la Bill Stumps (!) upon the surface, and all you have to do, as the poet says, is to
 
-Stoop, and there it is; 
- Seek it not right nor left!
+Stoop, and there it is;
+Seek it not right nor left!
 
-"When Tzu-hsia asked Confucius, 'What is filial piety?' the latter replied simply, 
+"When Tzu-hsia asked Confucius, 'What is filial piety?' the latter replied simply,
 
 "'*se* (色) to define it, *nan* (難) is difficult,' a most intelligible and appropriate answer."
 
- I shall not here enter into the niceties of Chinese grammar to show that  Dr. Giles is wrong. I will only say here that if Dr. Giles is right in  supposing that the character *se* (色) is a verb, then in good grammatical Chinese, the sentence would not read *se nan* (色難), but *se chih wei nan* (色之維難) to define it, is difficult. The impersonal pronoun' *chih* (之) *it*, is here absolutely indispensable, if the character *se* (色) here is used as a verb.
+I shall not here enter into the niceties of Chinese grammar to show that Dr. Giles is wrong. I will only say here that if Dr. Giles is right in supposing that the character *se* (色) is a verb, then in good grammatical Chinese, the sentence would not read *se nan* (色難), but *se chih wei nan* (色之維難) to define it, is difficult. The impersonal pronoun' *chih* (之) *it*, is here absolutely indispensable, if the character *se* (色) here is used as a verb.
 
-But apart from grammatical niceties, the translation as given by  Dr. Giles of Confucius answer, when taken with the whole context, has no point or sense in it at all.
+But apart from grammatical niceties, the translation as given by Dr. Giles of Confucius answer, when taken with the whole context, has no point or sense in it at all.
 
-Tzu hsia asked, what is filial piety? Confucius said, "The difficuly is with the *manner*[[1\]](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/5#cite_note-1) of dong it. That merely when there is work to be done, the young people should take the trouble of dong it, and when there is wine and food, the old folk are allowed to  partake it,—do you really think that is filial piety?" (Discourses and  Sayings Ch. II. 9.) Now the whole point in the text above lies in  this,—that importance is laid not upon *what* duties you perform towards your parents, but upon *how*—in what manner, with what spirit, you perform those duties. 
+Tzu hsia asked, what is filial piety? Confucius said, "The difficuly is with the *manner*[[1\]](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/5#cite_note-1) of dong it. That merely when there is work to be done, the young people should take the trouble of dong it, and when there is wine and food, the old folk are allowed to partake it,—do you really think that is filial piety?" (Discourses and Sayings Ch. II. 9.) Now the whole point in the text above lies in this,—that importance is laid not upon *what* duties you perform towards your parents, but upon *how*—in what manner, with what spirit, you perform those duties.
 
-The greatness and true efficacy of Confucius' moral teaching, I  wish to say here, lies in this very point which Dr. Giles fails to  see,—the point namely that in the performance of moral duties, Confucius insisted upon the importance not of the *what*, but of the *how*. For herein lies the difference between what is called morality and religion, between mere rules of moral conduct and the vivfying teaching of great and true religious teachers. Teachers of morality  merely tell you what kind of action is moral and what kind of act-ion is immoral. But true religious teachers do not merely tell you this. True  religious teachers do not merely inculcate the doing of the outward act, but insist upon the importance of the manner, the *inwardness* of the act. True religious teachers teach that the morality or immorality of our actions does not consist in *what* we do, but in *how* we do it. 
+The greatness and true efficacy of Confucius' moral teaching, I wish to say here, lies in this very point which Dr. Giles fails to see,—the point namely that in the performance of moral duties, Confucius insisted upon the importance not of the *what*, but of the *how*. For herein lies the difference between what is called morality and religion, between mere rules of moral conduct and the vivfying teaching of great and true religious teachers. Teachers of morality merely tell you what kind of action is moral and what kind of act-ion is immoral. But true religious teachers do not merely tell you this. True religious teachers do not merely inculcate the doing of the outward act, but insist upon the importance of the manner, the *inwardness* of the act. True religious teachers teach that the morality or immorality of our actions does not consist in *what* we do, but in *how* we do it.
 
-This is what Matthew Arnold calls Christ's method in his teaching. When the poor widow gave her mite, it was not *what* she gave that Christ called the attention of his hearers to, but *how* she give it. The moralists said, "Thou shalt not commit adultery." But  Christ said, "I say unto you that whosoever looketh on a woman to lust  after her hath already committed adultery." 
+This is what Matthew Arnold calls Christ's method in his teaching. When the poor widow gave her mite, it was not *what* she gave that Christ called the attention of his hearers to, but *how* she give it. The moralists said, "Thou shalt not commit adultery." But Christ said, "I say unto you that whosoever looketh on a woman to lust after her hath already committed adultery."
 
-In the same way the moralists in Confucius' time said: Children  must cut firewood and carry water for their parents and yield to them  the best of the food and wine in the house: that is filial piety. But  Confucius said, "No; that is *not* filial piety." True filial piety does not consist in the mere outward performance of these services to  our parents. True filial piety consists in *how*, in what manner, with what spirit we perform these services. The difficulty, said Confucius, is with the *manner* of doing it. It is, I will finally say here, by virtue of this method  in his teaching, of looking into the inwardness of moral actions that  Confucius becomes, not as the Christian missionaries say, a mere  moralist and philosopher, but a great and true religious teacher. 
+In the same way the moralists in Confucius' time said: Children must cut firewood and carry water for their parents and yield to them the best of the food and wine in the house: that is filial piety. But Confucius said, "No; that is *not* filial piety." True filial piety does not consist in the mere outward performance of these services to our parents. True filial piety consists in *how*, in what manner, with what spirit we perform these services. The difficulty, said Confucius, is with the *manner* of doing it. It is, I will finally say here, by virtue of this method in his teaching, of looking into the inwardness of moral actions that Confucius becomes, not as the Christian missionaries say, a mere moralist and philosopher, but a great and true religious teacher.
 
-As a further illustration of Confucius method, take the present  reform movement in China. The so called progressive mandarins with  applause from foreign newspapers are making a great fuss—even going to  Europe and America, —trying to find out what reforms to adopt in China.  But unfortunately the salvation of China will not depend upon *what* reforms are made by these progressive mandarins, but upon *how* these reforms are carried out. It seems a pity that these progressive  mandarins, —instead of going to Europe and America, to study  constitution could not be made to stay at home and study Confucius. For  until these mandarins take to heart Confucius' teaching and his method  and attend to the *how* instead of the *what* in this matter of reform, nothing but chaos, misery and suffering will come out of the present reform movement in China. 
+As a further illustration of Confucius method, take the present reform movement in China. The so called progressive mandarins with applause from foreign newspapers are making a great fuss—even going to Europe and America, —trying to find out what reforms to adopt in China. But unfortunately the salvation of China will not depend upon *what* reforms are made by these progressive mandarins, but upon *how* these reforms are carried out. It seems a pity that these progressive mandarins, —instead of going to Europe and America, to study constitution could not be made to stay at home and study Confucius. For until these mandarins take to heart Confucius' teaching and his method and attend to the *how* instead of the *what* in this matter of reform, nothing but chaos, misery and suffering will come out of the present reform movement in China.
 
-The other, article in Dr. Giles "Adversaria Sinica" which I will briefly examine, is entitled— "The four classes." 
+The other, article in Dr. Giles "Adversaria Sinica" which I will briefly examine, is entitled— "The four classes."
 
-The Japanese Baron Suyematzu in an interview said that the  Japanese divided their people into four classes,—soldiers, farmers,  artisans and warriors. Upon this Dr. Giles says. "It is incorrect to translate *shih* (士) as soldier; that is a later meaning." Dr. Giles further says, "in its earliest use the word *shih*  (士) referred to civilians." 
+The Japanese Baron Suyematzu in an interview said that the Japanese divided their people into four classes,—soldiers, farmers, artisans and warriors. Upon this Dr. Giles says. "It is incorrect to translate *shih* (士) as soldier; that is a later meaning." Dr. Giles further says, "in its earliest use the word *shih* (士) referred to civilians."
 
 Now the truth is just on the other side. In its earliest use, the word *shih* (士) referred to gentlemen who in ancient China, as it is now in Europe, bore arms, —the *noblesse* of the sword. Hence the officers and soldiers of an army were spoken of as *shih tsu* (士卒).
 
-The civilian official class in ancient China were called *shi* (史)—clericus. When the feudal system in China was abolished (2nd cent. B.C.,) and fighting ceased to be the only profession of gentlemen, this civilian official class rose into prominence, became lawers and constituted the *noblesse* of the robe as distinguished from the *shih* (士) the *noblesse* of the sword. 
+The civilian official class in ancient China were called *shi* (史)—clericus. When the feudal system in China was abolished (2nd cent. B.C.,) and fighting ceased to be the only profession of gentlemen, this civilian official class rose into prominence, became lawers and constituted the *noblesse* of the robe as distinguished from the *shih* (士) the *noblesse* of the sword.
 
-H.E. the Viceroy Chang of Wuchang once asked me why the foreign  consuls who were civil functionaries, when in full dress, wore swords.  In reply I said that it was because they were *shih* (士) which in  ancient China meant not a civilian scholar, but a gentleman who bore  arms and served in the army. H.E. agreed and the next day gave orders  that all the pupils in the schools in Wuchang should wear military  uniform. 
+H.E. the Viceroy Chang of Wuchang once asked me why the foreign consuls who were civil functionaries, when in full dress, wore swords. In reply I said that it was because they were *shih* (士) which in ancient China meant not a civilian scholar, but a gentleman who bore arms and served in the army. H.E. agreed and the next day gave orders that all the pupils in the schools in Wuchang should wear military uniform.
 
-This question therefore which Dr. Giles has raised whether the Chinese word *shih* (士) means a civilian or a military man has a great practical interest. For the question whether China in the future will be independent or come under a foreign yoke will depend upon whether she will ever have an efficient  army and that question again will depend upon whether the educated and  governing class in China will ever regain the true ancient meaning and  conception of the word *shih* (士) not as civilan scholar, but as a  gentleman who bears arms and is able to defend his country against aggression. 
+This question therefore which Dr. Giles has raised whether the Chinese word *shih* (士) means a civilian or a military man has a great practical interest. For the question whether China in the future will be independent or come under a foreign yoke will depend upon whether she will ever have an efficient army and that question again will depend upon whether the educated and governing class in China will ever regain the true ancient meaning and conception of the word *shih* (士) not as civilan scholar, but as a gentleman who bears arms and is able to defend his country against aggression.
 
-[![The Spirit of the Chinese People i 156.png](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Spirit_of_the_Chinese_People_i_156.png/220px-The_Spirit_of_the_Chinese_People_i_156.png)](https://en.wikisource.org/wiki/File:The_Spirit_of_the_Chinese_People_i_156.png)
+[![The Spirit of the Chinese People i 156.png](c春秋大義.assets/220px-The_Spirit_of_the_Chinese_People_i_156.png)](https://en.wikisource.org/wiki/File:The_Spirit_of_the_Chinese_People_i_156.png)
 
-1. 
+1. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/5#cite_ref-1) Campore another saying of Confucius 巧言令色 *Ch'iao yen ling se*, plausible speech and fine *manners* (Discourses and Sayings Ch. I. 3.)
 
-Campore another saying of Confucius 巧言令色 *Ch'iao yen ling se*, plausible speech and fine *manners* (Discourses and Sayings Ch. I. 3.)
 
-**CHINESE SCHOLARSHIP.**
+
+### **CHINESE SCHOLARSHIP.**
 
 ------
 
 PART I.
 
-Not long ago a body of missionaries created a great deal of amusement by styling themselves, on the cover of some scientific tracts, as  "famous savants" *su ju* (宿儒). The idea was of course extremely  ridiculous. There is certainly not one Chinaman in the whole Empire who  would venture to arrogate to himself the Chinese word *ju*, which  includes in it all the highest attributes of a scholar or literary man.  We often hear, however, a European spoken of as a Chinese scholar. In  the advertisement of the *China Review*, we are told that "among  the missionaries a high degree of Chinese scholarship is assiduously  cultivated." A list is then given of regular contributors, "all," we are to believe, "well-known names, indicative of sound scholarship and  thorough mastery of their subject." 
+Not long ago a body of missionaries created a great deal of amusement by styling themselves, on the cover of some scientific tracts, as "famous savants" *su ju* (宿儒). The idea was of course extremely ridiculous. There is certainly not one Chinaman in the whole Empire who would venture to arrogate to himself the Chinese word *ju*, which includes in it all the highest attributes of a scholar or literary man. We often hear, however, a European spoken of as a Chinese scholar. In the advertisement of the *China Review*, we are told that "among the missionaries a high degree of Chinese scholarship is assiduously cultivated." A list is then given of regular contributors, "all," we are to believe, "well-known names, indicative of sound scholarship and thorough mastery of their subject."
 
-Now in order to estimate the high degree of scholarship said to  be assiduously cultivated by the missionary bodies in China, it is not  necessary to take such high ideal standards as those propounded by the  German [Fichte](https://en.wikisource.org/wiki/Author:Johann_Gottlieb_Fichte) in his lectures upon the Literary Man, or the American [Emerson](https://en.wikisource.org/wiki/Author:Ralph_Waldo_Emerson) in his [Literary Ethics](https://en.wikisource.org/wiki/Literary_Ethics). The late American Minister to Germany, Mr. Taylor, was acknowledged to  be a great German scholar; but though an Englishman who has read a few  plays of [Schiller](https://en.wikisource.org/wiki/Author:Johann_Christoph_Friedrich_von_Schiller), or sent to a magazine some verses translated from [Heine](https://en.wikisource.org/wiki/Author:Heinrich_Heine), might be thought a German scholar among his tea drinking circles, he would  scarcely have his name appear as such in print or placard. Yet among  Europeans in China the publication of a few dialogues in some provincial *patois*, or collection of a hundred proverbs, at once entitles a  man to be called a Chinese scholar.  There is, of course, no harm in a name, and, with the exterritorial  clause in the treaty, an Englishman in China might with impunity call  himself Confucius if so it pleases him. 
+Now in order to estimate the high degree of scholarship said to be assiduously cultivated by the missionary bodies in China, it is not necessary to take such high ideal standards as those propounded by the German [Fichte](https://en.wikisource.org/wiki/Author:Johann_Gottlieb_Fichte) in his lectures upon the Literary Man, or the American [Emerson](https://en.wikisource.org/wiki/Author:Ralph_Waldo_Emerson) in his [Literary Ethics](https://en.wikisource.org/wiki/Literary_Ethics). The late American Minister to Germany, Mr. Taylor, was acknowledged to be a great German scholar; but though an Englishman who has read a few plays of [Schiller](https://en.wikisource.org/wiki/Author:Johann_Christoph_Friedrich_von_Schiller), or sent to a magazine some verses translated from [Heine](https://en.wikisource.org/wiki/Author:Heinrich_Heine), might be thought a German scholar among his tea drinking circles, he would scarcely have his name appear as such in print or placard. Yet among Europeans in China the publication of a few dialogues in some provincial *patois*, or collection of a hundred proverbs, at once entitles a man to be called a Chinese scholar. There is, of course, no harm in a name, and, with the exterritorial clause in the treaty, an Englishman in China might with impunity call himself Confucius if so it pleases him.
 
-We have been led to consider this question because it is thought  by some that Chinese scholarship has passed, or is passing, the early  pioneering, and is about to enter a new, stage, when students of Chinese will not be content with  dictionary-compiling or such other brick-carrying work, but attempts  will be made at works of construction, at translations of the most  perfect specimens of the national literature, and not only judgment, but final judgment, supported with reasons and arguments, be passed upon the most venerated names of the Chinese literary Pantheon. We now propose to examine: 1st, how far it is true that the knowledge of Chinese among Europeans is  undergoing this change: 2ndly, what has already been done in Chinese scholarship; 3rdly, what  is the actual state of Chinese scholarship at the present day; and in  the last place, to point out what we conceive Chinese scholarship should be. It has been said that a dwarf standing upon the shoulders of a  giant is apt to imagine himself of greater dimensions than the giant; still, it must be admitted that the dwarf, with the  advantage of his position, will certainly command a wider and more  extensive view. We will, therefore, standing upon the shoulders of those who have preceded us, take a survey of the past, present, and future of Chinese scholarship; and if, in our attempt, we should be led to  express opinions not wholly of approval of those who have gone before  us, these opinions, we hope, may not be construed to imply that we in  any way plume ourselves upon our superiority: we claim only the  advantage of our position. 
+We have been led to consider this question because it is thought by some that Chinese scholarship has passed, or is passing, the early pioneering, and is about to enter a new, stage, when students of Chinese will not be content with dictionary-compiling or such other brick-carrying work, but attempts will be made at works of construction, at translations of the most perfect specimens of the national literature, and not only judgment, but final judgment, supported with reasons and arguments, be passed upon the most venerated names of the Chinese literary Pantheon. We now propose to examine: 1st, how far it is true that the knowledge of Chinese among Europeans is undergoing this change: 2ndly, what has already been done in Chinese scholarship; 3rdly, what is the actual state of Chinese scholarship at the present day; and in the last place, to point out what we conceive Chinese scholarship should be. It has been said that a dwarf standing upon the shoulders of a giant is apt to imagine himself of greater dimensions than the giant; still, it must be admitted that the dwarf, with the advantage of his position, will certainly command a wider and more extensive view. We will, therefore, standing upon the shoulders of those who have preceded us, take a survey of the past, present, and future of Chinese scholarship; and if, in our attempt, we should be led to express opinions not wholly of approval of those who have gone before us, these opinions, we hope, may not be construed to imply that we in any way plume ourselves upon our superiority: we claim only the advantage of our position.
 
-First, then, that the knowledge of Chinese among Europeans has  changed, is only so far true, it seems to us, that the greater part of  the difficulty of acquiring a knowledge of the language has been  removed. "The once prevalent belief," says Mr. Giles, "in the great  difficulty of acquiring a colloquial knowledge, even of a single Chinese dialect has long since taken its place among other historical  fictions." Indeed, even with regard to the written language, a student  in the British Consular Service, after two years' residence in Peking  and a year or two at a Consulate, can now readily make out at sight the  general meaning of an ordinary despatch. That the knowledge of Chinese  among foreigners in China has so far changed, we readily admit; but what is contended for beyond this we feel very much inclined to doubt. 
+First, then, that the knowledge of Chinese among Europeans has changed, is only so far true, it seems to us, that the greater part of the difficulty of acquiring a knowledge of the language has been removed. "The once prevalent belief," says Mr. Giles, "in the great difficulty of acquiring a colloquial knowledge, even of a single Chinese dialect has long since taken its place among other historical fictions." Indeed, even with regard to the written language, a student in the British Consular Service, after two years' residence in Peking and a year or two at a Consulate, can now readily make out at sight the general meaning of an ordinary despatch. That the knowledge of Chinese among foreigners in China has so far changed, we readily admit; but what is contended for beyond this we feel very much inclined to doubt.
 
-After the early Jesuit missionaries, the publication of Dr. Morrison's famous dictionary is justly regarded as the *point de dêpart* of all that has been accopplished in Chinese scholarship. The work will certainly remain a standing  monument of the earnestness, zeal and conscientiousness of the early  Protestant Missionaries. After Morrison came a class of scholars of whom Sir John Davis and Dr. Gutzlaff might be taken as representatives. Sir  John Davis really knew no Chinese, and he was honest enough to confess  it himself. He certainly spoke Mandarin and could perhaps without much  difficulty read a novel written in that dialect. But such knowledge as  he then possessed, would now-a-days scarcely qualify a man for an  interpretership in any of the Consulates. It is nevertheless very  remarkable that the notions about the Chinese of most Englishmen, even  to this day, will be found to have been acquired from Sir John Davis's  book on China. Dr. Gutzlaff perhaps knew a little more Chinese than Sir  John Davis; but he attempted to pass himself off as knowing a great deal more than he did. The late Mr. Thomas Meadows afterwards did good  service in exposing the pretension of Dr. Gutzlaff, and such other men  as the missionaries Huc and Du Halde. After this, it is curious to find  Mr. [Boulger](https://en.wikisource.org/wiki/Author:Demetrius_Charles_Boulger), in his recent [History of China](https://en.wikisource.org/w/index.php?title=History_of_China&action=edit&redlink=1), quoting these men as authorities. 
+After the early Jesuit missionaries, the publication of Dr. Morrison's famous dictionary is justly regarded as the *point de dêpart* of all that has been accopplished in Chinese scholarship. The work will certainly remain a standing monument of the earnestness, zeal and conscientiousness of the early Protestant Missionaries. After Morrison came a class of scholars of whom Sir John Davis and Dr. Gutzlaff might be taken as representatives. Sir John Davis really knew no Chinese, and he was honest enough to confess it himself. He certainly spoke Mandarin and could perhaps without much difficulty read a novel written in that dialect. But such knowledge as he then possessed, would now-a-days scarcely qualify a man for an interpretership in any of the Consulates. It is nevertheless very remarkable that the notions about the Chinese of most Englishmen, even to this day, will be found to have been acquired from Sir John Davis's book on China. Dr. Gutzlaff perhaps knew a little more Chinese than Sir John Davis; but he attempted to pass himself off as knowing a great deal more than he did. The late Mr. Thomas Meadows afterwards did good service in exposing the pretension of Dr. Gutzlaff, and such other men as the missionaries Huc and Du Halde. After this, it is curious to find Mr. [Boulger](https://en.wikisource.org/wiki/Author:Demetrius_Charles_Boulger), in his recent [History of China](https://en.wikisource.org/w/index.php?title=History_of_China&action=edit&redlink=1), quoting these men as authorities.
 
-In France, Rémusat was the first to occupy a Chair of Chinese  Professorship in any European University. Of his labours we are not in a position to express an opinion. But one book of his attracted notice:  it was a translation of a novel, "The Two Cousins." The book was read by Leigh Hunt, and by him recommended to Carlyle, and by Carlyle to John Stirling, who read it with delight, and said that the  book was certainly written by a man of genius, but "a man of genius after the dragon pattern." The *Ju Kiao Li*,[[1\]](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/6#cite_note-1) as the novel is called in Chinese, is a pleasant enough book to read,  but it takes no high place even among the inferior class of books of  which it is a specimen. Nevertheless it is always pleasant to think that thoughts and images from the brain of a Chinaman have actually passed  through such minds as those of Carlyle and Leigh Hunt.
+In France, Rémusat was the first to occupy a Chair of Chinese Professorship in any European University. Of his labours we are not in a position to express an opinion. But one book of his attracted notice: it was a translation of a novel, "The Two Cousins." The book was read by Leigh Hunt, and by him recommended to Carlyle, and by Carlyle to John Stirling, who read it with delight, and said that the book was certainly written by a man of genius, but "a man of genius after the dragon pattern." The *Ju Kiao Li*,[[1\]](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/6#cite_note-1) as the novel is called in Chinese, is a pleasant enough book to read, but it takes no high place even among the inferior class of books of which it is a specimen. Nevertheless it is always pleasant to think that thoughts and images from the brain of a Chinaman have actually passed through such minds as those of Carlyle and Leigh Hunt.
 
-After Rémusat followed Stanislas Julien and Pauthier. The German  poet Heine says that Julien made the wonderful and important discovery  that Mons. Pauthier did not understand Chinese at all and the latter, on the other hand, also made a discovery, namely that Monsieur Julien knew no Sanscrit. Nevertheless the pioneering work done by these writers was very considerable. One advantage they possessed was that they were  thorough masters of their own language. Another French writer might be  mentioned, Mons. D'Harvey St. Denys, whose translation of the T'ang  poets is a breach made into one department of Chinese literature in  which nothing has been done before or since. 
+After Rémusat followed Stanislas Julien and Pauthier. The German poet Heine says that Julien made the wonderful and important discovery that Mons. Pauthier did not understand Chinese at all and the latter, on the other hand, also made a discovery, namely that Monsieur Julien knew no Sanscrit. Nevertheless the pioneering work done by these writers was very considerable. One advantage they possessed was that they were thorough masters of their own language. Another French writer might be mentioned, Mons. D'Harvey St. Denys, whose translation of the T'ang poets is a breach made into one department of Chinese literature in which nothing has been done before or since.
 
-In Germany Dr. Plath of Munich published a book on China, which he entitled "Die Manchurei." Like all books writen in Germany, it is a solid piece of work throughly well done. Its evident design was to give a history of the origin of the present  Manchu dynasty in China. But the latter portions of the book contain  information on questions connected with China, which we know not where  to find in any other book written in a European language. Such work as  Dr. Williams's Middle Kingdom' is a mere nursery story-book compared  with it. Another German Chinese scholar is Herr von Strauss, formely the Minister of a little German principality which has since 1866 been  swallowed up by Prussia. The old Minister in his retirement amused  himself with the study of Chinese. He published a translation of Lao  Tzu, and recently of the Shih King. Mr. Faber, of Canton, speaks of some portions of his Lao Tzu as being perfect. His translation of the Odes  is also said to be very spirited. We have, unfortunately, not been able  to procure these books. 
+In Germany Dr. Plath of Munich published a book on China, which he entitled "Die Manchurei." Like all books writen in Germany, it is a solid piece of work throughly well done. Its evident design was to give a history of the origin of the present Manchu dynasty in China. But the latter portions of the book contain information on questions connected with China, which we know not where to find in any other book written in a European language. Such work as Dr. Williams's Middle Kingdom' is a mere nursery story-book compared with it. Another German Chinese scholar is Herr von Strauss, formely the Minister of a little German principality which has since 1866 been swallowed up by Prussia. The old Minister in his retirement amused himself with the study of Chinese. He published a translation of Lao Tzu, and recently of the Shih King. Mr. Faber, of Canton, speaks of some portions of his Lao Tzu as being perfect. His translation of the Odes is also said to be very spirited. We have, unfortunately, not been able to procure these books.
 
-The scholars we have named above may be regarded as sinologues of the earliest period, beginning with the publication of Dr. Morrisons's  dictionary. The second period began with the appearance of two standard  works: 1st, the Tzu Erh Chih of Sir Thomas Wade; 2nd, the Chinese  Classics of Dr. Legge. 
+The scholars we have named above may be regarded as sinologues of the earliest period, beginning with the publication of Dr. Morrisons's dictionary. The second period began with the appearance of two standard works: 1st, the Tzu Erh Chih of Sir Thomas Wade; 2nd, the Chinese Classics of Dr. Legge.
 
-As to the first, those who have now gone beyond the Mandarin  colloquial in their knowledge might be inclined to regard it  slightingly. But it is, notwithstanding, a great work—the most perfect,  within the limits of what was attempted, of all the English books that  have been published on the Chinese language. The book, moreover, was  written in response to a crying necessity of the time. Some such book  had to be written, and lo! it was done, and done in a way that  took away all chance of contemporary as well as future competition.
+As to the first, those who have now gone beyond the Mandarin colloquial in their knowledge might be inclined to regard it slightingly. But it is, notwithstanding, a great work—the most perfect, within the limits of what was attempted, of all the English books that have been published on the Chinese language. The book, moreover, was written in response to a crying necessity of the time. Some such book had to be written, and lo! it was done, and done in a way that took away all chance of contemporary as well as future competition.
 
-That the work of translating the Chinese Classics had to be done, was also a necessity of the time, and Dr. Legge has accomplished it,  and the result is a dozen huge, ponderous tomes. The quantity of work  done is certainly stupendous, whatever may be thought of the quality. In presence of these huge volumes we feel almost afraid to speak.  Nevertheless, it must be confessed that the work does not altogether  satisfy us. Mr. Balfour justly remarks that in translating these  classics a great deal depends upon the *terminology* employed by  the translator. Now we  feel that the terminology employed by Dr. Legge is  harsh, crude, inadequate, and in some places, almost  unidiomatic. So far for the form. As to the matter,  we will not hazard our own opinion, but will let the  Rev. Mr. Faber of Canton speak for us. "Dr. Legge's own notes on  Mencius," he says, "show that Dr. Legge has not a philosophic  understanding of his author." We are certain that Dr. Legge could not  have read and translated these works without having in some way tried to conceive and shape to his own mind the teaching of Confucius and his  school as a connected whole; yet it is extraordinary that neither in his notes nor in his dissertations has Dr. Legge let slip a single phrase  or sentence to show what he conceived the teaching of Confucius really  to be, as a philosophic whole. Altogether, therefore, Dr. Legge's judgment on the value of these works cannot by any means be  accepted as final, and the translator of the Chinese Classics is yet to come. Since the appearance of the  two works above mentioned, many books have been written on China: a few, it is true, of really great  scholastic importance; but none, we believe showing that Chinese scholarship has reached an important  turning point. 
+That the work of translating the Chinese Classics had to be done, was also a necessity of the time, and Dr. Legge has accomplished it, and the result is a dozen huge, ponderous tomes. The quantity of work done is certainly stupendous, whatever may be thought of the quality. In presence of these huge volumes we feel almost afraid to speak. Nevertheless, it must be confessed that the work does not altogether satisfy us. Mr. Balfour justly remarks that in translating these classics a great deal depends upon the *terminology* employed by the translator. Now we feel that the terminology employed by Dr. Legge is harsh, crude, inadequate, and in some places, almost unidiomatic. So far for the form. As to the matter, we will not hazard our own opinion, but will let the Rev. Mr. Faber of Canton speak for us. "Dr. Legge's own notes on Mencius," he says, "show that Dr. Legge has not a philosophic understanding of his author." We are certain that Dr. Legge could not have read and translated these works without having in some way tried to conceive and shape to his own mind the teaching of Confucius and his school as a connected whole; yet it is extraordinary that neither in his notes nor in his dissertations has Dr. Legge let slip a single phrase or sentence to show what he conceived the teaching of Confucius really to be, as a philosophic whole. Altogether, therefore, Dr. Legge's judgment on the value of these works cannot by any means be accepted as final, and the translator of the Chinese Classics is yet to come. Since the appearance of the two works above mentioned, many books have been written on China: a few, it is true, of really great scholastic importance; but none, we believe showing that Chinese scholarship has reached an important turning point.
 
-First, there is Mr. [Wylie](https://en.wikisource.org/wiki/Author:Alexander_Wylie)'s "[Notes on Chinese Literature.](https://en.wikisource.org/w/index.php?title=Notes_on_Chinese_Literature.&action=edit&redlink=1)" It is, however, a mere catalogue, and not a book with any literary  pretension at all. Another is the late Mr. Mayers's "Chinese Readers  Manual." It is certainly not a work that can lay claim to any degree of  perfection. Nevertheless, it is a very great work, the most honest  conscientious and unpretending of all the books that have been written  on China. Its usefulness, moreover, is inferior only to the Tzu-Erh-Chi  of Sir Thomas Wade.
+First, there is Mr. [Wylie](https://en.wikisource.org/wiki/Author:Alexander_Wylie)'s "[Notes on Chinese Literature.](https://en.wikisource.org/w/index.php?title=Notes_on_Chinese_Literature.&action=edit&redlink=1)" It is, however, a mere catalogue, and not a book with any literary pretension at all. Another is the late Mr. Mayers's "Chinese Readers Manual." It is certainly not a work that can lay claim to any degree of perfection. Nevertheless, it is a very great work, the most honest conscientious and unpretending of all the books that have been written on China. Its usefulness, moreover, is inferior only to the Tzu-Erh-Chi of Sir Thomas Wade.
 
-Another Chinese scholar of note is Mr. [Herbert A. Giles](https://en.wikisource.org/wiki/Author:Herbert_Allen_Giles) of the British Consular Service. Like the early French sinologues, Mr.  Giles possesses the enviable advantage of a clear, vigorous, and  beautiful style. Every object he touches upon becomes at once clear and  luminous. But with one or two exceptions, he has not been quite  fortunate in the choice of subjects worthy of his pen. One exception is  the "[Strange Stories from a Chinese Studio](https://en.wikisource.org/w/index.php?title=Strange_Stories_from_a_Chinese_Studio&action=edit&redlink=1)," which may be taken as a model of what translation from the Chinese should be. But the *Liao-chai-chih-i*, a remarkably beautiful literary work of art though it be, belongs yet not to the highest specimens of Chinese literature. 
+Another Chinese scholar of note is Mr. [Herbert A. Giles](https://en.wikisource.org/wiki/Author:Herbert_Allen_Giles) of the British Consular Service. Like the early French sinologues, Mr. Giles possesses the enviable advantage of a clear, vigorous, and beautiful style. Every object he touches upon becomes at once clear and luminous. But with one or two exceptions, he has not been quite fortunate in the choice of subjects worthy of his pen. One exception is the "[Strange Stories from a Chinese Studio](https://en.wikisource.org/w/index.php?title=Strange_Stories_from_a_Chinese_Studio&action=edit&redlink=1)," which may be taken as a model of what translation from the Chinese should be. But the *Liao-chai-chih-i*, a remarkably beautiful literary work of art though it be, belongs yet not to the highest specimens of Chinese literature.
 
-Next to Dr. Legge's labours, Mr. Balfour's recent translation of  the Nan-hua King of Chuang-tzu is a work of certainly the highest  ambition. We confess to having experienced, when we first heard the work announced, a degree of expectation and delight which the announcement  of an Englishman entering the Hanlin College would scarcely have raised  in us. The Nan-hua King is acknowledged by the Chinese to be one of the  most perfect of the highest specimens of their national literature.  Since its appearance two centuries before the Christian era, the  influence of the book upon the literature of China is scarcely inferior  to the works of Confucius and his schools; while its effect upon the  language and spirit of the poetical and imaginative literature of  succeeding dynasties is almost as exclusive as that of the Four Books  and Five Chinese upon the philosophical works of China. But Mr.  Balfour's work is not a translation at all; it is simply a *mistranslation*. This, we acknowledge, is a heavy, and for us, daring judgment to pass  upon a work upon which Mr. Balfour must have spent many years. But we  have ventured it, and it will be expected of us to make good our  judgment. We believe Mr. Balfour would hardly condesend to join issue  with us if we were to raise the question of the true interpretation of  the philosophy of Chuang-tzu. "But,"—we quote from the Chinese preface  of Lin Hsi-chnng, a recent editor of the Nan-hua King—"in reading a book, it is necessary to understand first the meaning of each single word: then only can you  construe the sentences, then only can you perceive the arrangement of  the paragraphs; and then, last of all, can you get at the central  proposition of the whole chapter." New every page of Mr. Balfour's translation bears marks that he has not  understood the meaning of many single words, that he has not construed  the sentences correctly, and that he has missed the arrangement of the  paragraphs. If these propositions which we have assumed can be proved to be true, as they can easily be done, being merely points regarding  rules of grammar and syntax, it then follows very clearly that Mr.  Balfour has missed the meaning and central proposition of whole  chapters. 
+Next to Dr. Legge's labours, Mr. Balfour's recent translation of the Nan-hua King of Chuang-tzu is a work of certainly the highest ambition. We confess to having experienced, when we first heard the work announced, a degree of expectation and delight which the announcement of an Englishman entering the Hanlin College would scarcely have raised in us. The Nan-hua King is acknowledged by the Chinese to be one of the most perfect of the highest specimens of their national literature. Since its appearance two centuries before the Christian era, the influence of the book upon the literature of China is scarcely inferior to the works of Confucius and his schools; while its effect upon the language and spirit of the poetical and imaginative literature of succeeding dynasties is almost as exclusive as that of the Four Books and Five Chinese upon the philosophical works of China. But Mr. Balfour's work is not a translation at all; it is simply a *mistranslation*. This, we acknowledge, is a heavy, and for us, daring judgment to pass upon a work upon which Mr. Balfour must have spent many years. But we have ventured it, and it will be expected of us to make good our judgment. We believe Mr. Balfour would hardly condesend to join issue with us if we were to raise the question of the true interpretation of the philosophy of Chuang-tzu. "But,"—we quote from the Chinese preface of Lin Hsi-chnng, a recent editor of the Nan-hua King—"in reading a book, it is necessary to understand first the meaning of each single word: then only can you construe the sentences, then only can you perceive the arrangement of the paragraphs; and then, last of all, can you get at the central proposition of the whole chapter." New every page of Mr. Balfour's translation bears marks that he has not understood the meaning of many single words, that he has not construed the sentences correctly, and that he has missed the arrangement of the paragraphs. If these propositions which we have assumed can be proved to be true, as they can easily be done, being merely points regarding rules of grammar and syntax, it then follows very clearly that Mr. Balfour has missed the meaning and central proposition of whole chapters.
 
-But of all the Chinee scholars of the present day we are inclined to place the Reverend Mr.  Faber of Canton at the head. We do not think that Mr. Faber's labours  are of more scholastic value or a higher degree of literary merit than  the works of others, but we find that almost every sentence he has  written shows a grasp of literary and philosophic principles such as we  do not find in any other scholar of the prenent time. What we conceive these principles to be we must reserve for the  next portion of the present paper, when we hope to be able to state the  methods, aims, and objects of Chinese scholarship. 
+But of all the Chinee scholars of the present day we are inclined to place the Reverend Mr. Faber of Canton at the head. We do not think that Mr. Faber's labours are of more scholastic value or a higher degree of literary merit than the works of others, but we find that almost every sentence he has written shows a grasp of literary and philosophic principles such as we do not find in any other scholar of the prenent time. What we conceive these principles to be we must reserve for the next portion of the present paper, when we hope to be able to state the methods, aims, and objects of Chinese scholarship.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Rule_Segment_-_Span_-_50px.svg/50px-Rule_Segment_-_Span_-_50px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rule_Segment_-_Flare_Left_-_12px.svg/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rule_Segment_-_Flare_Right_-_12px.svg/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Rule_Segment_-_Span_-_50px.svg/50px-Rule_Segment_-_Span_-_50px.svg.png)
+![img](c春秋大義.assets/50px-Rule_Segment_-_Span_-_50px.svg.png)![img](c春秋大義.assets/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](c春秋大義.assets/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Rule_Segment_-_Span_-_50px.svg/50px-Rule_Segment_-_Span_-_50px.svg.png)
 
- 
+1. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/6#cite_ref-1) 玉嬌梨
 
-1. 
 
-1.  玉嬌梨
 
-[[128](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/174)]
-
-[[129](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/175)]
-
-[[130](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/176)]
-
-[[131](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/177)]
-
-[[132](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/178)]
-
-[[133](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/179)]
-
-[[134](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/180)]
-
-[[135](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/181)]
-
-[[136](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/182)]
-
-[[137](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/183)]
-
-**CHINESE SCHOLARSHIP.**
+### **CHINESE SCHOLARSHIP.**
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rule_Segment_-_Diamond_-_4px.svg/5px-Rule_Segment_-_Diamond_-_4px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Rule_Segment_-_Fancy1_-_40px.svg/40px-Rule_Segment_-_Fancy1_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rule_Segment_-_Diamond_-_4px.svg/5px-Rule_Segment_-_Diamond_-_4px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
 
@@ -1093,54 +968,31 @@ Here let us remark that, in the study of a literature, there is  one important p
 
 Having thus, as we have shown, equipped himself with the primary  principles and notions of the people, the student will then be in a  position to direct his study to the social relations of the people; to  see how these principles are applied and carried out. But the social  institutions, manners and customs of a people do not grow up, like  mushrooms, in a night, but are developed and formed into what they are,  through long centuries. It is therefore necessary to study the history the of people. Now the history of the Chinese people is as yet almost unknown  to European scholars. The so-called History of China, by Mr. Demetrius Boulger, published recently, is perhaps the worst history that could have been  written of a civilised people like the Chinese. Such a history as Mr.  Boulger has written might be tolerated if written of some such savage  people as the Hottentots. The very fact that such a history of China  could have been published, servies only to show how very far from being perfect yet is the knowledge of  Chinese among Europeans. Without a knowledge of their history,  therefore, no correct judgment can be formed of the social institutions  of a people. Such works as Dr. Williams's Middle Kingdom and other works on China from want of such knowledge, are not only useless for the  purpose of the scholar, but are even misleading for the massf o general readers. Just to take one instance,—the social ceremony of the  people. The Chinese are certainly a ceremonious people, and it is true  that they owe this to the influence of the teaching of Confucius. Now  Mr. Balfour may speak of the pettifogging observances of a ceremonial  life as much as he pleases; nevertheless, even "the bows and scrapes of  external decorum," as Mr. Giles calls them, have their roots deep in the universal nature of man, in that side of human nature, namely, which we have defined as the sense of the beautiful. "In the use of ceremony,"  says a disciple of Confucius, "what is important, is to be natural; this is what is really beautiful in the ways of the ancient Emperors."  Again, it is said somewhere in the Classics: "Ceremony is simply the  expression of reverence." (the *Ehrfürcht* of Goethe's *Wilhelm Meister.*) We now see how evident it is that a judgment of the manners and customs of a nation should be founded upon the knowledge of the moral  principles of the people. Moreover the study, of the Government and  political institutions of a country,—which, we have said should be  reserved by the student to the last stage of his labours,—must also be  founded upon an understanding of their philosophical principles and a  knowledge of their history. 
 
-We will conclude with a quotation from "The "Higher Education," or the Book of Platitudes, as foreigners consider it. "The  Government of the Empire," it is said in that book, "should begin with  the proper administration of the State; the administration of the State  begins with the regulation of the family; the regulation of the family  begins with the cultivation of the individual." This, then, is what we  mean by Chinese Scholarship. 
+We will conclude with a quotation from "The "Higher Education," or the Book of Platitudes, as foreigners consider it. "The Government of the Empire," it is said in that book, "should begin with the proper administration of the State; the administration of the State begins with the regulation of the family; the regulation of the family begins with the cultivation of the individual." This, then, is what we mean by Chinese Scholarship.
 
 
- This article on Chinese Scholarship was written and published in the "N.C. Daily News" in Shanghai in 1884.—Exactly thirty years ago!
+This article on Chinese Scholarship was written and published in the "N.C. Daily News" in Shanghai in 1884.—Exactly thirty years ago!
+
+![img](c春秋大義.assets/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](c春秋大義.assets/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](c春秋大義.assets/10px-Rule_Segment_-_Curl_Left_-_10px.svg.png)![img](c春秋大義.assets/40px-Rule_Segment_-_Fancy1_-_40px.svg.png)![img](c春秋大義.assets/10px-Rule_Segment_-_Curl_Right_-_10px.svg.png)![img](c春秋大義.assets/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
+
+1. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/7#cite_ref-1) Known among foreigners as the "Great Learning."
 
 
 
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rule_Segment_-_Flare_Left_-_12px.svg/12px-Rule_Segment_-_Flare_Left_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rule_Segment_-_Curl_Left_-_10px.svg/10px-Rule_Segment_-_Curl_Left_-_10px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Rule_Segment_-_Fancy1_-_40px.svg/40px-Rule_Segment_-_Fancy1_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rule_Segment_-_Curl_Right_-_10px.svg/10px-Rule_Segment_-_Curl_Right_-_10px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rule_Segment_-_Flare_Right_-_12px.svg/12px-Rule_Segment_-_Flare_Right_-_12px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
-
-1. 
-
-1.  Known among foreigners as the "Great Learning."
-
-[[138](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/184)]
-
-[[139](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/185)]
-
-[[140](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/186)]
-
-[[141](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/187)]
-
-[[142](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/188)]
-
-[[143](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/189)]
-
-[[144](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/190)]
-
-[[145](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/191)]
-
-[[146](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/192)]
-
-APPENDIX.
+### APPENDIX.
 
 The Religion of Mob-Worship
 or
 The War and The Way Out.
 
-Frankreich's traurig Geschick, die Grossen mögen's bedenken, 
- ⁠Aber bedenken fürwahr sollen es Kleine noch mehr; 
- Grossen gingen zu Grunde; doch wer beschütze die Menge 
- ⁠Gegen die Menge? Da war Menge der Menge  Tyrann.<ref><poem>Dreadful is France's misfortune, the  Classes should truly bethink them,
- ⁠But still more of a truth, the Masses should lay it to heart.
- Classes were smashed up; well then, but who will protect now the Masses
- ⁠'Gainst the Masses? Against the Masses the Masses did rage.
+Frankreich's traurig Geschick, die Grossen mögen's bedenken,
+⁠Aber bedenken fürwahr sollen es Kleine noch mehr;
+Grossen gingen zu Grunde; doch wer beschütze die Menge
+⁠Gegen die Menge? Da war Menge der Menge Tyrann.[[1\]](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/8#cite_note-1)
 
 Goethe.
 
- PROFESSOR Lowes Dickinson of Cambridge University in an eloquent passage of his  article on "The War and the Way out," says: "The future (the future of  civilisation in Europe, he means) cannot be moulded to any purpose until the plain men and women, workers with their hands and workers with  their brains in England and in Germany and in all countries get together and say to the people who have led them into this catastrophe and will  lead them into such again and again, "No more! No more! And never again! you rulers, soldiers and diplomats, you who through the long agony of  history have conducted the destinies of mankind and conducted them to  hell, we do now repudiate you. Our labour and our blood have been at  your disposal. They shall be so no more. You shall not make the peace as you have made the war. The Europe that shall come out of this war shall be *our* Europe. And it shall be one in which another European war shall be never possible." 
+PROFESSOR Lowes Dickinson of Cambridge University in an eloquent passage of his article on "The War and the Way out," says: "The future (the future of civilisation in Europe, he means) cannot be moulded to any purpose until the plain men and women, workers with their hands and workers with their brains in England and in Germany and in all countries get together and say to the people who have led them into this catastrophe and will lead them into such again and again, "No more! No more! And never again! you rulers, soldiers and diplomats, you who through the long agony of history have conducted the destinies of mankind and conducted them to hell, we do now repudiate you. Our labour and our blood have been at your disposal. They shall be so no more. You shall not make the peace as you have made the war. The Europe that shall come out of this war shall be *our* Europe. And it shall be one in which another European war shall be never possible."
 
 That is the dream of the socialists now in Europe. But such a  dream, I am afraid, can never be realised. When the plain men and women  in the countries of Europe get rid of the rulers, soldiers and diplomats and take into their own  hands the question of peace and war with another country, I am perfectly sure, before that very question is decided, there will be quarrels,  broken heads and wars between the plain men and women themselves in  every country. Take the case of the Irish question in Great Britain. The plain men and women in Ireland in trying to take into their own hands  the question even of how to govern themselves were actually flying at  each others' throats and if this greater war had not come, would at this moment, be cutting each other's throats. 
 
@@ -1184,66 +1036,18 @@ Now before I conclude, I want to say a word about militarism,  about German mili
 
 The French Joubert who had lived through the French Revolution in answer to the modern cry for liberty said: "Let your cry be for free  souls rather than for free men. Moral liberty is the one vitally  important liberty, the liberty which is indispensible; the other liberity is good and salutary only so far as it favours this. *Subordination is in itself a better thing than independance. The one implies order and arrangement; the other implies only self sufficiency with isolation*. The one means harmony, the other, a single tone; the one, is the whole, the other is but the psart." 
 
-This then, I say, is the one and only way for the  people of Europe, for the people of the countries now  at war, not only to get out of this war, but to save the civilisation of Europe,—to save the civilisation of the world, and that is for them now to tear up their present Magna Chartas of liberty and Constitutions,  and make a new Magna Charta,—a Magna Charta not of liberty,  but a Magna Charta of Loyalty; in fact to adopt the  Religion of good citizenship with its Magna Charta  of Loyalty such as we Chinese have here in China.
- **AB INTEGRO SAECLORUM NASCITUR ORDO!**
-
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rule_Segment_-_Flare_Centre_-_14px.svg/14px-Rule_Segment_-_Flare_Centre_-_14px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Rule_Segment_-_Fancy1_-_40px.svg/40px-Rule_Segment_-_Fancy1_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rule_Segment_-_Flare_Centre_-_14px.svg/14px-Rule_Segment_-_Flare_Centre_-_14px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
-
-1. 
-
- Peace in the Far East, I say, until lately the mob-worshipping Statesmen of  Great Britain got their apt pupils the now also mob-worshipping Statemen of Japan, men like Count Okuma, who is the greatest mob-worshipper now in Japan,—to make war aganist a handful of German clerks in Tsingtau!
-
-
-
- The panic of the mob in Great Britain,—especially the selfish panic of the  British mob in Shanghai and in China whose mouth piece then was the  "great" Dr. Morrison the "Times" correspondent in Peking, with their  shout for the "open door" in Manchuria alarmed and incited the Japanese  into the Russo-Japanese war.
-
-
-
-1. 罔違道以干百姓之譽
-   罔拂百姓以從己之欲
-   (Shu-king or Canon of History in the Confucian Bible: Part II ch. 1.6)
-
-[[147](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/193)]
-
-[[148](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/194)]
-
-[[149](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/195)]
-
-[[150](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/196)]
-
-[[151](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/197)]
-
-[[152](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/198)]
-
-[[153](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/199)]
-
-[[154](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/200)]
-
-[[155](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/201)]
-
-[[156](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/202)]
-
-[[157](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/203)]
-
-[[158](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/204)]
-
-[[159](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/205)]
-
-[[160](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/206)]
-
-[[161](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/207)]
-
-[[162](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/208)]
-
-[[163](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/209)]
-
-[[164](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/210)]
-
-[[165](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/211)]
-
-[[166](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/212)]
-
-[[167](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/213)]
-
-[[168](https://en.wikisource.org/wiki/Page%3AThe_Spirit_of_the_Chinese_People.djvu/214)]
+1. This then, I say, is the one and only way for the people of Europe, for the people of the countries now at war, not only to get out of this war, but to save the civilisation of Europe,—to save the civilisation of the world, and that is for them now to tear up their present Magna Chartas of liberty and Constitutions, and make a new Magna Charta,—a Magna Charta not of liberty, but a Magna Charta of Loyalty; in fact to adopt the Religion of good citizenship with its Magna Charta of Loyalty such as we Chinese have here in China.
+   **AB INTEGRO SAECLORUM NASCITUR ORDO!**
+   
+   ![img](c春秋大義.assets/40px-Rule_Segment_-_Span_-_40px.svg.png)![img](c春秋大義.assets/14px-Rule_Segment_-_Flare_Centre_-_14px.svg.png)![img](c春秋大義.assets/40px-Rule_Segment_-_Fancy1_-_40px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rule_Segment_-_Flare_Centre_-_14px.svg/14px-Rule_Segment_-_Flare_Centre_-_14px.svg.png)![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rule_Segment_-_Span_-_40px.svg/40px-Rule_Segment_-_Span_-_40px.svg.png)
+   
+   1. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/8#cite_ref-1)Dreadful is France's misfortune, the Classes should truly bethink them,
+      ⁠But still more of a truth, the Masses should lay it to heart.
+      Classes were smashed up; well then, but who will protect now the Masses
+      ⁠'Gainst the Masses? Against the Masses the Masses did rage.
+   2. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/8#cite_ref-2) Peace in the Far East, I say, until lately the mob-worshipping Statesmen of Great Britain got their apt pupils the now also mob-worshipping Statemen of Japan, men like Count Okuma, who is the greatest mob-worshipper now in Japan,—to make war aganist a handful of German clerks in Tsingtau!
+   3. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/8#cite_ref-3) The panic of the mob in Great Britain,—especially the selfish panic of the British mob in Shanghai and in China whose mouth piece then was the "great" Dr. Morrison the "Times" correspondent in Peking, with their shout for the "open door" in Manchuria alarmed and incited the Japanese into the Russo-Japanese war.
+   4. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/8#cite_ref-4) 罔違道以干百姓之譽
+      罔拂百姓以從己之欲
+      (Shu-king or Canon of History in the Confucian Bible: Part II ch. 1.6)
 
