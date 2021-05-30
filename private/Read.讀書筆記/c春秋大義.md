@@ -1047,7 +1047,8 @@ The French Joubert who had lived through the French Revolution in answer to the 
       ⁠'Gainst the Masses? Against the Masses the Masses did rage.
    2. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/8#cite_ref-2) Peace in the Far East, I say, until lately the mob-worshipping Statesmen of Great Britain got their apt pupils the now also mob-worshipping Statemen of Japan, men like Count Okuma, who is the greatest mob-worshipper now in Japan,—to make war aganist a handful of German clerks in Tsingtau!
    3. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/8#cite_ref-3) The panic of the mob in Great Britain,—especially the selfish panic of the British mob in Shanghai and in China whose mouth piece then was the "great" Dr. Morrison the "Times" correspondent in Peking, with their shout for the "open door" in Manchuria alarmed and incited the Japanese into the Russo-Japanese war.
-   4. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/8#cite_ref-4) 罔違道以干百姓之譽
+   4. [↑](https://en.wikisource.org/wiki/The_Spirit_of_the_Chinese_People/8#cite_ref-4) 
+      罔違道以干百姓之譽
       罔拂百姓以從己之欲
       (Shu-king or Canon of History in the Confucian Bible: Part II ch. 1.6)
 
