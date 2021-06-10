@@ -37,6 +37,38 @@
 
 
 
+## MESH
+
+**支持 AiMesh 的型号**
+
+RT-AC66U B1-1750
+
+RT-AC68U-1900
+
+RT-AC86U-2900
+
+RT-AC88U-3100
+
+
+
+RT-AX56U-
+
+RT-AX66U-
+
+RT-AX68U-
+
+RT-AX86U-
+
+RT-AX88U-6000
+
+
+
+
+
+
+
+
+
 
 
 动态域名（DDNS）与端口转发
