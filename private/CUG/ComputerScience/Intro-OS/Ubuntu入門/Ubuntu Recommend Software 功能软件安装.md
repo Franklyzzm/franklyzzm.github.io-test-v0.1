@@ -67,3 +67,15 @@ WPS Office
 访问官网：`https://linux.wps.com/`
 下载软件包 wps[].deb 
 安装软件包：`sudo dpkg -i wps[].deb`
+
+
+
+
+
+
+
+fcitx-sunpinyin
+
+gedit
+
+firefox
