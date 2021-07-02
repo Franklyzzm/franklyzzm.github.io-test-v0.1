@@ -17,8 +17,8 @@
 * Live
     * Single
         * CD3+
-            * Mean:mTCR+
             * mTCR+in3
+                * Mean:mTCR+
                 * Q1:CD8+inmTCR
                 * Q2:
                 * Q3:CD4+inmTCR
