@@ -133,18 +133,27 @@
 
 ### 音频编辑
 
-* Audacity
 * Jack(audio)
+
 * Ardour(audio)
+
 * Carla(audio)
+
 * Sequencers and Synthesizers(audio)
+
 * Openshot
+
 * FFMPEG
+
 * Audacity
     Ardour
     Traverso DAW
      Qtractor
     Mixxx
+
+    
+
+<!-- ~~audacity~~ 非法收集数据 -->
 
 
 
