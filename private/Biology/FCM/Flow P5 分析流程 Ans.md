@@ -1,5 +1,7 @@
 # Flow P5 分析流程 Anal
 
+耗竭
+
 ## P5 組分
 
 > CD3
@@ -10,6 +12,11 @@
 >
 > mTCR
 >
+> CD223
+>
+> CD279
+>
+> CD366
 
 
 
@@ -18,26 +25,36 @@
 * Live
     * Single
         * CD3+
+            * CD223+in3
+            * CD279+in3
+            * CD366+in3
             * mTCR+in3
-            * Q1:CD8+
-                * mTCR+in8
-            * Q2:CD4+CD8+
-            * Q3:CD4+
-                * mTCR+in4
-            * Q4:CD4-CD8-
+                * CD223+inM
+                * CD279+inM
+                * CD366+inM
+
+
 
 
 
 > Live
+>
 > > Single
+> >
 > > > CD3+
+> > >
+> > > > CD223+in3
+> > > >
+> > > > CD279+in3
+> > > >
+> > > > CD366+in3
+> > > >
 > > > > mTCR+in3
-> > > > Q1:CD8+
-> > > > > mTCR+in8
-> > > > 
-> > > > Q2:CD4+CD8+
-> > > > Q3:CD4+
-> > > > > mTCR+in4
-> > > > 
-> > > > Q4:CD4-CD8-
+> > > >
+> > > > > CD223+inM
+> > > > >
+> > > > > CD279+inM
+> > > > >
+> > > > > CD366+inM
+
 
