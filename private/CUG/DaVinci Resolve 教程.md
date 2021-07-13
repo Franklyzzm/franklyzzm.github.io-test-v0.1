@@ -15,7 +15,11 @@
 
 
 
+## 常見問題 FAQ:
 
+1. Q：支持視頻格式
+   A：支持 mp4，mov，不支持 mkv，flv，ts，m3u8，obs輸出以上六種，兩種可以導入達芬奇
+2. 
 
 ## Training Books
 
