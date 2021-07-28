@@ -119,6 +119,40 @@
 
 
 
+## 綫纜接口 RF connector
+
+Female/Jack 母<<--<< Male/Plug 公
+
+ <img src="業餘無線電 Amateur Radio.assets/image-20210728121632801.png" alt="image-20210728121632801" style="zoom:15%;" /> From left to right: 50 Ω female, 50 Ω male.
+
+- BNC
+  0Hz~4GHz 
+- UHF connector
+  0~100MHZ
+  SO-239 (socket) <<--<< PL-259 (plug)
+- SMA
+  DC0Hz~18GHz 
+- SMB
+  0~4GHz
+- SMC
+  0~10GHz
+- TNC
+  0~11GHz
+- N connector
+  0~11GHz
+- 
+
+
+
+
+## 莫爾斯電碼 Morse Code
+
+
+
+
+
+
+
 ### Reference
 
 * CARC
@@ -130,8 +164,10 @@
 * [北峰電訊 BFDX](http://www.bfdx.com/)
 * 歐訊
 * 寶豐
+* MIL-STD-348
 * 
 
 
 
 [^1]:http://www.arrl.org/what-is-ham-radio/ 業餘無線電
+
