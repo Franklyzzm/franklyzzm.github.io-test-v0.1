@@ -129,7 +129,7 @@ Female/Jack 母<<--<< Male/Plug 公
   0Hz~4GHz 
 - UHF connector
   0~100MHZ
-  SO-239 (socket) <<--<< PL-259 (plug)
+  M型接口SO-239 (socket) <<--<< PL-259 (plug)
 - SMA
   DC0Hz~18GHz 
 - SMB
