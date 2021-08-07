@@ -4,24 +4,10 @@
 
 Computer-Aided Design (CAD)
 
-[![SOLIDWORKS](https://media.trustradius.com/product-logos/Cm/IA/FF3F17FGM8OJ-180x180.PNG)](https://www.trustradius.com/products/solidworks/reviews)
 
-### [SOLIDWORKS](https://www.trustradius.com/products/solidworks/reviews)
+AutoCAD
 
-
-
-[![DraftSight](https://media.trustradius.com/product-logos/rN/iD/IMMSXO48PVE7-180x180.JPEG)](https://www.trustradius.com/products/draftsight/reviews)
-
-### [DraftSight](https://www.trustradius.com/products/draftsight/reviews)
-
-
-
-[![AutoCAD](https://media.trustradius.com/product-logos/tB/5D/MZMPPGUFXTC3-180x180.JPEG)](https://www.trustradius.com/products/autocad/reviews)
-
-### [AutoCAD](https://www.trustradius.com/products/autocad/reviews)
-
-
-
+SOLIDWORKS
 
 
 
@@ -31,4 +17,26 @@ Computer-Aided Design (CAD)
 
 
 ## 计算机辅助制造 Computer-aided manufacture (CAM)
+
+
+
+
+
+## 公司 COM
+
+ <img src="https://media.trustradius.com/product-logos/Cm/IA/FF3F17FGM8OJ-180x180.PNG" alt="SOLIDWORKS" style="zoom:25%;" />
+
+SOLIDWORKS
+
+ <img src="https://media.trustradius.com/product-logos/tB/5D/MZMPPGUFXTC3-180x180.JPEG" alt="AutoCAD" style="zoom:25%;" />
+
+AutoDesk
+
+ <img src="https://media.trustradius.com/product-logos/rN/iD/IMMSXO48PVE7-180x180.JPEG" alt="DraftSight" style="zoom:25%;" />
+
+DraftSight
+
+
+
+
 
