@@ -151,6 +151,16 @@ Female/Jack 母<<--<< Male/Plug 公
 
 
 
+## 配件
+
+MC 電鍵 Keys Paddles
+
+Hand Keys
+
+Single Paddle
+
+Twin Paddle
+
 
 
 ### Reference
