@@ -156,7 +156,15 @@ Female/Jack 母<<--<< Male/Plug 公
 
 會0~9，10個數字即可，4個數字代表一個漢字，對應關係參照《中文標準電碼本》。
 
-《中文標準電碼本》
+《中文標準電碼本》《标准中文电码(Chinese Commercial Code)》
+
+中华人民共和国邮电部编写，人民邮电出版社出版的《标准电码本（修订本）》最新版（1983年9月第3版，2008年10月北京第18次印刷）码表制作。共收录简体汉字7077个，特殊字符146个
+
+中文电码，又称：中文商用电码（Chinese commercial code, CCC）、中文电报码（Chinese telegraph  code, CTC）或中文电报明码（Chinese ordinary telegraph code,  COTC），原本是用于电报之中传送中文信息的方法。它是第一个将汉字化作电子信号的编码表。
+
+
+
+
 
 
 
