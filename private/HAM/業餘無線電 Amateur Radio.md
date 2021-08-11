@@ -144,8 +144,19 @@ Female/Jack 母<<--<< Male/Plug 公
 
 
 
-
 ## 莫爾斯電碼 Morse Code
+
+數字0-9
+
+### 英文 
+
+字母 A-Z
+
+### 中文
+
+會0~9，10個數字即可，4個數字代表一個漢字，對應關係參照《中文標準電碼本》。
+
+《中文標準電碼本》
 
 
 
@@ -153,13 +164,20 @@ Female/Jack 母<<--<< Male/Plug 公
 
 ## 配件
 
-MC 電鍵 Keys Paddles
+### 電鍵 MorseCode  Key Paddle
 
-Hand Keys
+- 手鍵 直鍵 Hand Key Straight key
 
-Single Paddle
+- 單槳自動鍵 Single Paddle 
+- 雙槳自動鍵 Twin Paddle
 
-Twin Paddle
+
+
+
+
+
+
+
 
 
 
