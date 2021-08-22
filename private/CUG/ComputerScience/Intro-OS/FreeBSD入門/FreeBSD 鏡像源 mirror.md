@@ -7,6 +7,10 @@
   * Stable 穩定版快照
   * Current 當前版快照
 
+"learn about FreeBSD Release " --for production ! And its newest features! 
+ "learn about FreeBSD Stable " -- for home lab and coders !  
+ "learn about FreeBSD Current" -- for developers ! 
+
 
 
 ## 高校
