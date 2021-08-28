@@ -117,7 +117,7 @@
 * GIMP （Mac/Win/Linux）
 * Inkscape （Mac/Win/Linux）
 * [Blender](https://www.blender.org/download/)([LTS](https://www.blender.org/download/lts/)) （Mac/Win/Linux）－ 2D & 3D 圖形和動畫軟件
-* Krita （Mac/Win/Linux）－ 2D 圖形和動畫軟件
+* [Krita](https://krita.org) （Mac/Win/Linux）－ 2D 圖形和動畫軟件
 * PikoPixel
 * Darktable
 
@@ -128,6 +128,7 @@
 ### 视频编辑
 
 * DaVinci Resolve （Mac/Win/Linux）－ 達芬奇
+* [Kdenlive](https://kdenlive.org)（Mac/Win/Linux）－ 
 * OBS Studio （Mac/Win/Linux）
 * Olive （Mac/Win/Linux）
 
