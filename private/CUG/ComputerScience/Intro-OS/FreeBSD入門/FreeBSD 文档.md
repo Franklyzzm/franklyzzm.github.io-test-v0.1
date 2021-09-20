@@ -23,4 +23,5 @@
 reference
 
 * https://docs.freebsd.org/en/
-* 
+* https://docs.freebsd.org/zh-cn
+
