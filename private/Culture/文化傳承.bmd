@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>Frankly</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts active_chart="1">
+    <chart name="New Chart 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>MIND_MAP</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="文化傳承" x="633" y="376" width="96" height="45" text_b="12, 12, 72, 21">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="2" text="Sub Topic 3" x="452" y="347" width="101" height="22" text_b="2, 2, 97, 18" fold_btn_b="438, 352, 13, 13">
+              <nodes>
+                <node id="3" text="Sub Topic 1" x="253" y="331" width="119" height="22" text_b="20, 2, 97, 18">
+                  <widgets>
+                    <widget type="PICTURE" x="3" y="3" width="16" height="16" align="Left" hyperlink="" display_index="0" padding="0" image_url="160.png" size_type="Thumb" original_size="16, 16" embed_in="False">
+                      <text>160</text>
+                      <thumb><![CDATA[iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFdSURBVDhPrZHNqoJQFIX38/hevogvITWJSIIm0SRopBANMuJAzTQbVIrRn4gERdS+rtO+UCDRoA0LD2t/HxyO9PNRShmTycSaTqeqDEsUOuwEqx7f980SSlerFRdFwf+DMzrswAj+PqPRyJzNZpxlGT8ej8pgBwasaM8ZDodGWabH45Hv9/vHgAELR3Qi13WtIAj4drt9FbBwRCcaDAZqt9vx5XLh6/X6MWDAwhGdqN/v60cKw1B/AeR5zufzWQdndK8MHNGJer2eLvFAL7+uMmDAwhGdqNPpqM1mw1EU8Xw+/xgwYOGITtRut63xeMxJkvByudTXrAp2YMDCEZ2o1WoZjuOki8WCt9stx3HM6/X6LeiwAwMWjujPaTQaZrfb1b/ocDjwfr/XD4fgjA47MGBFe596vW42m83U8zx95dPppIMzOuzACF49tm0bZaxarabKsEShw06wXw3RH4JIS9WqBJddAAAAAElFTkSuQmCC]]></thumb>
+                    </widget>
+                  </widgets>
+                </node>
+                <node id="4" text="Sub Topic 2" x="253" y="363" width="119" height="22" text_b="20, 2, 97, 18">
+                  <widgets>
+                    <widget type="PICTURE" x="3" y="3" width="16" height="16" align="Left" hyperlink="" display_index="0" padding="0" image_url="158.png" size_type="Thumb" original_size="16, 16" embed_in="False">
+                      <text>158</text>
+                      <thumb><![CDATA[iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFgSURBVDhPrZM7qsJgEEZnPakUEcQHiGCjiBaCb3xGQQtLCwUhiNrYWAhuKtvIMubmxBGuEIKFAx8MM+ckf0IiP6/VauUsFgvPdV1/uVwqoWfGzrD4CiE3TLDf7/V2u+nz+YxCz4wdjOGfNR6P3fV6rZfLRR+PR2zYwcCa9qrBYOBMp9PgdDrp/X5PDAwsjuki3W7X22630VG/CSyO6SLtdts/HA56Pp/1er0mBgYWx3SRZrOp/X5fG42G9nq96Dl3u50ej8co9MzYwcDimC5Sq9U4khYKBc1kMomBgcUxXaRarfqbzSa6eqlUSgwMLI7pIuVy2et0OjoajbTVamm9Xo8NOxhYHNNFisWiEx4tmEwmSnhGoP9h9t7D4pj+qnw+71YqFR0Oh3y6Op/PdTabRaFnxg4G1rTPymazbi6XCzgud3z/C/TM2MEYHl+pVMpJp9NeGP/95umZsTPsVyXyB7EtXM4IYWt2AAAAAElFTkSuQmCC]]></thumb>
+                    </widget>
+                  </widgets>
+                </node>
+              </nodes>
+              <lines>
+                <line target="3" begin_side="Left" end_side="Right" begin_rect="439, 347, 114, 22" end_rect="249, 327, 127, 30" />
+                <line target="4" begin_side="Left" end_side="Right" begin_rect="439, 347, 114, 22" end_rect="249, 359, 127, 30" />
+              </lines>
+            </node>
+            <node id="5" text="Sub Topic 2" x="452" y="443" width="101" height="22" text_b="2, 2, 97, 18" />
+            <node id="6" text="易經" x="809" y="386" width="61" height="25" text_b="20, 2, 39, 21">
+              <widgets>
+                <widget type="PICTURE" x="3" y="4" width="16" height="16" align="Left" hyperlink="" display_index="0" padding="0" image_url="159.png" size_type="Thumb" original_size="16, 16" embed_in="False">
+                  <text>159</text>
+                  <thumb><![CDATA[iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFgSURBVDhPrZK7qsJAEIbnefJcrjYGhDQ2aRatUilI0ICxEPESsRMLwUIhhTGQxkKwzmPM2X8dDwo5cgoHfrKZ+b5lc6GvVxiGjokeDoe5CUty9DATrLoMoEajUbndbvlyufD9frfBGj3MwAj+Xv1+X00mE07TlG+3W2UwAwNWtEf1ej1nMBiUx+ORr9frx4ABC0d0oiAI9HK55KIo/hWwcEQn6nQ6+X6/5/P5zFmWfQwYsHBEJ9Ja82az4fl8bq+73Y4PhwOfTicbrNF7ZeCITuT7Pq/Xax6Px8/P9mfAgIUjOlG73c5XqxXPZjMLfAoYsHBEJ/I8T5u3ykmSWGA6nVYGMzBg4YhO5Lqu02q1yjiOLbBYLOyzvgY9zMCAhSP6o5rNpjLH4iiK7BERfC7keY8ZGLCivVej0VBm57Lb7eK3/d0Aa/QwAyN4dRnAqdVqWimV1+t1RrBGDzPBvlVEPywA5s4s2kWtAAAAAElFTkSuQmCC]]></thumb>
+                </widget>
+              </widgets>
+            </node>
+          </nodes>
+          <lines>
+            <line target="2" begin_side="Left" end_side="Right" begin_rect="633, 376, 96, 45" end_rect="448, 343, 109, 30" />
+            <line target="5" begin_side="Left" end_side="Right" begin_rect="633, 376, 96, 45" end_rect="448, 439, 109, 30" />
+            <line target="6" begin_side="Right" end_side="Left" begin_rect="633, 376, 96, 45" end_rect="805, 382, 69, 33" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+    <chart name="New Chart 2" type="MindMap">
+      <remark>
+      </remark>
+      <layout>MIND_MAP</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="7" text="太極" x="530" y="375" width="63" height="45" text_b="12, 12, 39, 21">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="8" text="陽" x="406" y="385" width="44" height="25" text_b="20, 2, 22, 21">
+              <widgets>
+                <widget type="PICTURE" x="3" y="4" width="16" height="16" align="Left" hyperlink="" display_index="0" padding="0" image_url="160.png" size_type="Thumb" original_size="16, 16" embed_in="False">
+                  <text>160</text>
+                  <thumb><![CDATA[iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFdSURBVDhPrZHNqoJQFIX38/hevogvITWJSIIm0SRopBANMuJAzTQbVIrRn4gERdS+rtO+UCDRoA0LD2t/HxyO9PNRShmTycSaTqeqDEsUOuwEqx7f980SSlerFRdFwf+DMzrswAj+PqPRyJzNZpxlGT8ej8pgBwasaM8ZDodGWabH45Hv9/vHgAELR3Qi13WtIAj4drt9FbBwRCcaDAZqt9vx5XLh6/X6MWDAwhGdqN/v60cKw1B/AeR5zufzWQdndK8MHNGJer2eLvFAL7+uMmDAwhGdqNPpqM1mw1EU8Xw+/xgwYOGITtRut63xeMxJkvByudTXrAp2YMDCEZ2o1WoZjuOki8WCt9stx3HM6/X6LeiwAwMWjujPaTQaZrfb1b/ocDjwfr/XD4fgjA47MGBFe596vW42m83U8zx95dPppIMzOuzACF49tm0bZaxarabKsEShw06wXw3RH4JIS9WqBJddAAAAAElFTkSuQmCC]]></thumb>
+                </widget>
+              </widgets>
+            </node>
+            <node id="9" text="陰" x="673" y="385" width="44" height="25" text_b="20, 2, 22, 21">
+              <widgets>
+                <widget type="PICTURE" x="3" y="4" width="16" height="16" align="Left" hyperlink="" display_index="0" padding="0" image_url="158.png" size_type="Thumb" original_size="16, 16" embed_in="False">
+                  <text>158</text>
+                  <thumb><![CDATA[iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFgSURBVDhPrZM7qsJgEEZnPakUEcQHiGCjiBaCb3xGQQtLCwUhiNrYWAhuKtvIMubmxBGuEIKFAx8MM+ckf0IiP6/VauUsFgvPdV1/uVwqoWfGzrD4CiE3TLDf7/V2u+nz+YxCz4wdjOGfNR6P3fV6rZfLRR+PR2zYwcCa9qrBYOBMp9PgdDrp/X5PDAwsjuki3W7X22630VG/CSyO6SLtdts/HA56Pp/1er0mBgYWx3SRZrOp/X5fG42G9nq96Dl3u50ej8co9MzYwcDimC5Sq9U4khYKBc1kMomBgcUxXaRarfqbzSa6eqlUSgwMLI7pIuVy2et0OjoajbTVamm9Xo8NOxhYHNNFisWiEx4tmEwmSnhGoP9h9t7D4pj+qnw+71YqFR0Oh3y6Op/PdTabRaFnxg4G1rTPymazbi6XCzgud3z/C/TM2MEYHl+pVMpJp9NeGP/95umZsTPsVyXyB7EtXM4IYWt2AAAAAElFTkSuQmCC]]></thumb>
+                </widget>
+              </widgets>
+            </node>
+          </nodes>
+          <lines>
+            <line target="8" begin_side="Left" end_side="Right" begin_rect="530, 375, 63, 45" end_rect="402, 381, 52, 33" />
+            <line target="9" begin_side="Right" end_side="Left" begin_rect="530, 375, 63, 45" end_rect="669, 381, 52, 33" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>
