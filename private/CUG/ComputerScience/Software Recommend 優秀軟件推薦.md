@@ -102,10 +102,11 @@
 ### 下載器 Downloader
 
 * [µTorrent ](https://www.utorrent.com/) （Mac/Win/~~Linux~~）
-* [Transmission](https://transmissionbt.com/) （Mac/Win/Linux）
-* [qBittorrent](https://www.qbittorrent.org/) （Mac/Win/Linux）
-* Internet Download Manager
+* [Transmission](https://transmissionbt.com/) （Mac/Win/FreeBSD/Linux/ALL）
+* [qBittorrent](https://www.qbittorrent.org/) （Mac/Win/FreeBSD/Linux）
 * Free Download Manager
+* Internet Download Manager
+* 
 
 ## 多媒體 Multimedia
 
