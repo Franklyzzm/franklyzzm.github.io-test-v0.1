@@ -82,17 +82,12 @@
 
 ## 網絡 Internet
 
-* Internet Download Manager
-* Free Download Manager
-* µTorrent 
 * Resilio sync （Mac/Win/Linux）
 * FileZilla （Mac/Win/Linux）
 
 **通信**
 
 * Thunderbird （Mac/Win/Linux）雷鳥邮件客户端
-
-
 
 ### 浏览器 browser
 
@@ -104,7 +99,12 @@
 * Signal （Mac/Win/Linux）
 * Telegram （Mac/Win/Linux）
 
+### 下載器 Downloader
 
+* µTorrent 
+* Transmission
+* Internet Download Manager
+* Free Download Manager
 
 ## 多媒體 Multimedia
 
@@ -229,4 +229,5 @@
 * Final Cut Pro（$$）－ 
 * Parallels（$$）－ mac虛擬機
 * Master PDF Editor（$$）－ 
+* Xmind（$$）－ 
 
