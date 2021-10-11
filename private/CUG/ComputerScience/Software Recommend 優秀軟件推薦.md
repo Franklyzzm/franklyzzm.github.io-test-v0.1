@@ -101,8 +101,9 @@
 
 ### 下載器 Downloader
 
-* µTorrent 
-* Transmission
+* [µTorrent ](https://www.utorrent.com/) （Mac/Win/~~Linux~~）
+* [Transmission](https://transmissionbt.com/) （Mac/Win/Linux）
+* [qBittorrent](https://www.qbittorrent.org/) （Mac/Win/Linux）
 * Internet Download Manager
 * Free Download Manager
 
