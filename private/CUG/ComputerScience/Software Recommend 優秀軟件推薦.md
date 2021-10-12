@@ -69,6 +69,7 @@
 
 ## 思維導圖 MindMap
 
+* Blumind
 * 藝圖 MindMaster
 
 
