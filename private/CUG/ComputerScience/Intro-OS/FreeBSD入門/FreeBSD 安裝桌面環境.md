@@ -1,4 +1,8 @@
-# FreeBSD 安裝桌面環境 
+# FreeBSD 安裝桌面環境
+
+更換鏡像源
+
+
 
 Install Desktop Entertainment
 
@@ -11,7 +15,7 @@ root:
 
  pkg update
 
- pkg install nano neofetc
+ pkg install nano neofetch
 
 ```
 nano /etc/fstab
@@ -22,7 +26,9 @@ proc     /proc     procfs     rw    0  0
 
 
 
-pkg install gnome-desktop gdm xorg gnome3-lite
+`pkg install xorg gnome-desktop gdm ` 
+
+`gnome3-lite`
 
 ```
 pkg_delete gnome3-lite
@@ -32,7 +38,16 @@ make install clean
 
 
 
-`pkg install open-vm-tools  vim` 
+`pkg install open-vm-tools  vim`
+
+```
+For example, to start sshd(8), the included OpenSSH daemon:
+
+# echo 'sshd_enable="YES"' >> /etc/rc.conf
+
+```
+
+ 
 
 ```
 nano /etc/rc.conf
@@ -41,7 +56,11 @@ dbus_enable="YES"
 hald_enable="YES"
 gdm_enable="YES"
 gnome_enable="YES"
+
+
 moused_enable="YES"
+allscreens_flags="-m on"
+
 
 ```
 
@@ -52,7 +71,7 @@ moused_enable="YES"
 
 
 ```
-
+pw groupmod wheel -m uername
 
 ```
 
@@ -159,4 +178,37 @@ The Final Moment Awaits
 ```
 
 
+
+
+
+
+
+```
+# pkg update -f
+# pkg info packagename
+# pkg install packagename
+
+# pkg upgrade
+
+查漏洞
+# pkg audit -F
+
+# pkg autoremove
+# pkg clean
+
+```
+
+
+
+```
+
+
+
+# freebsd-update fetch
+# freebsd-update install
+
+# freebsd-update upgrade -r 13.0-RELEASE
+# freebsd-update install
+
+```
 
