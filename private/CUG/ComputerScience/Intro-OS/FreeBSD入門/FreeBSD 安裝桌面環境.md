@@ -1,7 +1,35 @@
 # FreeBSD 安裝桌面環境
 
 更換鏡像源
+```bash
 
+使用方法
+
+FreeBSD pkg 包管理器的官方源配置是 /etc/pkg/FreeBSD.conf ，请先检查该文件内容。注意其中的 url 参数配置了官方仓库的地址，我们需要把它替换为镜像站的地址。
+
+该配置文件是 FreeBSD 基本系统的一部分，会随着 freebsd-update 更新，请不要直接修改，而是创建 /usr/local/etc/pkg/repos/FreeBSD.conf 覆盖配置，文件内容如下：
+
+FreeBSD: {
+  url: "pkg+http://mirrors.ustc.edu.cn/freebsd-pkg/${ABI}/quarterly",
+}
+
+如果要使用滚动更新的 latest 仓库，把 url 配置最后的 quarterly 换成 latest 即可。
+
+修改配置后，运行 pkg update -f 更新索引。
+
+小技巧
+
+使用 HTTPS 可以有效避免国内运营商的缓存劫持，但需要事先安装 security/ca_root_nss 软件包。
+
+
+使用方法
+
+在 /etc/make.conf 中添加以下内容（如果文件不存在，则新建之）：
+
+MASTER_SITE_OVERRIDE?=http://mirrors.ustc.edu.cn/freebsd-ports/distfiles/${DIST_SUBDIR}/
+
+
+```
 
 
 Install Desktop Entertainment
@@ -15,20 +43,28 @@ root:
 
  pkg update
 
- pkg install nano neofetch
+ pkg install nano neofetch zsh
 
-```
+```bash
 nano /etc/fstab
 
-proc     /proc     procfs     rw    0  0
+procf     /proc     procfs     rw    0  0
 
 ```
 
 
 
-`pkg install xorg gnome-desktop gdm ` 
 
-`gnome3-lite`
+
+
+
+
+
+```
+
+pkg install xorg gnome-desktop gdm 
+gnome3-lite | gnome3 
+```
 
 ```
 pkg_delete gnome3-lite
@@ -62,6 +98,36 @@ moused_enable="YES"
 allscreens_flags="-m on"
 
 
+zfs_enable="YES"
+
+linux_enable="YES"
+
+ntpd_enable="YES"
+ntpd_sync_on_start="YES"
+
+devfs_enable="YES"
+devfs_system_ruleset="devfsrules_common"
+
+dbus_enable="YES"
+lightdm_enable="YES"
+
+webcamd_enable="YES"
+
+cupsd_enable="YES"
+
+avahi_daemon_enable="YES"
+avahi_dnsconfd_enable="YES"
+
+moused_enable="YES"
+
+ipfw_enable="YES"
+firewall_enable="YES"
+
+ifconfig_em0="DHCP"
+
+keymap="us.kbd"
+
+hostname="frbsd.local"
 ```
 
 
@@ -113,6 +179,7 @@ Out of the box, you won't find sudo installed on FreeBSD. Because of this, you'l
 
 First, install sudo with the command:
 
+pkg install security/ca_root_nss
 pkg install security/sudo
 
 Open the sudoers file for editing with the command:
