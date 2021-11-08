@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>Frankly</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="New Chart 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>ORGANIZATION_DOWN</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="圓運動的古中醫學" x="480" y="20" width="163" height="45" text_b="12, 12, 138, 21">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+            <font font_family="宋体" size="12" style="Regular" />
+          </style>
+          <nodes>
+            <node id="2" text="1.原理上篇" x="515" y="145" width="93" height="25" text_b="2, 2, 88, 21" fold_btn_b="555, 170, 13, 13">
+              <style>
+                <font font_family="宋体" size="12" style="Regular" />
+              </style>
+              <nodes>
+                <node id="3" text="2.古方上篇" x="515" y="250" width="93" height="25" text_b="2, 2, 88, 21" fold_btn_b="555, 275, 13, 13">
+                  <style>
+                    <font font_family="宋体" size="12" style="Regular" />
+                  </style>
+                  <nodes>
+                    <node id="4" text="2.2原理下" x="369" y="355" width="85" height="25" text_b="2, 2, 80, 21">
+                      <style>
+                        <back_color>#FF8000</back_color>
+                        <font font_family="宋体" size="12" style="Regular" />
+                      </style>
+                    </node>
+                    <node id="5" text="2.1脈法" x="464" y="355" width="69" height="25" text_b="2, 2, 64, 21">
+                      <style>
+                        <font font_family="宋体" size="12" style="Regular" />
+                      </style>
+                    </node>
+                    <node id="6" text="3.溫病本氣" x="602" y="355" width="93" height="25" text_b="2, 2, 88, 21" fold_btn_b="642, 380, 13, 13">
+                      <style>
+                        <font font_family="宋体" size="12" style="Regular" />
+                      </style>
+                      <nodes>
+                        <node id="7" text="4.兒病本氣" x="602" y="460" width="93" height="25" text_b="2, 2, 88, 21" fold_btn_b="642, 485, 13, 13">
+                          <style>
+                            <font font_family="宋体" size="12" style="Regular" />
+                          </style>
+                          <nodes>
+                            <node id="8" text="5.時病本氣" x="602" y="565" width="93" height="25" text_b="2, 2, 88, 21" fold_btn_b="642, 590, 13, 13">
+                              <style>
+                                <font font_family="宋体" size="12" style="Regular" />
+                              </style>
+                              <nodes>
+                                <node id="9" text="6.金匱方解" x="602" y="670" width="93" height="25" text_b="2, 2, 88, 21" fold_btn_b="642, 695, 13, 13">
+                                  <style>
+                                    <font font_family="宋体" size="12" style="Regular" />
+                                  </style>
+                                  <nodes>
+                                    <node id="10" text="7.古方中" x="610" y="775" width="77" height="25" text_b="2, 2, 72, 21" fold_btn_b="642, 800, 13, 13">
+                                      <style>
+                                        <font font_family="宋体" size="12" style="Regular" />
+                                      </style>
+                                      <nodes>
+                                        <node id="11" text="8.古方下" x="610" y="880" width="77" height="25" text_b="2, 2, 72, 21" fold_btn_b="642, 905, 13, 13">
+                                          <style>
+                                            <font font_family="宋体" size="12" style="Regular" />
+                                          </style>
+                                          <nodes>
+                                            <node id="12" text="傷寒六經" x="543" y="985" width="77" height="25" text_b="2, 2, 72, 21">
+                                              <style>
+                                                <back_color>#FF8000</back_color>
+                                                <font font_family="宋体" size="12" style="Regular" />
+                                              </style>
+                                            </node>
+                                            <node id="13" text="9.傷寒" x="663" y="985" width="59" height="25" text_b="2, 2, 55, 21" fold_btn_b="686, 1010, 13, 13">
+                                              <style>
+                                                <font font_family="宋体" size="12" style="Regular" />
+                                              </style>
+                                              <nodes>
+                                                <node id="14" text="10.生命宇宙" x="642" y="1090" width="101" height="25" text_b="2, 2, 96, 21" fold_btn_b="686, 1115, 13, 13">
+                                                  <style>
+                                                    <font font_family="宋体" size="12" style="Regular" />
+                                                  </style>
+                                                  <nodes>
+                                                    <node id="15" text="11.湯頭改錯" x="642" y="1195" width="101" height="25" text_b="2, 2, 96, 21" fold_btn_b="686, 1220, 13, 13">
+                                                      <style>
+                                                        <back_color>#FF8000</back_color>
+                                                        <font font_family="宋体" size="12" style="Regular" />
+                                                      </style>
+                                                      <nodes>
+                                                        <node id="16" text="最後。汪王醫案" x="630" y="1300" width="125" height="25" text_b="2, 2, 121, 21">
+                                                          <style>
+                                                            <back_color>Red</back_color>
+                                                            <font font_family="宋体" size="12" style="Regular" />
+                                                          </style>
+                                                        </node>
+                                                      </nodes>
+                                                      <lines>
+                                                        <line target="16" begin_side="Bottom" end_side="Top" begin_rect="642, 1195, 101, 38" end_rect="626, 1296, 133, 33" />
+                                                      </lines>
+                                                    </node>
+                                                  </nodes>
+                                                  <lines>
+                                                    <line target="15" begin_side="Bottom" end_side="Top" begin_rect="642, 1090, 101, 38" end_rect="638, 1191, 109, 33" />
+                                                  </lines>
+                                                </node>
+                                              </nodes>
+                                              <lines>
+                                                <line target="14" begin_side="Bottom" end_side="Top" begin_rect="663, 985, 59, 38" end_rect="638, 1086, 109, 33" />
+                                              </lines>
+                                            </node>
+                                          </nodes>
+                                          <lines>
+                                            <line target="12" begin_side="Bottom" end_side="Top" begin_rect="610, 880, 77, 38" end_rect="539, 981, 85, 33" />
+                                            <line target="13" begin_side="Bottom" end_side="Top" begin_rect="610, 880, 77, 38" end_rect="659, 981, 67, 33" />
+                                          </lines>
+                                        </node>
+                                      </nodes>
+                                      <lines>
+                                        <line target="11" begin_side="Bottom" end_side="Top" begin_rect="610, 775, 77, 38" end_rect="606, 876, 85, 33" />
+                                      </lines>
+                                    </node>
+                                  </nodes>
+                                  <lines>
+                                    <line target="10" begin_side="Bottom" end_side="Top" begin_rect="602, 670, 93, 38" end_rect="606, 771, 85, 33" />
+                                  </lines>
+                                </node>
+                              </nodes>
+                              <lines>
+                                <line target="9" begin_side="Bottom" end_side="Top" begin_rect="602, 565, 93, 38" end_rect="598, 666, 101, 33" />
+                              </lines>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="8" begin_side="Bottom" end_side="Top" begin_rect="602, 460, 93, 38" end_rect="598, 561, 101, 33" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="7" begin_side="Bottom" end_side="Top" begin_rect="602, 355, 93, 38" end_rect="598, 456, 101, 33" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="4" begin_side="Bottom" end_side="Top" begin_rect="515, 250, 93, 38" end_rect="365, 351, 93, 33" />
+                    <line target="5" begin_side="Bottom" end_side="Top" begin_rect="515, 250, 93, 38" end_rect="460, 351, 77, 33" />
+                    <line target="6" begin_side="Bottom" end_side="Top" begin_rect="515, 250, 93, 38" end_rect="598, 351, 101, 33" />
+                  </lines>
+                </node>
+              </nodes>
+              <lines>
+                <line target="3" begin_side="Bottom" end_side="Top" begin_rect="515, 145, 93, 38" end_rect="511, 246, 101, 33" />
+              </lines>
+            </node>
+          </nodes>
+          <lines>
+            <line target="2" begin_side="Bottom" end_side="Top" begin_rect="480, 20, 163, 45" end_rect="511, 141, 101, 33" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>
