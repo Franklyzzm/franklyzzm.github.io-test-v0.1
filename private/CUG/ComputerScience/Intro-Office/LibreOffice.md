@@ -1,5 +1,13 @@
 # LIBREOFFICE
 
+## 安裝 Install
+
+base
+
+sudo apt install libreoffice-sdbc-hsqldb 
+
+
+
 ## Writer 文本文檔
 
 
