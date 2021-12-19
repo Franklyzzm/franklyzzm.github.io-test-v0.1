@@ -27,3 +27,11 @@
     * `sudo apt install libreoffice` 办公软件
 
 至此，已经基本满足家庭影音、文字办公需求。
+
+
+
+## 常見問題 F Q&A
+
+1. 問：Ubuntu 休眠 睡眠 鍵盤、鼠標無法喚醒。
+   答：
+
