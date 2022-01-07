@@ -210,7 +210,7 @@
             <padding>12</padding>
           </style>
           <nodes>
-            <node id="2" text="中醫基礎 診斷" x="503" y="250" width="117" height="25" text_b="2, 2, 113, 21" fold_btn_b="555, 275, 13, 13">
+            <node id="2" text="中醫基礎" x="523" y="250" width="77" height="25" text_b="2, 2, 72, 21" fold_btn_b="555, 275, 13, 13">
               <nodes>
                 <node id="3" text="經脈" x="540" y="355" width="43" height="25" text_b="2, 2, 39, 21" fold_btn_b="555, 380, 13, 13">
                   <nodes>
@@ -242,12 +242,12 @@
                 </node>
               </nodes>
               <lines>
-                <line target="3" begin_side="Bottom" end_side="Top" begin_rect="503, 250, 117, 38" end_rect="536, 351, 51, 33" />
+                <line target="3" begin_side="Bottom" end_side="Top" begin_rect="523, 250, 77, 38" end_rect="536, 351, 51, 33" />
               </lines>
             </node>
           </nodes>
           <lines>
-            <line target="2" begin_side="Bottom" end_side="Top" begin_rect="530, 125, 63, 45" end_rect="499, 246, 125, 33" />
+            <line target="2" begin_side="Bottom" end_side="Top" begin_rect="530, 125, 63, 45" end_rect="519, 246, 85, 33" />
           </lines>
         </node>
       </nodes>
