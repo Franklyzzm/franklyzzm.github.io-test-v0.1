@@ -131,23 +131,6 @@ Ubuntu is a complete desktop Linux operating system, freely available with both 
 
 
 
-#### Deepin
-
-deepin (formerly, Deepin, Linux Deepin, Hiweed GNU/Linux) is a Debian-based distribution (it was Ubuntu-based until version 15 released in late 2015) that aims to provide an elegant, user-friendly and reliable operating system. It does not only include the best the open source world has to offer, but it has also created its own desktop environment called DDE or Deepin Desktop Environment which is based on the Qt 5 toolkit. Deepin focuses much of its attention on intuitive design. Its home-grown applications, like Deepin Software Centre, DMusic and DPlayer are tailored to the average user. Being easy to install and use, deepin can be a good Windows alternative for office and home use.
-
-**OS Type:** Linux
-
-**Based on:** Debian
-
-**Origin:** China
-
-**Other reading:**
-
-* https://deepin.org/
-* https://wiki.deepin.org/
-
-
-
 #### Parrot
 
 Parrot (formerly Parrot Security OS) is a Debian-based, security-oriented distribution featuring a collection of utilities designed for penetration testing, computer forensics, reverse engineering, hacking, privacy, anonymity and cryptography. The product, developed by Frozenbox, comes with MATE as the default desktop environment.
@@ -173,6 +156,31 @@ Kali Linux (formerly known as BackTrack) is a Debian-based distribution with a c
 **Based on:** Debian (Testing)
 
 **Origin:** Switzerland
+
+**Kali [Branches](https://www.kali.org/docs/general-use/kali-branches/)：**
+
+- **kali-rolling**
+- **kali-last-snapshot**
+
+```
+debian-experimental->debian-unstable->debian-testing->kali-dev->kali-rolling->kali-last-snapshot
+      |                    |                            ^   ^     ^     |
+      v                    v                            |   |     |     |
+      -----------------------------> kali-debian-picks -|   |     |     ----> kali-bleeding-edge
+                                                            |     |                 ^
+kali-experimental -> kali-dev-only -------------------------|     |                 |
+                                                                  |             Upstream
+kali-rolling-only ------------------------------------------------|
+
+```
+
+
+
+
+
+
+
+
 
 
 
