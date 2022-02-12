@@ -59,6 +59,14 @@ FreeBSD is a UNIX-like operating system for the i386, amd64, IA-64, arm, MIPS, p
 * https://www.freebsd.org
 * https://www.freebsd.org/support.html
 
+```
+## 版本
+
+* Release 發行版
+```
+
+
+
 
 
 #### FreeNAS
