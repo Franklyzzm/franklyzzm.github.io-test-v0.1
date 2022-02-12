@@ -252,6 +252,8 @@ BD
 
 [Free Download Manager(FDM)](https://www.freedownloadmanager.org/)
 
+[Fritzing](https://fritzing.org/)
+
 
 
 ### <a name="Gg">G</a>
