@@ -6,7 +6,7 @@
 
 ### 材料準備
 
-* 一個 4GB 以上容量的U盤
+* 一個 8GB 以上容量的U盤
 * Microsoft Windows 7 或 更新版本
 * [Rufus](https://rufus.ie/), 一個免費開源的啟動盤製作工具
 * 一份 Ubuntu ISO 鏡像文件。下載地址： [Get Ubuntu](https://www.ubuntu.com/download) 

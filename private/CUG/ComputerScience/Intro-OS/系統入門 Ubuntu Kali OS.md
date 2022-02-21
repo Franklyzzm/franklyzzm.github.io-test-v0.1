@@ -35,3 +35,14 @@
 1. 問：Ubuntu 休眠 睡眠 鍵盤、鼠標無法喚醒。
    答：
 
+
+
+# Kali OS 入門
+
+## 介绍 Introduce
+
+## 版本 **Kali [Branches](https://www.kali.org/docs/general-use/kali-branches/)：**
+
+- **kali-rolling**
+- **kali-last-snapshot** yyyy.1/yyyy.2/...
+

@@ -12,6 +12,14 @@ U 盤 8GB+ USB Driver
 
 
 
+更換國内鏡像源，`/etc/apt/sources.list `
+
+```
+deb https://mirrors.ustc.edu.cn/
+```
+
+
+
 sudo apt update
 
 sudo apt upgrade

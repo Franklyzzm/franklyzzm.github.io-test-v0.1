@@ -34,6 +34,8 @@ sudo apt-get install sublime-text
 
 ### Typora
 
+正式發佈版，開始**收費**，根據個人情況自行決定更新，不更新請禁用此鏡像源。
+
 ```bash
 # or run:
 # sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys BA300B7755AFCFAE
