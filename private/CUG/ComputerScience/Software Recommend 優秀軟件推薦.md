@@ -76,8 +76,10 @@
 
 ## 教育 Education
 
-* GoldenDict
-* Calibre
+* GoldenDict — 詞典
+* Calibre — 電子書
+* Anki — 輔助記憶
+* 
 
 
 
