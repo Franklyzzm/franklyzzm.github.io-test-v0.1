@@ -1,6 +1,6 @@
 # 路由器 | ROUTERS
 
-## ARM V8 ([arm64](https://en.wikipedia.org/wiki/ARM_architecture#64-bit)) 64bit
+## ARM V8 ([aarch64](https://en.wikipedia.org/wiki/ARM_architecture#64-bit)) 64bit
 
 ### ac
 
@@ -57,7 +57,7 @@ RT-AX66U-
 
 RT-AX68U-
 
-RT-AX86U-
+RT-AX86U-5700
 
 RT-AX88U-6000
 
