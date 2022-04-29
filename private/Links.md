@@ -7,8 +7,8 @@
 | **搜索** | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [搜狗](https://www.sogou.com) | [搜微信](https://weixin.sogou.com) | [维基百科](https://wikipedia.org) | **工具** | [火車票](https://www.12306.cn) | [地圖](https://www.openstreetmap.org/) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) | [谷歌學術](https://scholar.google.com) |
 | **購物** | [京東](https://www.jd.com)     | [淘寶](https://www.taobao.com) | [當當](https://www.dangdang.com)  | [1688](https://www.1688.com) | [维基文庫](https://wikisource.org) | **郵箱** | [谷歌郵箱](https://mail.google.com) | [雅虎郵箱](https://mail.yahoo.com) | [新浪郵箱](https://mail.163.com)                        | [騰訊郵箱](https://mail.qq.com)         | [139 郵箱](https://mail.139.com)       |
 | **影音** | [央視](https://tv.cctv.com/live/cctv1) | [B 站](https://www.bilibili.com) | [咪咕音樂](https://music.migu.cn) | [QQ音樂](https://y.qq.com)       | [维基圖書](https://wikibooks.org) | **追劇** | [人人影視](https://www.rrys.tv) | [愛奇藝](https://www.iqiyi.com) | [優酷](https://www.youku.com) |  | [質子郵箱](https://www.protonmail.com) |
-| **其他** | [知乎](https://www.zhihu.com) | [豆瓣](https://www.douban.com) | [微博](https://www.weibo.com) | [微信網頁版](https://web.wechat.com) | [維基學院](https://wikiversity.org) | **無名** | [漢典](https://www.zdic.net/) | [北郵人導航](https://byr.wiki) | [科學上網](https://github.com/byrwiki/byrwiki/issues/13) | [今日熱榜](https://tophub.today/) | [新華網](http://www.xinhuanet.com/) |
-| **推薦** | [國務院](https://www.gov.cn) | [人民日報](www.people.com.cn)    |  |                                      | [中圖網](https://www.bookschina.com) |          | [學習强國](https://www.xuexi.cn) |                                     | [國圖](https://www.nlc.cn/)                              | [中國知網](https://cnki.net/) | [NCBI](https://www.ncbi.nlm.nih.gov/) |
+| **其他** | [知乎](https://www.zhihu.com) | [豆瓣](https://www.douban.com) | [微博](https://www.weibo.com) | [微信網頁版](https://web.wechat.com) | [維基學院](https://wikiversity.org) | **無名** | [學習强國](https://www.xuexi.cn) | [北郵人導航](https://byr.wiki) | [科學上網](https://github.com/byrwiki/byrwiki/issues/13) | [今日熱榜](https://tophub.today/) | [新華網](http://www.xinhuanet.com/) |
+| **推薦** | [國務院](https://www.gov.cn) | [人民日報](https://www.people.com.cn)    |  |                                      | [中圖網](https://www.bookschina.com) |  | [漢典](https://www.zdic.net/) | [千篇](https://www.qianp.com/) |                               | [國圖](https://www.nlc.cn/) | [NCBI](https://www.ncbi.nlm.nih.gov/) |
 | **[農曆](https://www.rili.com.cn/wannianli/)** |                                  |                                      |            |      |  |  | [石墨文档](https://shimo.im/welcome) | [金山文档](https://www.kdocs.cn/welcome) | [腾讯文档](https://docs.qq.com/) | [东方财富](https://www.eastmoney.com/) | [同花顺](http://www.10jqka.com.cn/) |
 
 ㄅB ㄆP ㄇM ㄈF ㄉD ㄊT ㄋN ㄌL ㄍG ㄎK ㄏH ㄐJ ㄑQ ㄒX ㄓZH ㄔCH ㄕSH ㄖR ㄗZ ㄘC ㄙS 
@@ -27,9 +27,9 @@
 
 [中國國家圖書館](https://www.nlc.cn/)
 
-[中國知網](https://cnki.net/)
-
 [漢典](https://www.zdic.net/)
+
+[千篇](https://www.qianp.com/)
 
 [中國大學慕課MOOC](https://www.icourse163.org/)
 
@@ -102,11 +102,12 @@ NCBI
 #### 思維導圖 MindMap
 
 * 藝圖 MindMaster
+* XMind 
 
 #### 教育 Education
 
-* GoldenDict
-* Calibre
+* GoldenDict 电子词典
+* Calibre 电子书阅读器
 
 #### 網絡 Internet
 
@@ -116,7 +117,7 @@ NCBI
 * Free Download Manager 
 * µTorrent 
 * Resilio sync 
-* FileZilla
+* FileZilla 
 
 **通訊**
 
@@ -131,7 +132,7 @@ NCBI
 #### 圖形與設計 Photo & Design
 
 * **G**NU **I**mage **M**anipulation **P**rogram (**GIMP**) 
-* Inkscape 
+* Inkscape 矢量图
 * Blender — 2D & 3D 圖形和動畫軟件
 * Krita — 2D 圖形和動畫軟件
 
@@ -148,10 +149,10 @@ NCBI
 
 #### 學術 Acade
 
-* Mathpix Snip
-* CopyTranslator
-* Zotero
-* Fritzing
+* Mathpix Snip 
+* CopyTranslator 
+* Zotero 学术文献管理
+* Fritzing 电路
 
 #### 專業工具 Prof
 
@@ -159,17 +160,26 @@ NCBI
 
 #### 系統工具 System tools
 
-* tree — 目录结构
+* [tree](https://mama.indstate.edu/users/ice/tree/) — 目录结构
+
+* [Everything](https://www.voidtools.com/) — 本地搜索
+
 * [Rufus](https://rufus.akeo.ie/) — Rufus 是 Ubuntu 官网推荐的 USB 启动盘制作工具。
+
 * [Etcher](https://www.balena.io/etcher/) — balenaEtcher USB 启动盘制作工具
+
 * [微PE工具箱](https://www.wepe.com.cn/) — 制作 U 盘启动盘 [荐]
 
   > 这款微 PE 的好处就是绝对纯净，没有任何的捆绑软件及主页，最重要的一点就是该工具绿色，没有软件安装过程，直接双击 exe 文件即可开始制作 U 盘启动盘。
 
 * [EasyBCD](https://neosmart.net/EasyBCD/) — 用于配置和调整系统引导问题
+
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html#version-history) — 最权威的处理器和相关系统信息识别工具
+
 * [GPU-Z](https://www.techpowerup.com/gpuz/) — 最权威的顯卡和相关系统信息识别工具
+
 * ChipGenius — U 盘芯片檢測工具
+
 * SpaceSniffer — 磁盤空間使用
 
 
@@ -177,11 +187,13 @@ NCBI
 #### 其他 Other
 
 * Virtual Box — 虛擬機
-* Flux — 亮度调节 护眼软件
+* [Flux](https://justgetflux.com/) — 亮度调节 护眼软件
 * TeamViewer — 遠程控制
 * Everything — 本地搜索
 * Listary — 搜索
 * [蓝灯(Lantern)](https://github.com/getlantern/lantern) — VPN 有免费 500M 流量。
+*  
+* 
 * [光年VPN](https://www.lightyearvpn.com/) — 含两个免费节点。支持 Windows、MacOS。
 * [TouchVPN](https://touchvpn.net/) — 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
 * Parallels ($$) — mac虛擬機
@@ -207,6 +219,10 @@ BD
 ## 索引 INDEX A-Z
 
 ### <a name="Aa">A</a>
+
+[Apple](https://www.apple.com/)
+
+
 
 ### <a name="Bb">B</a>
 
@@ -304,6 +320,8 @@ BD
 
 [Krita](https://krita.org/)
 
+[Kubuntu](https://kubuntu.org/)
+
 
 
 ### <a name="Ll">L</a>
@@ -346,6 +364,8 @@ BD
 
 [Notepad++](https://notepad-plus-plus.org/)
 
+Nord
+
 
 
 ### <a name="Oo">O</a>
@@ -355,6 +375,8 @@ BD
 [OBS Studio](https://obsproject.com/)
 
 [Olive](https://www.olivevideoeditor.org/)
+
+[Overleaf](https://www.overleaf.com/)
 
 
 
@@ -369,6 +391,10 @@ BD
 
 
 ### <a name="Qq">Q</a>
+
+千篇
+
+
 
 ### <a name="Rr">R</a>
 
@@ -392,17 +418,21 @@ BD
 
 [Stellarium](https://stellarium.org/)
 
+Surf
+
 
 
 ### <a name="Tt">T</a>
 
-[Typora](https://typora.io)
+[Typora](https://typora.io) 
 
-[Thunderbird](https://www.thunderbird.net/)
+[Thunderbird](https://www.thunderbird.net/) 
 
-[TeamViewer](https://www.teamviewer.com/en/)
+[TeamViewer](https://www.teamviewer.com/en/) 
 
-[Telegram](https://telegram.org/)
+[Telegram](https://telegram.org/) 
+
+tree
 
 
 
@@ -425,6 +455,15 @@ BD
 ### <a name="Ww">W</a>
 
 [Wikipedia](https://www.wikipedia.org)
+
+Wikisource
+
+Wikibooks
+
+Wikiversity
+
+
+
 [WPS](https://wps.com) （[CN](https://wps.cn)）
 
 
@@ -446,8 +485,6 @@ BD
 [Zotero](https://www.zotero.org/)
 
 [中國國家圖書館](https://www.nlc.cn/)
-
-[中國知網](https://cnki.net/)
 
 
 
