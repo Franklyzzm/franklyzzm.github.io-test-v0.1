@@ -25,7 +25,8 @@
 * gmail
 * yahoo
 * outlook
-* 
+* yandex（俄羅斯）
+* protonmail（不通ru）
 
 | 商家             | ping | 丢失 |
 | ---------------- | ---- | ---- |
