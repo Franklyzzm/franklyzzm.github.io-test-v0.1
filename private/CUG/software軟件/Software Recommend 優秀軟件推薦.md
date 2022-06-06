@@ -28,18 +28,17 @@
 
 其他 Other 
 
-
-
 ## 文本編輯 Text Editor
 
 * [Sublime Text](https://www.sublimetext.com/3) （Mac/Win/Linux）
+
 * [Notepad++](https://notepad-plus-plus.org/downloads/v7.8.8/) （~~Mac~~/Win/~~Linux~~）
+
 * [Typora](https://typora.io/#download) （Mac/Win/Linux）
 
 * Vim/vi
+
 * nano
-
-
 
 ## 辦公軟件 Office
 
@@ -47,8 +46,6 @@
 * [WPS Office](https://www.wps.com/download/) （Mac/Win/Linux）` Mac3.x 以上版本强制登陆，不推荐`
 * MS Office ($$) （Mac/Win/~~Linux~~）
 * iWork （Mac/~~Win~~/~~Linux~~）
-
-
 
 ## 文檔編輯排版 Document
 
@@ -58,21 +55,15 @@
 * Miktex （~~Mac~~/Win/~~Linux~~）
 * Scribus
 
-
-
 ## 筆記 Notebook
 
 * Simplenote
 * OneNote
 
-
-
 ## 思維導圖 MindMap
 
 * Blumind
 * 藝圖 MindMaster
-
-
 
 ## 教育 Education
 
@@ -80,8 +71,6 @@
 * Calibre — 電子書
 * Anki — 輔助記憶
 * 
-
-
 
 ## 網絡 Internet
 
@@ -115,8 +104,6 @@
 
 * VLC （Mac/Win/Linux）
 
-
-
 ## 圖形與設計 Photo & Design
 
 * GIMP （Mac/Win/Linux）
@@ -125,8 +112,6 @@
 * [Krita](https://krita.org) （Mac/Win/Linux）－ 2D 圖形和動畫軟件
 * PikoPixel
 * Darktable
-
-
 
 ## 影音處理 Audiovisual Processing
 
@@ -157,18 +142,26 @@
      Qtractor
     Mixxx
 
-    
-
 <!-- ~~audacity~~ 非法收集数据 -->
 
-
-
-## 密碼安全 
+## 密碼安全
 
 * KeepassXC （Mac/Win/Linux）－ 密碼管理
 * GnuPG （Mac/Win/Linux）－ 
 
+## 財務金融
 
+- HomeBank
+
+- GnuCash
+
+- MoneyManager EX
+
+- kmymoney
+
+- skrooge（~~Mac~~/~~Win~~/Linux）
+  
+  
 
 ## 學術 Acade
 
@@ -178,11 +171,7 @@
 * [Fritzing](https://fritzing.org/) 　—　PCB电路设计
 * GNU Octave
 
-
-
 ## 專業工具 Prof
-
-
 
 ## 系統工具 System
 
@@ -193,8 +182,8 @@
 * [Etcher](https://www.balena.io/etcher/) － balenaEtcher USB 启动盘制作工具
 
 * [微PE工具箱](http://www.wepe.com.cn/) － 制作 U 盘启动盘 [荐]
-
-    > 这款微 PE 的好处就是绝对纯净，没有任何的捆绑软件及主页，最重要的一点就是该工具绿色，没有软件安装过程，直接双击 exe 文件即可开始制作 U 盘启动盘。
+  
+  > 这款微 PE 的好处就是绝对纯净，没有任何的捆绑软件及主页，最重要的一点就是该工具绿色，没有软件安装过程，直接双击 exe 文件即可开始制作 U 盘启动盘。
 
 * [EasyBCD](https://neosmart.net/EasyBCD/) － 用于配置和调整系统引导问题
 
@@ -205,8 +194,6 @@
 * ChipGenius － U 盘芯片檢測工具
 
 * SpaceSniffer － 磁盤空間使用
-
-
 
 ## 其他 Other
 
@@ -221,8 +208,6 @@
 * [TouchVPN](https://touchvpn.net/) － 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
 * 
 
-
-
 ## 收費軟件 fee
 
 * GraphPad Prism （$$）－ 
@@ -236,7 +221,4 @@
 * Master PDF Editor（$$）－ 
 * Xmind（$$）－ 
 
-
-
 # 表格
-
