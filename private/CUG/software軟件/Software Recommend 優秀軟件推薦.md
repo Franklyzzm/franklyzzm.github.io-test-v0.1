@@ -151,15 +151,15 @@
 
 ## 財務金融
 
-- HomeBank
+- HomeBank ）－ 所有人都适用的免费、方便的个人记账软件
 
-- GnuCash
+- GnuCash ）－ 个人及小企业财务软件
 
-- MoneyManager EX
+- MoneyManager EX ）－ 免费、易于使用的个人理财软件
 
-- kmymoney
+- KMyMoney ）－ KDE下的个人财务管理者
 
-- skrooge（~~Mac~~/~~Win~~/Linux）
+- skrooge（~~Mac~~/~~Win~~/Linux）－ 
   
   
 
