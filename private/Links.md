@@ -496,4 +496,4 @@ Wikiversity
 
 
 
-[About Us]() [Contact Us]() [Sitemap]() [Disclaimer]() [Privacy Policy]() [Terms of Use]() [Mail to Admin](mailto:franklyzzm@yahoo.com) [Links](https://franklyzzm.github.io/links.html) 
+[About Us]() [Contact Us]() [Sitemap]() [Disclaimer]() [Privacy Policy]() [Terms of Use]() [Mail to Admin](mailto:franklyzzm@yahoo.com) [Links_KX.md](https://github.com/Franklyzzm/franklyzzm.github.io/blob/master/private/Links_KX.md) 
